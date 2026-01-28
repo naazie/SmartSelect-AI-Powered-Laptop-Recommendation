@@ -1,0 +1,198 @@
+{
+  "model_name": "Lenovo ThinkPad P17 Mobile Workstation",
+  "total_reviews": 949,
+  "platform_stats": {
+    "reddit": {
+      "positive": 595,
+      "neutral": 216,
+      "negative": 138,
+      "total_reviews": 949,
+      "sentiment_score": 0.482,
+      "avg_compound": 0.355
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 144,
+        "neutral": 11,
+        "negative": 15,
+        "total_reviews": 170,
+        "sentiment_score": 0.759,
+        "avg_compound": 0.62
+      },
+      "Students": {
+        "positive": 77,
+        "neutral": 6,
+        "negative": 7,
+        "total_reviews": 90,
+        "sentiment_score": 0.778,
+        "avg_compound": 0.668
+      },
+      "Content Creators": {
+        "positive": 63,
+        "neutral": 3,
+        "negative": 10,
+        "total_reviews": 76,
+        "sentiment_score": 0.697,
+        "avg_compound": 0.596
+      },
+      "Casual Users": {
+        "positive": 60,
+        "neutral": 0,
+        "negative": 14,
+        "total_reviews": 74,
+        "sentiment_score": 0.622,
+        "avg_compound": 0.583
+      },
+      "Programmers / Engineers": {
+        "positive": 81,
+        "neutral": 9,
+        "negative": 6,
+        "total_reviews": 96,
+        "sentiment_score": 0.781,
+        "avg_compound": 0.647
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "gen4 performance",
+          "battery temperature",
+          "factor lifespan"
+        ],
+        "negative": [
+          "play roblox",
+          "ssd overkill",
+          "option performance",
+          "comparison legion",
+          "eyes cs2"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "nvme ssd",
+          "performance ratio",
+          "switch gpus"
+        ],
+        "negative": [
+          "zephyrus legion",
+          "run cad",
+          "favor portability",
+          "personally backup",
+          "btd6 rarely"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "performance ratio",
+          "external cooling",
+          "chips special",
+          "switch gpus",
+          "display matte"
+        ],
+        "negative": [
+          "ssd overkill",
+          "storage likely",
+          "streaming playing",
+          "ddr3 does",
+          "quality costco"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "great build",
+          "sensitive performance",
+          "end ssd",
+          "refresh window",
+          "factor lifespan"
+        ],
+        "negative": [
+          "battery life",
+          "zephyrus legion",
+          "rtx 4070",
+          "2tb ssd",
+          "stuff gamers"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "panels contrast",
+          "dock egpu"
+        ],
+        "negative": [
+          "portability battery",
+          "ram rtx",
+          "rog zephyrus",
+          "legion trash",
+          "ve heard"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Also I don't plan on doing much gaming at all on the laptop I get, but I have a quest VR headset and I definitely want a laptop that's like VR ready or whatever, and will give me a better ve experience.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "That's basically the biggest thing in its favor following with the i7-14th gen, of which is the best of the best designation with HX, which basically means it's really cool (it can overclock, for enthusiasts only) I cannot vouch for build quality, unfortunately."
+        ],
+        "negative": [
+          "Battery replacement can be delayed, but you risk battery expansion (look up spicy pillow syndrome, severe cases can destroy your device, either by chemical or physical means.)",
+          "Idk why people say OLED bad this and OLED bad that.",
+          "No refurbished laptops online, big no no, especially if not from 1st party."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "I’m comparing two options: ASUS Vivobook S16 (16″, Ryzen 7, 32 GB RAM, 1 TB SSD) — great value, big screen, specs look strong ($999) A business-class laptop from the ThinkPad line (T14s P14s) — will cost more, might offer better build support features ($1709) Here are my main questions: 1.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "If you have a tip jar or something I'd happily throw $5 in it because wow have you been helpful and kind."
+        ],
+        "negative": [
+          "I hate seeing computer shop owners so jaded, because it tells of the abuse they have suffered.",
+          "Battery replacement can be delayed, but you risk battery expansion (look up spicy pillow syndrome, severe cases can destroy your device, either by chemical or physical means.)",
+          "My refurbished pc began to fail last week at the worst possible time and I realized I hadn't backed anything up in about two months."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "I’m comparing two options: ASUS Vivobook S16 (16″, Ryzen 7, 32 GB RAM, 1 TB SSD) — great value, big screen, specs look strong ($999) A business-class laptop from the ThinkPad line (T14s P14s) — will cost more, might offer better build support features ($1709) Here are my main questions: 1.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!"
+        ],
+        "negative": [
+          "Battery replacement can be delayed, but you risk battery expansion (look up spicy pillow syndrome, severe cases can destroy your device, either by chemical or physical means.)",
+          "Idk why people say OLED bad this and OLED bad that.",
+          "No refurbished laptops online, big no no, especially if not from 1st party."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely.",
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!"
+        ],
+        "negative": [
+          "Battery replacement can be delayed, but you risk battery expansion (look up spicy pillow syndrome, severe cases can destroy your device, either by chemical or physical means.)",
+          "T400 were on the very last intel core 2 duo chips, so no sse 4.2 and no avx, which makes modern usage kinda problematic.",
+          "So is it Amd Ryzen processor that sucks on it or is it some weird scam?"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!",
+          "Mobile workstation (HP vs Lenovo) Hi, I want to purchase 15 16-inch mobile workstation for heavy Imaging data analysis so excellent screen is a must), lots of Excel and Graphpad files which would be easy to navigate between as well."
+        ],
+        "negative": [
+          "I hate seeing computer shop owners so jaded, because it tells of the abuse they have suffered.",
+          "Battery replacement can be delayed, but you risk battery expansion (look up spicy pillow syndrome, severe cases can destroy your device, either by chemical or physical means.)",
+          "My refurbished pc began to fail last week at the worst possible time and I realized I hadn't backed anything up in about two months."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 70.31
+  }
+}

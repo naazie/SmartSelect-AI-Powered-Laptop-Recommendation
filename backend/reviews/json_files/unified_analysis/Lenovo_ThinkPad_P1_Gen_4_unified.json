@@ -1,0 +1,194 @@
+{
+  "model_name": "Lenovo ThinkPad P1 Gen 4",
+  "total_reviews": 563,
+  "platform_stats": {
+    "reddit": {
+      "positive": 244,
+      "neutral": 180,
+      "negative": 139,
+      "total_reviews": 563,
+      "sentiment_score": 0.187,
+      "avg_compound": 0.128
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 31,
+        "neutral": 2,
+        "negative": 2,
+        "total_reviews": 35,
+        "sentiment_score": 0.829,
+        "avg_compound": 0.629
+      },
+      "Students": {
+        "positive": 26,
+        "neutral": 2,
+        "negative": 1,
+        "total_reviews": 29,
+        "sentiment_score": 0.862,
+        "avg_compound": 0.659
+      },
+      "Content Creators": {
+        "positive": 14,
+        "neutral": 0,
+        "negative": 2,
+        "total_reviews": 16,
+        "sentiment_score": 0.75,
+        "avg_compound": 0.61
+      },
+      "Casual Users": {
+        "positive": 42,
+        "neutral": 6,
+        "negative": 26,
+        "total_reviews": 74,
+        "sentiment_score": 0.216,
+        "avg_compound": 0.193
+      },
+      "Programmers / Engineers": {
+        "positive": 31,
+        "neutral": 3,
+        "negative": 7,
+        "total_reviews": 41,
+        "sentiment_score": 0.585,
+        "avg_compound": 0.436
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "increase igpu",
+          "ssd rtx3050ti",
+          "port layout"
+        ],
+        "negative": [
+          "impact gaming",
+          "worse cpu",
+          "streaming adobe",
+          "original ac",
+          "wix design"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "240hz usage",
+          "storage getting"
+        ],
+        "negative": [
+          "charged theft",
+          "claim theft",
+          "accept claim",
+          "error example",
+          "usd"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "colors performance",
+          "thunderbolt far",
+          "base ghz",
+          "priority display",
+          "charger weight"
+        ],
+        "negative": [
+          "judging subdomain",
+          "seller returns",
+          "ac",
+          "checking phone",
+          "business netflix"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "power tinkering",
+          "240hz usage"
+        ],
+        "negative": [
+          "pricing error",
+          "suspicious card",
+          "waiting payment",
+          "happen hps",
+          "redirect phishing"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "dgpu rise",
+          "report silent"
+        ],
+        "negative": [
+          "scams website",
+          "store messed",
+          "website scored",
+          "malicious correct",
+          "checking phone"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "But it is getting tougher and tougher to choose as Asus has really done a good job making the ROG Zephyrus line pretty clean and sleek.",
+          "If your priority is gaming, the G16 should get you better graphics performance and will have the better screen (although both will have excellent screens), better speakers, and also include a lot of tuning software allowing you to adjust power limits, fan curves, keyboard lighting, etc.",
+          "Please help Hello, this is my first ever post but I can here because I know you all are honest and helpful."
+        ],
+        "negative": [
+          "I used one with a worse cpu and it ran the games mentioned normally with minimal problems",
+          "I don't think \"browsing web pages\" will be any demanding in the future, regarding \"future-proofity' You couldn't have known that in a few years time a few more chrome tabs could choke your system so much, could you?",
+          "But if you're mobile and need long unplugged sessions, the battery life sounds weak (which echoed in other reviews too)."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "But it is getting tougher and tougher to choose as Asus has really done a good job making the ROG Zephyrus line pretty clean and sleek.",
+          "Lenovo think pads are the best business class laptops since these are built for businesses they have extremely good build quality and are easy to repair and upgrade I would highly recommend the ThinkPad it will truly last",
+          "If your priority is gaming, the G16 should get you better graphics performance and will have the better screen (although both will have excellent screens), better speakers, and also include a lot of tuning software allowing you to adjust power limits, fan curves, keyboard lighting, etc."
+        ],
+        "negative": [
+          "I am currently thinking of getting the Lenovo ThinkPad P1 Gen 6, as it is on sale in Canada for around $1900 CAD, but I'm not too sure about it because I have heard about how it has poor battery life.",
+          "I wish I could get a really good one for my work but I am still too scared of breaking it or it being stolen.",
+          "Further, the character of the mistake was such that  similarly circumstanced as each of the plaintiffs would have had every reason to believe that a manifest error had occurred.” ."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Coming to the Ram, if I choose 32gb, I also have to choose the OLED screen; budget is not a problem, the fact is that the size of this laptop is perfect for me and I love the 16:10 form factor on a 15\" display.",
+          "Coming to the Ram, if I choose 32gb, I also have to choose the OLED screen; budget is not a problem, the fact is that the size of this laptop is perfect for me and I love the 16:10 form factor on a 15\" display.",
+          "Title: 7 Powerful Reasons the Lenovo Legion Pro 7i Gen 10 Review Says It’s a Game Changer in 2025 🎮 Hey everyone, I just read this review titled *“7 Powerful Reasons the Lenovo Legion Pro 7i Gen 10 Review Proves It’s a Game Changer in 2025”* and thought it’d be worth sharing discussing."
+        ],
+        "negative": [
+          "Correct me if I'm wrong, but aren't sites check response and then send info about a site, judging from 1) the subdomain, 2) the page ( in) and then parse arguments passed in the url if there are any?",
+          "But if you're mobile and need long unplugged sessions, the battery life sounds weak (which echoed in other reviews too).",
+          "* The OLED + 240 Hz combo is tempting, but in bright environments, reflections may kill the vibe."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "Had it happen a few times on websites, once at JD sports with some AF1 marked down to $20 instead of $200 but they ended up refunding everyone lol and once with a skate deck that was FREE, again they just emailed me saying lol no 😂",
+          "I didn't read the wall of text, but I meant if they accept the order and send a confirmation email then they have to honor it.",
+          "I feel like the average person should read more into the T&Cs so they know what they’re getting themselves into, but we don’t, so companies take advantage of that; and that is why we have lawyers :)"
+        ],
+        "negative": [
+          "Lenovos webshop has been notorious for having odd bugs, my father purchased a laptop years ago and for some reason the payment failed so he got pissed off and went to a store and bought one.",
+          "Lenovo's store is not [store.lenovo.com]( The whole website is a scam Lenovo's actual store website is [ Go to [lenovo.com]( | Click \"Products\" and look at the URL Whole website seems to be a scam, the only thing different should be the location and Language after [LOCATION LANGUAGE](",
+          "I'd go for it and see what happens if I were you, no harm in losing a rupee."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "But it is getting tougher and tougher to choose as Asus has really done a good job making the ROG Zephyrus line pretty clean and sleek.",
+          "If your priority is gaming, the G16 should get you better graphics performance and will have the better screen (although both will have excellent screens), better speakers, and also include a lot of tuning software allowing you to adjust power limits, fan curves, keyboard lighting, etc.",
+          "Please help Hello, this is my first ever post but I can here because I know you all are honest and helpful."
+        ],
+        "negative": [
+          "I am currently thinking of getting the Lenovo ThinkPad P1 Gen 6, as it is on sale in Canada for around $1900 CAD, but I'm not too sure about it because I have heard about how it has poor battery life.",
+          "He legit thought I was serious when I was saying Rupees are a fictional currency from Legend of Zelda and when I said no shit he still thought I was being serious.",
+          "I’m curious whether this was a scam link (My personal knowledge says that’s not possible coz store.lenovo.com seems legit, and doesn’t make sense to be a scam in terms of how DNS works) or the real store but someone messed up prices"
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 22.42
+  }
+}

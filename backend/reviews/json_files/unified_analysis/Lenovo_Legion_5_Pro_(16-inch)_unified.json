@@ -1,0 +1,168 @@
+{
+  "model_name": "Lenovo Legion 5 Pro (16-inch)",
+  "total_reviews": 45,
+  "platform_stats": {
+    "reddit": {
+      "positive": 32,
+      "neutral": 12,
+      "negative": 1,
+      "total_reviews": 45,
+      "sentiment_score": 0.689,
+      "avg_compound": 0.473
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 12,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 12,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.915
+      },
+      "Students": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 5,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.978
+      },
+      "Content Creators": {
+        "positive": 7,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 7,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.979
+      },
+      "Casual Users": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 5,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.932
+      },
+      "Programmers / Engineers": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 4,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.893
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "hinges displays",
+          "processor nail",
+          "1920x1080 performance",
+          "keyboard customize"
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [
+          "storage future",
+          "speed 7467",
+          "screen sunlight"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "glossy gpu",
+          "hinge replaced",
+          "ips display",
+          "5ghz wi",
+          "thunderbolt usb"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "processor nail",
+          "ips display",
+          "powerpoint lots",
+          "webcam microphone"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "gpu efficiency",
+          "screen sunlight"
+        ],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "The Yoga devices have problems with the hinges, but the displays are pretty nice (not Vivobook OLED nice though).",
+          "I'm thinking about sticking with the Intel because of the new and improved chasis, both M.2 SSD ports being PCIe Gen 5 compatible, improved cooling, ports, wifi, battery life, energy efficiency, and RGB.",
+          "I do not know much about the difference between AMD & Intel processors but from what I have heard AMD excels at multi tasking & Intel is better at running single tasks."
+        ],
+        "negative": [
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "microphone * fingerprint reader * backlit keyboard * WiFi 7 2x2 BE Killer 1750x * 2 USB 3.2 Gen 1 Ports, 2 USB C ports, HDMI, Audio In, Audio Out, microSD [](",
+          "No problem with buying used btw."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Based on that research I've decided to move forward on my purchase but have switched from the AMD to the Intel processor since the Intel model is newer, has an improved chasis, & has a lot of newly improved features that support more future proofing and quality of life than the older AMD model.",
+          "I do not know much about the difference between AMD & Intel processors but from what I have heard AMD excels at multi tasking & Intel is better at running single tasks.",
+          "His fathet owned a Legion Pro, the best Alienware 16 inch, & recently switched to the Strix G16 & loves it."
+        ],
+        "negative": [
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "microphone * fingerprint reader * backlit keyboard * WiFi 7 2x2 BE Killer 1750x * 2 USB 3.2 Gen 1 Ports, 2 USB C ports, HDMI, Audio In, Audio Out, microSD [](",
+          "No problem with buying used btw."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Based on that research I've decided to move forward on my purchase but have switched from the AMD to the Intel processor since the Intel model is newer, has an improved chasis, & has a lot of newly improved features that support more future proofing and quality of life than the older AMD model.",
+          "I do not know much about the difference between AMD & Intel processors but from what I have heard AMD excels at multi tasking & Intel is better at running single tasks.",
+          "His fathet owned a Legion Pro, the best Alienware 16 inch, & recently switched to the Strix G16 & loves it."
+        ],
+        "negative": [
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "microphone * fingerprint reader * backlit keyboard * WiFi 7 2x2 BE Killer 1750x * 2 USB 3.2 Gen 1 Ports, 2 USB C ports, HDMI, Audio In, Audio Out, microSD [](",
+          "No problem with buying used btw."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "I do not know much about the difference between AMD & Intel processors but from what I have heard AMD excels at multi tasking & Intel is better at running single tasks.",
+          "His fathet owned a Legion Pro, the best Alienware 16 inch, & recently switched to the Strix G16 & loves it.",
+          "Thanks for your help guys and gals I really appreciate it!"
+        ],
+        "negative": [
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "microphone * fingerprint reader * backlit keyboard * WiFi 7 2x2 BE Killer 1750x * 2 USB 3.2 Gen 1 Ports, 2 USB C ports, HDMI, Audio In, Audio Out, microSD [](",
+          "Here are the specs: Dell Precision 5690 Intel Core Ultra 7 155H (3.80 GHz) 32 GB RAM Speed 7467 MT s 1 TB SSD 128 MB Intel Arc Graphics 16 inch touchscreen I have had bad experiences with the Dell I used throughout high school."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "I do not know much about the difference between AMD & Intel processors but from what I have heard AMD excels at multi tasking & Intel is better at running single tasks.",
+          "His fathet owned a Legion Pro, the best Alienware 16 inch, & recently switched to the Strix G16 & loves it.",
+          "Thanks for your help guys and gals I really appreciate it!"
+        ],
+        "negative": [
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "No problem with buying used btw.",
+          "Here are the specs: Dell Precision 5690 Intel Core Ultra 7 155H (3.80 GHz) 32 GB RAM Speed 7467 MT s 1 TB SSD 128 MB Intel Arc Graphics 16 inch touchscreen I have had bad experiences with the Dell I used throughout high school."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 15.83
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "model_name": "Lenovo Luminaforge Pro",
+  "total_reviews": 598,
+  "platform_stats": {
+    "reddit": {
+      "positive": 380,
+      "neutral": 137,
+      "negative": 81,
+      "total_reviews": 598,
+      "sentiment_score": 0.5,
+      "avg_compound": 0.348
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 77,
+        "neutral": 5,
+        "negative": 6,
+        "total_reviews": 88,
+        "sentiment_score": 0.807,
+        "avg_compound": 0.634
+      },
+      "Students": {
+        "positive": 33,
+        "neutral": 3,
+        "negative": 5,
+        "total_reviews": 41,
+        "sentiment_score": 0.683,
+        "avg_compound": 0.627
+      },
+      "Content Creators": {
+        "positive": 46,
+        "neutral": 2,
+        "negative": 6,
+        "total_reviews": 54,
+        "sentiment_score": 0.741,
+        "avg_compound": 0.637
+      },
+      "Casual Users": {
+        "positive": 60,
+        "neutral": 4,
+        "negative": 6,
+        "total_reviews": 70,
+        "sentiment_score": 0.771,
+        "avg_compound": 0.616
+      },
+      "Programmers / Engineers": {
+        "positive": 38,
+        "neutral": 0,
+        "negative": 5,
+        "total_reviews": 43,
+        "sentiment_score": 0.767,
+        "avg_compound": 0.69
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "6e bluetooth",
+          "light portable",
+          "charger variants",
+          "ips panels"
+        ],
+        "negative": [
+          "eye strain",
+          "glossy display",
+          "egpu compatibility",
+          "multitasking bother",
+          "9i"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "camera screen",
+          "hours wifi",
+          "gpu ofc",
+          "lifespan",
+          "function keys"
+        ],
+        "negative": [
+          "badly tablet",
+          "battery life",
+          "accuracy touchpad",
+          "optional usb",
+          "reading typing"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "bluetooth artifacts",
+          "cooling optimized",
+          "panel seemingly",
+          "aluminum easily",
+          "charging thresholds"
+        ],
+        "negative": [
+          "speakers horrible",
+          "highly reflective",
+          "surface strain",
+          "battery performance",
+          "coming gaming"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "screen tuning",
+          "keyboard ninkear",
+          "xps sounds",
+          "displayport usb",
+          "ecnowakeup amdgpu"
+        ],
+        "negative": [
+          "download speed",
+          "hotspot s23",
+          "fine wi",
+          "bluetooth awful",
+          "tested ookla"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "touchpad unresponsive",
+          "bluetooth simply",
+          "white screen",
+          "webcam quality",
+          "setup thunderbolt"
+        ],
+        "negative": [
+          "oled 3k",
+          "touch screen",
+          "soon display",
+          "update issues",
+          "finally wifi"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "To be honest, if Arrow Lake is similarly efficient as Lunar Lake but more powerful (and thus there are laptops that are truly silent during normal use), I will definitely sell the laptop and get one with Arrow Lake.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "* The keyboard is incredible (one of the things I liked about the new model when I tried it at Best Buy) * The glass trackpad also feels amazing and has a fairly satisfying click (I prefer this to haptic personally)."
+        ],
+        "negative": [
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "Originally, I wrote a long post, but I didn't save it and it got lost.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Lenovo Pro 9i Yoga or Copilot+PC laptop Hi, I want to purchase 15 16-inch mobile laptop for heavy Imaging data analysis so excellent screen is a must), lots of Excel, Fiji imageJ (image analysis) and Graphpad files which would be easy to navigate between as well.",
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win."
+        ],
+        "negative": [
+          "Originally, I wrote a long post, but I didn't save it and it got lost.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "No lag, no misclicks."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Pretty happy with it, build quality is very good, screen is awesome, came with 64GB ram and 2TB drive.",
+          "* The keyboard is incredible (one of the things I liked about the new model when I tried it at Best Buy) * The glass trackpad also feels amazing and has a fairly satisfying click (I prefer this to haptic personally)."
+        ],
+        "negative": [
+          "The Lenovo is fast, but the jitters and lag it has when doing real-world stuff are unacceptable for me at that price.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "Originally, I wrote a long post, but I didn't save it and it got lost."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "To be honest, if Arrow Lake is similarly efficient as Lunar Lake but more powerful (and thus there are laptops that are truly silent during normal use), I will definitely sell the laptop and get one with Arrow Lake.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely."
+        ],
+        "negative": [
+          "Originally, I wrote a long post, but I didn't save it and it got lost.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "The above tasks would never challenge my HP Elite Dragonfly Chromebook, but that machine had historically bad battery life."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Lenovo Pro 9i Yoga or Copilot+PC laptop Hi, I want to purchase 15 16-inch mobile laptop for heavy Imaging data analysis so excellent screen is a must), lots of Excel, Fiji imageJ (image analysis) and Graphpad files which would be easy to navigate between as well.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "Originally, I wrote a long post, but I didn't save it and it got lost.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 231.65
+  }
+}

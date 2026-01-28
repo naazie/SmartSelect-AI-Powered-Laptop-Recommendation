@@ -1,0 +1,190 @@
+{
+  "model_name": "Lenovo_ThinkBook_16p_Gen_3",
+  "total_reviews": 937,
+  "platform_stats": {
+    "reddit": {
+      "positive": 429,
+      "neutral": 259,
+      "negative": 249,
+      "total_reviews": 937,
+      "sentiment_score": 0.192,
+      "avg_compound": 0.123
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 47,
+        "neutral": 5,
+        "negative": 12,
+        "total_reviews": 64,
+        "sentiment_score": 0.547,
+        "avg_compound": 0.359
+      },
+      "Students": {
+        "positive": 40,
+        "neutral": 5,
+        "negative": 11,
+        "total_reviews": 56,
+        "sentiment_score": 0.518,
+        "avg_compound": 0.416
+      },
+      "Content Creators": {
+        "positive": 17,
+        "neutral": 4,
+        "negative": 10,
+        "total_reviews": 31,
+        "sentiment_score": 0.226,
+        "avg_compound": 0.265
+      },
+      "Casual Users": {
+        "positive": 41,
+        "neutral": 8,
+        "negative": 35,
+        "total_reviews": 84,
+        "sentiment_score": 0.071,
+        "avg_compound": 0.102
+      },
+      "Programmers / Engineers": {
+        "positive": 36,
+        "neutral": 5,
+        "negative": 14,
+        "total_reviews": 55,
+        "sentiment_score": 0.4,
+        "avg_compound": 0.24
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "games mean",
+          "usb4 hdmi",
+          "60hz ips",
+          "wobbly hinge",
+          "difference astronomical"
+        ],
+        "negative": [
+          "managing gpu",
+          "16 7680",
+          "option overheating",
+          "sluggish times",
+          "options novo"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "mitigate battery"
+        ],
+        "negative": [
+          "email forces",
+          "claim theft",
+          "store blocked",
+          "business usage",
+          "does dram"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "dreaming gpu",
+          "separate keyboard",
+          "excessive ips"
+        ],
+        "negative": [
+          "16 gb",
+          "7680 vs",
+          "gpu initialization",
+          "trust youtubers",
+          "server client"
+        ]
+      },
+      "Casual Users": {
+        "positive": [],
+        "negative": [
+          "pricing error",
+          "suspicious card",
+          "battery bloat",
+          "cancel order",
+          "redirect phishing"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "usb charger",
+          "bezels sound"
+        ],
+        "negative": [
+          "scams website",
+          "website scored",
+          "checking phone",
+          "saying rupees",
+          "550 log"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright.",
+          "The trip to Micro Center, the fact that I was actually upgrading a laptop, the excitement I felt going into the Amazon Locker to retrieve my shiny new 32 gigs of RAM… Truly a wonderful experience.",
+          "I mostly play only old games, so this might not mean much to you, but Bayonetta, Sonic X Shadow Generations and Rocket League ran perfectly fine."
+        ],
+        "negative": [
+          "From what I've read Dell is not that great and many people hate them, have trouble with them, etc.",
+          "Laptops does have quite high failure rates and if people think failure=the company is bad then of course there’s not a single good brand.",
+          "Asus ROG line-up has 1 of the worst Liquid Metal applications I have ever seen, and all Asus laptops I have had in my hands had the exact same problem, aka, LM leaked away from the CPU and GPU area."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "So Apple insider report that Apple has good satisfaction surveys, which isn’t a surprise, because Apple has amazing marketing and brand loyalty.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright.",
+          "The trip to Micro Center, the fact that I was actually upgrading a laptop, the excitement I felt going into the Amazon Locker to retrieve my shiny new 32 gigs of RAM… Truly a wonderful experience."
+        ],
+        "negative": [
+          "Sorry to disagree but that is not a good example, and I don't want people thinking car complaints are always generic when there are 30k dollars on the line.",
+          "I get hardware manufacturing issues that are *consistent* - everyone complains \"HP=\" Hinge Problem\" - yet I see the same complaints about Asus, even ROG & TUF units.",
+          "Chipped batteries is the real and very bad problem."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright.",
+          "The trip to Micro Center, the fact that I was actually upgrading a laptop, the excitement I felt going into the Amazon Locker to retrieve my shiny new 32 gigs of RAM… Truly a wonderful experience.",
+          "I mostly play only old games, so this might not mean much to you, but Bayonetta, Sonic X Shadow Generations and Rocket League ran perfectly fine."
+        ],
+        "negative": [
+          "From what I've read Dell is not that great and many people hate them, have trouble with them, etc.",
+          "I see so much negative stuff about Asus that I'm still waiting for my 4-year-old Zenbook Flip S to die, and it has yet to do so.",
+          "BLACK SCREEN OF DEATH AFTER NVIDIA DRIVER UPDATE: Lenovo IdeaPad Gaming 3 (i5-10th Gen, GTX 1650) has NO DISPLAY on internal or external ports."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright.",
+          "Had it happen a few times on websites, once at JD sports with some AF1 marked down to $20 instead of $200 but they ended up refunding everyone lol and once with a skate deck that was FREE, again they just emailed me saying lol no 😂",
+          "The trip to Micro Center, the fact that I was actually upgrading a laptop, the excitement I felt going into the Amazon Locker to retrieve my shiny new 32 gigs of RAM… Truly a wonderful experience."
+        ],
+        "negative": [
+          "Lenovos webshop has been notorious for having odd bugs, my father purchased a laptop years ago and for some reason the payment failed so he got pissed off and went to a store and bought one.",
+          "I see so much negative stuff about Asus that I'm still waiting for my 4-year-old Zenbook Flip S to die, and it has yet to do so.",
+          "Lenovo's store is not [store.lenovo.com]( The whole website is a scam Lenovo's actual store website is [ Go to [lenovo.com]( | Click \"Products\" and look at the URL Whole website seems to be a scam, the only thing different should be the location and Language after [LOCATION LANGUAGE]("
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "In my limited experience, even my low-end 2020 macbook air (8gb ram, M1 chip) has been great, and I like that even well out of warranty I have on-demand free tech support.",
+          "The trip to Micro Center, the fact that I was actually upgrading a laptop, the excitement I felt going into the Amazon Locker to retrieve my shiny new 32 gigs of RAM… Truly a wonderful experience.",
+          "I mostly play only old games, so this might not mean much to you, but Bayonetta, Sonic X Shadow Generations and Rocket League ran perfectly fine."
+        ],
+        "negative": [
+          "I abuse the hell out of them in Construction sites and airports.",
+          "Asus ROG line-up has 1 of the worst Liquid Metal applications I have ever seen, and all Asus laptops I have had in my hands had the exact same problem, aka, LM leaked away from the CPU and GPU area.",
+          "BLACK SCREEN OF DEATH AFTER NVIDIA DRIVER UPDATE: Lenovo IdeaPad Gaming 3 (i5-10th Gen, GTX 1650) has NO DISPLAY on internal or external ports."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 46.76
+  }
+}

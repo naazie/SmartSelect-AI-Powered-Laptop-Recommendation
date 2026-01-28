@@ -1,0 +1,158 @@
+{
+  "model_name": "Lenovo Yoga Slim 7 Pro (16-inch)",
+  "total_reviews": 40,
+  "platform_stats": {
+    "reddit": {
+      "positive": 30,
+      "neutral": 7,
+      "negative": 3,
+      "total_reviews": 40,
+      "sentiment_score": 0.675,
+      "avg_compound": 0.476
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 9,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 10,
+        "sentiment_score": 0.9,
+        "avg_compound": 0.642
+      },
+      "Students": {
+        "positive": 6,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 6,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.802
+      },
+      "Content Creators": {
+        "positive": 8,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 9,
+        "sentiment_score": 0.889,
+        "avg_compound": 0.821
+      },
+      "Casual Users": {
+        "positive": 1,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 2,
+        "sentiment_score": 0.5,
+        "avg_compound": 0.479
+      },
+      "Programmers / Engineers": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 5,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.729
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "keyboard sounds",
+          "power draw",
+          "light modelling"
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [
+          "14 performance",
+          "light modelling"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "tool quality",
+          "light modelling"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "ips 3k",
+          "63wh battery",
+          "life hours"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "mousepad decent",
+          "delete key",
+          "connection declared"
+        ],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "The Yoga devices have problems with the hinges, but the displays are pretty nice (not Vivobook OLED nice though).",
+          "So which one do y'all think is a better option, it would be helpful with an explanation too :') I also wonder how the  compares to the ?",
+          "]( The Asus' advantages are much better battery life (8 hours vs 5 on Lenovo) and an HDMI port."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong.",
+          "Hi there, Firstly, you’re wrong about the Intel iGPU; it was the step from 10th to 11th (G7 at the end) where graphics proved massively."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "I hope HP Elitebooks and LG 16 Pro launch soon, I agree, both looks promising!",
+          "The press depth is decent and overall the typing feels reassuring and comfortable.",
+          "The Lenovo are more hoping the IGPU will be enough for me, instead being lighter for portability and better battery."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong.",
+          "This is enough to produce an audible damp sound which I find irritating."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Intel Lunar Lake Laptops 2025 []( * Integrated RAM on package for increased bandwidth and efficiency * Enhanced energy efficiency and battery life up to 24 hours (video playback) * Improved thermal management for cooler and quieter laptops.",
+          "So which one do y'all think is a better option, it would be helpful with an explanation too :') I also wonder how the  compares to the ?",
+          "]( The Asus' advantages are much better battery life (8 hours vs 5 on Lenovo) and an HDMI port."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong.",
+          "This is enough to produce an audible damp sound which I find irritating."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "So which one do y'all think is a better option, it would be helpful with an explanation too :') I also wonder how the  compares to the ?",
+          "Here are a few things I would like to have: - Portability (1.7kg or less) - Battery life (5-6 hours on average) - Heating issues (able to work with a laptop on couch or lap) I feel like these two below are the most  ones with ."
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "The press depth is decent and overall the typing feels reassuring and comfortable.",
+          "I tried a lot of Fan Control tools and the \"[Asus Fan Control V5]( allows to set the fan to a constant 2000rpm.",
+          "The only point that was initially a minus was the fan, which even in balanced energy and silent fan mode has a tendency to spin up and down when the CPU got anything to do, and the sharp spin up is very audible."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong.",
+          "This is enough to produce an audible damp sound which I find irritating."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 12.6
+  }
+}

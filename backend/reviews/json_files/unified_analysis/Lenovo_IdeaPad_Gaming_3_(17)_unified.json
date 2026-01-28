@@ -1,0 +1,195 @@
+{
+  "model_name": "Lenovo IdeaPad Gaming 3 (17)",
+  "total_reviews": 104,
+  "platform_stats": {
+    "reddit": {
+      "positive": 63,
+      "neutral": 29,
+      "negative": 12,
+      "total_reviews": 104,
+      "sentiment_score": 0.49,
+      "avg_compound": 0.342
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 26,
+        "neutral": 3,
+        "negative": 7,
+        "total_reviews": 36,
+        "sentiment_score": 0.528,
+        "avg_compound": 0.519
+      },
+      "Students": {
+        "positive": 7,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 8,
+        "sentiment_score": 0.75,
+        "avg_compound": 0.762
+      },
+      "Content Creators": {
+        "positive": 5,
+        "neutral": 2,
+        "negative": 0,
+        "total_reviews": 7,
+        "sentiment_score": 0.714,
+        "avg_compound": 0.657
+      },
+      "Casual Users": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 6,
+        "sentiment_score": 0.667,
+        "avg_compound": 0.691
+      },
+      "Programmers / Engineers": {
+        "positive": 6,
+        "neutral": 1,
+        "negative": 1,
+        "total_reviews": 8,
+        "sentiment_score": 0.625,
+        "avg_compound": 0.678
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "ryzen power",
+          "igpu reliability",
+          "handle game",
+          "temperatures higher",
+          "base speed"
+        ],
+        "negative": [
+          "gaming notebook",
+          "pad recommended",
+          "cooling solutions",
+          "light",
+          "years storage"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "gamer maybe",
+          "adapters",
+          "framerates necessarily",
+          "display serf"
+        ],
+        "negative": [
+          "vivobook 16",
+          "inspiron",
+          "php hello",
+          "techy",
+          "maybe light"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "handle gpu",
+          "touchpad numpad",
+          "important weight",
+          "adapters",
+          "display serf"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "core temperature",
+          "ips sync"
+        ],
+        "negative": [
+          "retailers canada",
+          "shop online",
+          "canada able",
+          "able shop",
+          "online"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "igpu reliability",
+          "lifetime battery",
+          "panel significant",
+          "fhd ips",
+          "thermal paste"
+        ],
+        "negative": [
+          "gaming emulators",
+          "coding gaming",
+          "rate r18",
+          "exchange rate",
+          "game primarily"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Also I'm a casual gamer, I've always had the dream of having dual monitors and all so needless to say I'll be doing that, but I want a nice sleek laptop which has pretty good specs.",
+          "I know the basics of laptops but that's pretty much about it, so I'd appreciate any help given!",
+          "Seen here: [ Seems quite fast compared with my 2018 Lenovo Ideapad for most things though the graphics card being integrated and only pulling around 2gb memory leaves something to be desired on the performance end for certain tasks even though it's perfectly great for most daily things."
+        ],
+        "negative": [
+          "stiffness is a little weak compared to other brands, but still no real reason to complain.",
+          "Also seems slightly user-serviceable (you can open it up to see the motherboard with CPU, GPU, fans and everything) Possibly user-serviceable but may have crude make.",
+          "I am really interested in No.1 (Acer Nitro 5), but I am afraid that it isn't as good as advertised due to lack of reviews."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Seen here: [ Seems quite fast compared with my 2018 Lenovo Ideapad for most things though the graphics card being integrated and only pulling around 2gb memory leaves something to be desired on the performance end for certain tasks even though it's perfectly great for most daily things.",
+          "please let me know, if these are good or just trash choices [ and [ can someone help me out to pick myself a good laptop (preferably from this website).",
+          "but — if you’re doing certain types of programming, especially stuff like machine learning, CUDA, or algorithm-heavy courses that require Windows-specific tools or GPU acceleration, then yeah, a Windows laptop might make more sense."
+        ],
+        "negative": [
+          "I am really interested in No.1 (Acer Nitro 5), but I am afraid that it isn't as good as advertised due to lack of reviews.",
+          "if you're focusing on gaming cuz any budget laptop can do daily school tasks no problem so I sat that aside.",
+          "Plus I didn't want to be that kid to haul out a loud ass spaceship in class."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Seen here: [ Seems quite fast compared with my 2018 Lenovo Ideapad for most things though the graphics card being integrated and only pulling around 2gb memory leaves something to be desired on the performance end for certain tasks even though it's perfectly great for most daily things.",
+          "please let me know, if these are good or just trash choices [ and [ can someone help me out to pick myself a good laptop (preferably from this website).",
+          "but — if you’re doing certain types of programming, especially stuff like machine learning, CUDA, or algorithm-heavy courses that require Windows-specific tools or GPU acceleration, then yeah, a Windows laptop might make more sense."
+        ],
+        "negative": [
+          "I'm a little confused by how that works exactly, because I saw another gaming PC that had a 10th generation but only a 2.5 Ghz clock speed, which seems odd.",
+          "Then again...I hear a lot of complaints about loud fans and heat and the giant adapters you apparently need to buy separately (what?!?",
+          "I also don't know about Asus but she seems to hate them, though I'm seeing ok reviews on the predator including lifespan reliability."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "I know the basics of laptops but that's pretty much about it, so I'd appreciate any help given!",
+          "Seen here: [ Seems quite fast compared with my 2018 Lenovo Ideapad for most things though the graphics card being integrated and only pulling around 2gb memory leaves something to be desired on the performance end for certain tasks even though it's perfectly great for most daily things.",
+          "please let me know, if these are good or just trash choices [ and [ can someone help me out to pick myself a good laptop (preferably from this website)."
+        ],
+        "negative": [
+          "I'm a little confused by how that works exactly, because I saw another gaming PC that had a 10th generation but only a 2.5 Ghz clock speed, which seems odd.",
+          "Nothing special, nothing awful.",
+          "Then again...I hear a lot of complaints about loud fans and heat and the giant adapters you apparently need to buy separately (what?!?"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "but — if you’re doing certain types of programming, especially stuff like machine learning, CUDA, or algorithm-heavy courses that require Windows-specific tools or GPU acceleration, then yeah, a Windows laptop might make more sense.",
+          "but — if you’re doing certain types of programming, especially stuff like machine learning, CUDA, or algorithm-heavy coursework that needs Windows-only tools or GPU acceleration, then yeah, a Windows laptop might make more sense.",
+          "also unlike something like an M4 or M3 Mac, which has dedicated media GPU cores optimized for ML tasks, this is just CPU + iGPU."
+        ],
+        "negative": [
+          "Also seems slightly user-serviceable (you can open it up to see the motherboard with CPU, GPU, fans and everything) Possibly user-serviceable but may have crude make.",
+          "I am really interested in No.1 (Acer Nitro 5), but I am afraid that it isn't as good as advertised due to lack of reviews.",
+          "Will use it till it dies but more probably once every AAA release becomes completely unplayable even at lowest settings."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 13.01
+  }
+}

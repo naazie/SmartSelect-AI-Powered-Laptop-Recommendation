@@ -1,0 +1,197 @@
+{
+  "model_name": "Lenovo IdeaPad Pro 5 (16-inch)",
+  "total_reviews": 99,
+  "platform_stats": {
+    "reddit": {
+      "positive": 73,
+      "neutral": 19,
+      "negative": 7,
+      "total_reviews": 99,
+      "sentiment_score": 0.667,
+      "avg_compound": 0.456
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 15,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 16,
+        "sentiment_score": 0.875,
+        "avg_compound": 0.642
+      },
+      "Students": {
+        "positive": 9,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 9,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.893
+      },
+      "Content Creators": {
+        "positive": 12,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 13,
+        "sentiment_score": 0.846,
+        "avg_compound": 0.736
+      },
+      "Casual Users": {
+        "positive": 10,
+        "neutral": 1,
+        "negative": 1,
+        "total_reviews": 12,
+        "sentiment_score": 0.75,
+        "avg_compound": 0.569
+      },
+      "Programmers / Engineers": {
+        "positive": 12,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 13,
+        "sentiment_score": 0.846,
+        "avg_compound": 0.736
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "hdmi thunderbolt",
+          "ssd 90hz",
+          "angle webcam",
+          "ship usb",
+          "glossy amoled"
+        ],
+        "negative": [
+          "hear lab",
+          "lab setting",
+          "quiet bedroom",
+          "bedroom gamer",
+          "lab"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "oled update",
+          "gpu power",
+          "swivel screen",
+          "resolution ips",
+          "flexible lighter"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "1tb ssd",
+          "gpu external",
+          "eprivacy oled",
+          "800nits",
+          "displaying 1920"
+        ],
+        "negative": [
+          "battery life",
+          "vsc codeblocks",
+          "eclipse running",
+          "power",
+          "heavier task"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "display highly",
+          "charge limit",
+          "light number"
+        ],
+        "negative": [
+          "battery life",
+          "vsc codeblocks",
+          "eclipse running",
+          "power",
+          "heavier task"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "oled update",
+          "dedicated gpu",
+          "wqxga displaying",
+          "flexible lighter",
+          "report calibration"
+        ],
+        "negative": [
+          "battery life",
+          "vsc codeblocks",
+          "eclipse running",
+          "power",
+          "heavier task"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "# Positives: * Stunning Design & Trackpad: The laptop looks sleek, almost like a MacBook, and the massive trackpad is so good that I hardly use a mouse.",
+          "* Solid Hinge & Great Keyboard: The hinge is easy to open with one hand and feels premium, while the keyboard is clicky and visually appealing.",
+          "* Outstanding Display: It's bright and colorful, with excellent HDR for movies."
+        ],
+        "negative": [
+          "The major concern is whether it will suffer from dead pixels and burn-in which I have read can happen with OLED displays and maybe I should stick with an LCD IPS screen.",
+          "I haven't got into games yet, but i'd expect it to kill my battery.",
+          "I did have had it click on random parts of this review i'm writing quite a few times.. but then again, i'm currently sitting at a bad angle."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "But I would love to experience what is might feel like to have the 32GB ram (if at all different).",
+          "Also, i love Taiwan (made in Taiwan <3), so Acer 'n Asus were actually my top choices (they do all the hard work of making everything, and are absolutely lovely people with an incredible culture to behold, so let them have all my monies!).",
+          "Better speakers, better keyboard (i prefer big keys over the macbook chiclet-style), betters looks (premium business ultrabook vs macbook clone), lighter (an insane 1.3kg), and most importantly a better battery (75w vs 65w, 12+ hours vs 8 in tests!"
+        ],
+        "negative": [
+          "I did have had it click on random parts of this review i'm writing quite a few times.. but then again, i'm currently sitting at a bad angle.",
+          "Also very important to note, []( that suffer from a grainy screen problem**--though, i don't know which exact models year have this problem.",
+          "I’m just heartbroken by the noise."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "# Positives: * Stunning Design & Trackpad: The laptop looks sleek, almost like a MacBook, and the massive trackpad is so good that I hardly use a mouse.",
+          "* Solid Hinge & Great Keyboard: The hinge is easy to open with one hand and feels premium, while the keyboard is clicky and visually appealing.",
+          "* Outstanding Display: It's bright and colorful, with excellent HDR for movies."
+        ],
+        "negative": [
+          "The major concern is whether it will suffer from dead pixels and burn-in which I have read can happen with OLED displays and maybe I should stick with an LCD IPS screen.",
+          "I'm kinda worried the battery life won't be great (as coding is a heavier task) and I would often use it in spots where power plugs aren't available lol",
+          "I did have had it click on random parts of this review i'm writing quite a few times.. but then again, i'm currently sitting at a bad angle."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "# Positives: * Stunning Design & Trackpad: The laptop looks sleek, almost like a MacBook, and the massive trackpad is so good that I hardly use a mouse.",
+          "* Solid Hinge & Great Keyboard: The hinge is easy to open with one hand and feels premium, while the keyboard is clicky and visually appealing.",
+          "* Outstanding Display: It's bright and colorful, with excellent HDR for movies."
+        ],
+        "negative": [
+          "The major concern is whether it will suffer from dead pixels and burn-in which I have read can happen with OLED displays and maybe I should stick with an LCD IPS screen.",
+          "I haven't got into games yet, but i'd expect it to kill my battery.",
+          "I'm kinda worried the battery life won't be great (as coding is a heavier task) and I would often use it in spots where power plugs aren't available lol"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "But I would love to experience what is might feel like to have the 32GB ram (if at all different).",
+          "Also, i love Taiwan (made in Taiwan <3), so Acer 'n Asus were actually my top choices (they do all the hard work of making everything, and are absolutely lovely people with an incredible culture to behold, so let them have all my monies!).",
+          "Better speakers, better keyboard (i prefer big keys over the macbook chiclet-style), betters looks (premium business ultrabook vs macbook clone), lighter (an insane 1.3kg), and most importantly a better battery (75w vs 65w, 12+ hours vs 8 in tests!"
+        ],
+        "negative": [
+          "The major concern is whether it will suffer from dead pixels and burn-in which I have read can happen with OLED displays and maybe I should stick with an LCD IPS screen.",
+          "I'm kinda worried the battery life won't be great (as coding is a heavier task) and I would often use it in spots where power plugs aren't available lol",
+          "I did have had it click on random parts of this review i'm writing quite a few times.. but then again, i'm currently sitting at a bad angle."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 19.39
+  }
+}

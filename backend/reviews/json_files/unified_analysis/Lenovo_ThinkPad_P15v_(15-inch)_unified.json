@@ -1,0 +1,113 @@
+{
+  "model_name": "Lenovo ThinkPad P15v (15-inch)",
+  "total_reviews": 1,
+  "platform_stats": {
+    "reddit": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "total_reviews": 1,
+      "sentiment_score": 1.0,
+      "avg_compound": 0.921
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.921
+      },
+      "Students": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      },
+      "Content Creators": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      },
+      "Casual Users": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.921
+      },
+      "Programmers / Engineers": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "gaming triple"
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "gaming triple"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Which one would you suggest me and feel free to recommend other model as well (specs close to : intel i5 or AMD, 16gb ram, 512gb memory and a dgpu)."
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "Which one would you suggest me and feel free to recommend other model as well (specs close to : intel i5 or AMD, 16gb ram, 512gb memory and a dgpu)."
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 3.78
+  }
+}

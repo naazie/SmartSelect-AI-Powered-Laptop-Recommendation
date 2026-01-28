@@ -1,0 +1,200 @@
+{
+  "model_name": "Lenovo_Slim_7",
+  "total_reviews": 700,
+  "platform_stats": {
+    "reddit": {
+      "positive": 447,
+      "neutral": 146,
+      "negative": 107,
+      "total_reviews": 700,
+      "sentiment_score": 0.486,
+      "avg_compound": 0.329
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 79,
+        "neutral": 4,
+        "negative": 9,
+        "total_reviews": 92,
+        "sentiment_score": 0.761,
+        "avg_compound": 0.628
+      },
+      "Students": {
+        "positive": 31,
+        "neutral": 2,
+        "negative": 3,
+        "total_reviews": 36,
+        "sentiment_score": 0.778,
+        "avg_compound": 0.63
+      },
+      "Content Creators": {
+        "positive": 47,
+        "neutral": 3,
+        "negative": 4,
+        "total_reviews": 54,
+        "sentiment_score": 0.796,
+        "avg_compound": 0.661
+      },
+      "Casual Users": {
+        "positive": 65,
+        "neutral": 7,
+        "negative": 8,
+        "total_reviews": 80,
+        "sentiment_score": 0.713,
+        "avg_compound": 0.567
+      },
+      "Programmers / Engineers": {
+        "positive": 39,
+        "neutral": 4,
+        "negative": 3,
+        "total_reviews": 46,
+        "sentiment_score": 0.783,
+        "avg_compound": 0.628
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "gddr6 sdram",
+          "delivery displayport",
+          "webcam meetings",
+          "panels ips"
+        ],
+        "negative": [
+          "seen ryzen",
+          "glossy display",
+          "egpu compatibility",
+          "g1 used",
+          "biggest issues"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "ips panel",
+          "touchscreen tidal"
+        ],
+        "negative": [
+          "seen ryzen",
+          "m4100 slow",
+          "firefly",
+          "multitasking cad",
+          "yoga"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "258v cpu",
+          "longevity ips",
+          "delivery displayport",
+          "ssd connected",
+          "camera tests"
+        ],
+        "negative": [
+          "reflective screen",
+          "eye strain",
+          "rpm noise",
+          "lunar lake",
+          "aura"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "sharp display",
+          "ips screen",
+          "terms performance",
+          "playback 4k60fps"
+        ],
+        "negative": [
+          "download speed",
+          "fine wi",
+          "phone hotspot",
+          "s23",
+          "1tb ssd"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "258v cpu",
+          "touchscreen tidal",
+          "bring charger",
+          "panel pwm",
+          "classes portability"
+        ],
+        "negative": [
+          "m4100 slow",
+          "gpu anymore",
+          "combat glare",
+          "update issues",
+          "soon display"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright."
+        ],
+        "negative": [
+          "But generally speaking, if you can get a MacBook just get the MacBook, unless you're doing something Apple isn't great at like gaming.",
+          "* Edit #6: Update as of 16 Oct 2022: The hinge is shit quality, it has broken twice till now in the exact same manner with completely normal use.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright.",
+          "Speakers are really good too but make sure Dolby Atmos is enabled for the best sound."
+        ],
+        "negative": [
+          "This is gonna be my laptop for college, I bought a Zephyrus G15 (yes you read that right, yes I'm downgrading), and I think the battery is so bad it's actually defective.",
+          "But, seeing its battery capacity as 45Wh, no wonder it has low battery backup.",
+          "I feel bad now for sharing that shit piece."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright."
+        ],
+        "negative": [
+          "* Edit #6: Update as of 16 Oct 2022: The hinge is shit quality, it has broken twice till now in the exact same manner with completely normal use.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The low RPM noise isn’t too bad, it’s just the fact it’s there at all that irks me."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely."
+        ],
+        "negative": [
+          "i don't have the money to buy anything over 1k :( so ill stick with the 16gb also, im really stuck on something.",
+          "* Edit #6: Update as of 16 Oct 2022: The hinge is shit quality, it has broken twice till now in the exact same manner with completely normal use.",
+          "But, seeing its battery capacity as 45Wh, no wonder it has low battery backup."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "* Edit #6: Update as of 16 Oct 2022: The hinge is shit quality, it has broken twice till now in the exact same manner with completely normal use.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "No specific setting did the trick, it seems to be a bit broken at the moment."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 101.81
+  }
+}

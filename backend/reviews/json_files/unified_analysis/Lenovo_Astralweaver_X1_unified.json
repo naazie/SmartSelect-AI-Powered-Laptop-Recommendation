@@ -1,0 +1,199 @@
+{
+  "model_name": "Lenovo_Astralweaver_X1",
+  "total_reviews": 495,
+  "platform_stats": {
+    "reddit": {
+      "positive": 322,
+      "neutral": 99,
+      "negative": 74,
+      "total_reviews": 495,
+      "sentiment_score": 0.501,
+      "avg_compound": 0.385
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 60,
+        "neutral": 2,
+        "negative": 6,
+        "total_reviews": 68,
+        "sentiment_score": 0.794,
+        "avg_compound": 0.703
+      },
+      "Students": {
+        "positive": 37,
+        "neutral": 1,
+        "negative": 3,
+        "total_reviews": 41,
+        "sentiment_score": 0.829,
+        "avg_compound": 0.701
+      },
+      "Content Creators": {
+        "positive": 49,
+        "neutral": 0,
+        "negative": 2,
+        "total_reviews": 51,
+        "sentiment_score": 0.922,
+        "avg_compound": 0.819
+      },
+      "Casual Users": {
+        "positive": 39,
+        "neutral": 1,
+        "negative": 5,
+        "total_reviews": 45,
+        "sentiment_score": 0.756,
+        "avg_compound": 0.641
+      },
+      "Programmers / Engineers": {
+        "positive": 42,
+        "neutral": 1,
+        "negative": 3,
+        "total_reviews": 46,
+        "sentiment_score": 0.848,
+        "avg_compound": 0.754
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "bluetooth artifacts",
+          "x1 hdmi",
+          "upgrading panels",
+          "cpu power"
+        ],
+        "negative": [
+          "eye strain",
+          "glossy display",
+          "issues far",
+          "egpu compatibility",
+          "g1"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "wifi webcam",
+          "dedicated gpu",
+          "comparing sdram",
+          "display sub"
+        ],
+        "negative": [
+          "ghosting screen",
+          "instead zbook",
+          "notebookcheck similarly",
+          "firefly g8",
+          "cad graphics"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "bluetooth artifacts",
+          "thunderbolt cable",
+          "dgpu base",
+          "wifi webcam",
+          "panels storage"
+        ],
+        "negative": [
+          "reflective screen",
+          "eye strain",
+          "low rpm",
+          "sensitive dither",
+          "noise isn"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "lowish brightness",
+          "key travel",
+          "sdram vs",
+          "connector charging"
+        ],
+        "negative": [
+          "download speed",
+          "resetting wi",
+          "bluetooth awful",
+          "phone hotspot",
+          "s23"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "bluetooth constantly",
+          "dropping connections"
+        ],
+        "negative": [
+          "battery life",
+          "throttled cloud",
+          "issues",
+          "software updates",
+          "displays"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "I'm also taking up video editing as a hobby and am planning on doing a post-grad in machine learning as well, so ideally I'd want a powerful GPU (which seems to be taken care of by the RTX 2080) and a powerful CPU as well (Intel i9?).",
+          "I wanted to spread some of the knowledge I've accrued over the last year and try to help people that may be hunting for a new laptop this Black Friday Holiday or looking for one as a gift for a loved one friend family member.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo."
+        ],
+        "negative": [
+          "I have the jist of what to look for but I start going brain dead when comparing SDRAM vs DRAM, graphics and 802.11ax vs Infrared.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The low RPM noise isn’t too bad, it’s just the fact it’s there at all that irks me."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "I'm also taking up video editing as a hobby and am planning on doing a post-grad in machine learning as well, so ideally I'd want a powerful GPU (which seems to be taken care of by the RTX 2080) and a powerful CPU as well (Intel i9?).",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!"
+        ],
+        "negative": [
+          "I have the jist of what to look for but I start going brain dead when comparing SDRAM vs DRAM, graphics and 802.11ax vs Infrared.",
+          "Besides, I hate the Mac OS and some apps I use do not support it.",
+          "It's 2023, just use USB C already * Minor issue but the font on the keyboard is stupid imho * Asus Flow X16 whatever thing * Has the ribbels on the back which are also not needed at all."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "I'm also taking up video editing as a hobby and am planning on doing a post-grad in machine learning as well, so ideally I'd want a powerful GPU (which seems to be taken care of by the RTX 2080) and a powerful CPU as well (Intel i9?).",
+          "I wanted to spread some of the knowledge I've accrued over the last year and try to help people that may be hunting for a new laptop this Black Friday Holiday or looking for one as a gift for a loved one friend family member.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo."
+        ],
+        "negative": [
+          "I have the jist of what to look for but I start going brain dead when comparing SDRAM vs DRAM, graphics and 802.11ax vs Infrared.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The low RPM noise isn’t too bad, it’s just the fact it’s there at all that irks me."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely.",
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!"
+        ],
+        "negative": [
+          "I have the jist of what to look for but I start going brain dead when comparing SDRAM vs DRAM, graphics and 802.11ax vs Infrared.",
+          "It's 2023, just use USB C already * Minor issue but the font on the keyboard is stupid imho * Asus Flow X16 whatever thing * Has the ribbels on the back which are also not needed at all.",
+          "I may or may not go insane without your help ;) First, let me just say, until this I was totally and completely computer electronic dumb."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "I'm also taking up video editing as a hobby and am planning on doing a post-grad in machine learning as well, so ideally I'd want a powerful GPU (which seems to be taken care of by the RTX 2080) and a powerful CPU as well (Intel i9?).",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!"
+        ],
+        "negative": [
+          "I have the jist of what to look for but I start going brain dead when comparing SDRAM vs DRAM, graphics and 802.11ax vs Infrared.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "It's 2023, just use USB C already * Minor issue but the font on the keyboard is stupid imho * Asus Flow X16 whatever thing * Has the ribbels on the back which are also not needed at all."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 154.72
+  }
+}

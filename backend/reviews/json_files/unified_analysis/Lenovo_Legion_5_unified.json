@@ -1,0 +1,199 @@
+{
+  "model_name": "Lenovo Legion 5",
+  "total_reviews": 420,
+  "platform_stats": {
+    "reddit": {
+      "positive": 258,
+      "neutral": 107,
+      "negative": 55,
+      "total_reviews": 420,
+      "sentiment_score": 0.483,
+      "avg_compound": 0.318
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 88,
+        "neutral": 7,
+        "negative": 12,
+        "total_reviews": 107,
+        "sentiment_score": 0.71,
+        "avg_compound": 0.563
+      },
+      "Students": {
+        "positive": 18,
+        "neutral": 1,
+        "negative": 2,
+        "total_reviews": 21,
+        "sentiment_score": 0.762,
+        "avg_compound": 0.588
+      },
+      "Content Creators": {
+        "positive": 39,
+        "neutral": 2,
+        "negative": 3,
+        "total_reviews": 44,
+        "sentiment_score": 0.818,
+        "avg_compound": 0.618
+      },
+      "Casual Users": {
+        "positive": 21,
+        "neutral": 2,
+        "negative": 1,
+        "total_reviews": 24,
+        "sentiment_score": 0.833,
+        "avg_compound": 0.717
+      },
+      "Programmers / Engineers": {
+        "positive": 19,
+        "neutral": 1,
+        "negative": 1,
+        "total_reviews": 21,
+        "sentiment_score": 0.857,
+        "avg_compound": 0.706
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "1920x1080 performance",
+          "planning game",
+          "display opened",
+          "ssds transfer"
+        ],
+        "negative": [
+          "exists desktop",
+          "capacity futureproof",
+          "faster usb",
+          "differences compared",
+          "like bootcamp"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "game gaming",
+          "editing battery",
+          "legion thermals",
+          "terms performance",
+          "expandable ram"
+        ],
+        "negative": [
+          "nvdia geforce",
+          "wasn able",
+          "estimate repair",
+          "reviews relatively",
+          "corroborate story"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "reviews oled",
+          "gpu 4050",
+          "hdmi1 microsd",
+          "ssds transfer"
+        ],
+        "negative": [
+          "minecraft",
+          "battery life",
+          "bootcamp",
+          "pc",
+          "edit"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "10nm cpus",
+          "gaming rdr2",
+          "display opened",
+          "plastic",
+          "ssds transfer"
+        ],
+        "negative": [
+          "ram soldered",
+          "sadly ram",
+          "ram 1tb",
+          "1tb ssd",
+          "website"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "vram 32gb"
+        ],
+        "negative": [
+          "nvdia geforce",
+          "wasn able",
+          "estimate repair",
+          "reviews relatively",
+          "corroborate story"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "But if you want to do any gaming buy lenovo, its a great gaming laptop and it will be good for video editing as well but the battery life, build quality and the screen will be mid.",
+          "At first glance, it seems like a good fit - should be able to run most of the games I play now fairly easily, while looking professional enough to be brought into a classroom setting."
+        ],
+        "negative": [
+          "and having a dead gpu affter 1 year, i am in r pchelp and i see a lot of dead gpu in laptop",
+          "There are several cheaper models I could also go to, but there is the worry that they won't be strong enough, and I'd rather be a bit futureproof if I can.",
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "But if you want to do any gaming buy lenovo, its a great gaming laptop and it will be good for video editing as well but the battery life, build quality and the screen will be mid.",
+          "Based on that research I've decided to move forward on my purchase but have switched from the AMD to the Intel processor since the Intel model is newer, has an improved chasis, & has a lot of newly improved features that support more future proofing and quality of life than the older AMD model.",
+          "If you found it helpful, let us know with an upvote and a “good bot!” reply and please feel free to provide feedback on how it can be improved."
+        ],
+        "negative": [
+          "This kind of matched up since the laptop has gone through a lot (one time the keyboard stopped working, it has a crack in the plastic part, occasionally gets the blue screen of death after I took a coding class that messes with the memory a lot), so I figured it was just worse off than I thought.",
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "No pc even laptops are ever becoming useless, if you want to play new AAA games then you have to spend a lot, there is no other way around it unfortunately."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "But if you want to do any gaming buy lenovo, its a great gaming laptop and it will be good for video editing as well but the battery life, build quality and the screen will be mid.",
+          "Based on that research I've decided to move forward on my purchase but have switched from the AMD to the Intel processor since the Intel model is newer, has an improved chasis, & has a lot of newly improved features that support more future proofing and quality of life than the older AMD model."
+        ],
+        "negative": [
+          "There are several cheaper models I could also go to, but there is the worry that they won't be strong enough, and I'd rather be a bit futureproof if I can.",
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "Also, since that windows laptop is gaming laptop, it has HORRIBLE battery life."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "You are best off shopping for slightly older models on big discounts from retailers like bestbuy, they always have good devices on sale",
+          "I do not know much about the difference between AMD & Intel processors but from what I have heard AMD excels at multi tasking & Intel is better at running single tasks."
+        ],
+        "negative": [
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "TDP limitations – Some laptops cap power so hard that an i9 + 4070 can perform worse than an i7 + 4060.",
+          "Here are the specs: Dell Precision 5690 Intel Core Ultra 7 155H (3.80 GHz) 32 GB RAM Speed 7467 MT s 1 TB SSD 128 MB Intel Arc Graphics 16 inch touchscreen I have had bad experiences with the Dell I used throughout high school."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "If you found it helpful, let us know with an upvote and a “good bot!” reply and please feel free to provide feedback on how it can be improved.",
+          "Hope it will handle Blender and some video editing software, and I will be happy :D"
+        ],
+        "negative": [
+          "This kind of matched up since the laptop has gone through a lot (one time the keyboard stopped working, it has a crack in the plastic part, occasionally gets the blue screen of death after I took a coding class that messes with the memory a lot), so I figured it was just worse off than I thought.",
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "I'm just feeling duped right now and need a sanity check some advice on how to proceed :("
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 114.6
+  }
+}

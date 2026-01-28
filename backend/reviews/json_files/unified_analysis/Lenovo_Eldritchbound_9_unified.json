@@ -1,0 +1,200 @@
+{
+  "model_name": "Lenovo Eldritchbound 9",
+  "total_reviews": 751,
+  "platform_stats": {
+    "reddit": {
+      "positive": 431,
+      "neutral": 203,
+      "negative": 117,
+      "total_reviews": 751,
+      "sentiment_score": 0.418,
+      "avg_compound": 0.302
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 132,
+        "neutral": 15,
+        "negative": 21,
+        "total_reviews": 168,
+        "sentiment_score": 0.661,
+        "avg_compound": 0.55
+      },
+      "Students": {
+        "positive": 58,
+        "neutral": 6,
+        "negative": 10,
+        "total_reviews": 74,
+        "sentiment_score": 0.649,
+        "avg_compound": 0.59
+      },
+      "Content Creators": {
+        "positive": 40,
+        "neutral": 5,
+        "negative": 6,
+        "total_reviews": 51,
+        "sentiment_score": 0.667,
+        "avg_compound": 0.591
+      },
+      "Casual Users": {
+        "positive": 49,
+        "neutral": 4,
+        "negative": 11,
+        "total_reviews": 64,
+        "sentiment_score": 0.594,
+        "avg_compound": 0.514
+      },
+      "Programmers / Engineers": {
+        "positive": 41,
+        "neutral": 5,
+        "negative": 6,
+        "total_reviews": 52,
+        "sentiment_score": 0.673,
+        "avg_compound": 0.618
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "oled displays",
+          "fly battery",
+          "lifespan",
+          "ghz temps"
+        ],
+        "negative": [
+          "performium performance",
+          "costco offers",
+          "produce decent",
+          "bluescreen randomly",
+          "old rtx"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "keyboards upgraded",
+          "proofing ssd",
+          "blue screen",
+          "reading highlighting",
+          "port selection"
+        ],
+        "negative": [
+          "performance battery",
+          "ssd emmc",
+          "usb charging",
+          "color accuracy",
+          "notes glass"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "purchasing screen",
+          "ssd reach"
+        ],
+        "negative": [
+          "1200 screen",
+          "battery life",
+          "benchmarking",
+          "reducing 60hz",
+          "notes glass"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "ssd 809",
+          "external display",
+          "shortcomings usb",
+          "processor ghz",
+          "reader typing"
+        ],
+        "negative": [
+          "leaving screen",
+          "60hz confusing",
+          "yoga",
+          "ran battery",
+          "worse i3"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "display 802",
+          "charge devices",
+          "reader typing",
+          "connecting external"
+        ],
+        "negative": [
+          "srgb",
+          "patented samsung",
+          "process nightmare",
+          "boot slim",
+          "looked awesome"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "it is okay but I would prob spend 50 more on this [ much more modern proccesor on 3nm node vs 7nm on the 5825u and a better igpu with access to xess which is nice for gaming Although deal wise that is a pretty solid price and hard to beat for that level of performance",
+          "All are very very good, well built, efficient and trustworthy machines (the dell can't even compare with the other 4), with bright OLED displays.",
+          "1080p, good quality, very good colors, average brightness (not doing too great outdoors)."
+        ],
+        "negative": [
+          "2xx models (Like Ultra 9 V) are Lunar Lake, which are still bad, but not as bad as Meteor Lake.",
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "But here is the model I would recommend for you to search; (This would be the best fit for you in school, I don’t know the price in your country but in here its around 82.000 TL which is around 2100€ )",
+          "Based on that research I've decided to move forward on my purchase but have switched from the AMD to the Intel processor since the Intel model is newer, has an improved chasis, & has a lot of newly improved features that support more future proofing and quality of life than the older AMD model.",
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win."
+        ],
+        "negative": [
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "I’ve always been a sucker for high-capacity drives, so the tiny 512 GB of space made me feel uneasy every single time I thought about my locally stored movies, TV shows, comics, games… Point is: I wanted to upgrade."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Based on that research I've decided to move forward on my purchase but have switched from the AMD to the Intel processor since the Intel model is newer, has an improved chasis, & has a lot of newly improved features that support more future proofing and quality of life than the older AMD model.",
+          "1080p, good quality, very good colors, average brightness (not doing too great outdoors).",
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win."
+        ],
+        "negative": [
+          "The Lenovo is fast, but the jitters and lag it has when doing real-world stuff are unacceptable for me at that price.",
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "All are very very good, well built, efficient and trustworthy machines (the dell can't even compare with the other 4), with bright OLED displays.",
+          "They do a full quality control check and you can configure the laptop to your liking in terms of storage, enhanced cooling, and most importantly, the tuning and optimization + you get lifetime tech support for free.",
+          "1080p, good quality, very good colors, average brightness (not doing too great outdoors)."
+        ],
+        "negative": [
+          "The CPU is so damn weak it can’t run windows.",
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win.",
+          "The trip to Micro Center, the fact that I was actually upgrading a laptop, the excitement I felt going into the Amazon Locker to retrieve my shiny new 32 gigs of RAM… Truly a wonderful experience.",
+          "As some who gets serious FOMO, I personally skipped AMD for this year’s Yoga 7 lineup ‘cause I find the Intel one is better for school for the battery life difference, but otherwise I think the AMD Yoga 7 is still fairly well rounded and great on a tighter budget, and battery life is still decent."
+        ],
+        "negative": [
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "I’ve always been a sucker for high-capacity drives, so the tiny 512 GB of space made me feel uneasy every single time I thought about my locally stored movies, TV shows, comics, games… Point is: I wanted to upgrade."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 258.11
+  }
+}

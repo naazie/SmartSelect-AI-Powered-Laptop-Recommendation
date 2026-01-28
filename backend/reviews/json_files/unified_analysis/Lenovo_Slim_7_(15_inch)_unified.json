@@ -1,0 +1,178 @@
+{
+  "model_name": "Lenovo Slim 7 (15 inch)",
+  "total_reviews": 140,
+  "platform_stats": {
+    "reddit": {
+      "positive": 90,
+      "neutral": 38,
+      "negative": 12,
+      "total_reviews": 140,
+      "sentiment_score": 0.557,
+      "avg_compound": 0.366
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 20,
+        "neutral": 2,
+        "negative": 2,
+        "total_reviews": 24,
+        "sentiment_score": 0.75,
+        "avg_compound": 0.639
+      },
+      "Students": {
+        "positive": 17,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 17,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.778
+      },
+      "Content Creators": {
+        "positive": 12,
+        "neutral": 3,
+        "negative": 0,
+        "total_reviews": 15,
+        "sentiment_score": 0.8,
+        "avg_compound": 0.734
+      },
+      "Casual Users": {
+        "positive": 8,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 8,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.772
+      },
+      "Programmers / Engineers": {
+        "positive": 11,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 12,
+        "sentiment_score": 0.917,
+        "avg_compound": 0.717
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "fits hinge",
+          "external egpu",
+          "display frame",
+          "charger rotate"
+        ],
+        "negative": [
+          "performance",
+          "igpu",
+          "wqhd gaming",
+          "ryzen r7",
+          "defects bad"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "modelling gaming",
+          "voltage cpu",
+          "damp sound"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "thunderbolt 65w",
+          "ips fhd",
+          "costco display",
+          "wifi performance",
+          "gaming students"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "gbps thunderbolt",
+          "costco display",
+          "ips panel",
+          "wifi performance",
+          "gaming students"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "gpu power",
+          "titles thunderbolt",
+          "update wifi",
+          "blacks screen",
+          "charger rotate"
+        ],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "It could be a bit brighter but at its brightest settings it is uncomfortably bright for me to use indoors so I think it is bright enough.",
+          "The Yoga devices have problems with the hinges, but the displays are pretty nice (not Vivobook OLED nice though)."
+        ],
+        "negative": [
+          "We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.",
+          "Fakespot detects fake reviews, fake products and unreliable sellers using AI.",
+          "But, seeing its battery capacity as 45Wh, no wonder it has low battery backup."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "It could be a bit brighter but at its brightest settings it is uncomfortably bright for me to use indoors so I think it is bright enough.",
+          "If you found it helpful, let us know with an upvote and a “good bot!” reply and please feel free to provide feedback on how it can be improved."
+        ],
+        "negative": [
+          "But, seeing its battery capacity as 45Wh, no wonder it has low battery backup.",
+          "I feel bad now for sharing that shit piece.",
+          "So when my Surface pro 4's hinge broke up for no apparent reason and i went through two chargers and the keyboard kept disconnecting I thought to myself its time to go back to Asus."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "It could be a bit brighter but at its brightest settings it is uncomfortably bright for me to use indoors so I think it is bright enough.",
+          "Intel Lunar Lake Laptops 2025 []( * Integrated RAM on package for increased bandwidth and efficiency * Enhanced energy efficiency and battery life up to 24 hours (video playback) * Improved thermal management for cooler and quieter laptops.",
+          "It was a 13 inch ultrabook with dedicated graphics, a gorgeous 1080p bright display and I had upgrade the HDD to SSD and added more memory to 8gb."
+        ],
+        "negative": [
+          "But, seeing its battery capacity as 45Wh, no wonder it has low battery backup.",
+          "I feel bad now for sharing that shit piece.",
+          "So when my Surface pro 4's hinge broke up for no apparent reason and i went through two chargers and the keyboard kept disconnecting I thought to myself its time to go back to Asus."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "It could be a bit brighter but at its brightest settings it is uncomfortably bright for me to use indoors so I think it is bright enough.",
+          "It was a 13 inch ultrabook with dedicated graphics, a gorgeous 1080p bright display and I had upgrade the HDD to SSD and added more memory to 8gb.",
+          "This display has some of the best in class contrast ratios so photos are gorgeous on this thing."
+        ],
+        "negative": [
+          "But, seeing its battery capacity as 45Wh, no wonder it has low battery backup.",
+          "I feel bad now for sharing that shit piece.",
+          "So when my Surface pro 4's hinge broke up for no apparent reason and i went through two chargers and the keyboard kept disconnecting I thought to myself its time to go back to Asus."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "It could be a bit brighter but at its brightest settings it is uncomfortably bright for me to use indoors so I think it is bright enough.",
+          "It was a 13 inch ultrabook with dedicated graphics, a gorgeous 1080p bright display and I had upgrade the HDD to SSD and added more memory to 8gb.",
+          "This display has some of the best in class contrast ratios so photos are gorgeous on this thing."
+        ],
+        "negative": [
+          "So when my Surface pro 4's hinge broke up for no apparent reason and i went through two chargers and the keyboard kept disconnecting I thought to myself its time to go back to Asus.",
+          "No problem with buying used btw.",
+          "I am open to trying mac but i am scared that not all of the software that they use can be used on mac so a bit on the fence with that one."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 18.94
+  }
+}

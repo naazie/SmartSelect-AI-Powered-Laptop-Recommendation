@@ -1,0 +1,179 @@
+{
+  "model_name": "Lenovo Slim Pro 9i (16-inch)",
+  "total_reviews": 56,
+  "platform_stats": {
+    "reddit": {
+      "positive": 35,
+      "neutral": 10,
+      "negative": 11,
+      "total_reviews": 56,
+      "sentiment_score": 0.429,
+      "avg_compound": 0.352
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 9,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 9,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.751
+      },
+      "Students": {
+        "positive": 7,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 7,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.78
+      },
+      "Content Creators": {
+        "positive": 7,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 7,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.843
+      },
+      "Casual Users": {
+        "positive": 4,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 5,
+        "sentiment_score": 0.8,
+        "avg_compound": 0.545
+      },
+      "Programmers / Engineers": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 5,
+        "sentiment_score": 0.6,
+        "avg_compound": 0.687
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "gpu power",
+          "edit performance",
+          "keyboard backlighting",
+          "ips albeit",
+          "usbc charger"
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [
+          "touchpad bland",
+          "typing resting",
+          "grotesque battery",
+          "settings fps",
+          "weight thinness"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "spin cpu",
+          "120hz glossy",
+          "settings fps",
+          "touchpad bland",
+          "lightroom tested"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "touchpad bland",
+          "gpu 32gb",
+          "ports build",
+          "putting display"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "mousepad decent",
+          "cpu gpu",
+          "delete key",
+          "connection declared"
+        ],
+        "negative": [
+          "oled g16",
+          "4060 32gb",
+          "notice digitizers",
+          "skus 4080",
+          "soldered ram"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "* The keyboard is incredible (one of the things I liked about the new model when I tried it at Best Buy) * The glass trackpad also feels amazing and has a fairly satisfying click (I prefer this to haptic personally).",
+          "If you found it helpful, let us know with an upvote and a “good bot!” reply and please feel free to provide feedback on how it can be improved.",
+          "I care more about it having good thermals than having it be super thin."
+        ],
+        "negative": [
+          "The hp envy OLED option has a beautiful display, but the touchscreen digitizer is really noticeable and kind of can ruin the experience.",
+          "However, I wasn't impressed with the low-resolution of the screen in person and the build just didn't seem as good to me.",
+          "I was deciding between it and a Legion Slim 7 for around $200 less although I regret picking it despite still liking it overall."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "If you found it helpful, let us know with an upvote and a “good bot!” reply and please feel free to provide feedback on how it can be improved.",
+          "I care more about it having good thermals than having it be super thin.",
+          "I hope HP Elitebooks and LG 16 Pro launch soon, I agree, both looks promising!"
+        ],
+        "negative": [
+          "I was deciding between it and a Legion Slim 7 for around $200 less although I regret picking it despite still liking it overall.",
+          "I almost always have my charger with me so battery life isn't super important to me.",
+          "*  not super important."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "* The keyboard is incredible (one of the things I liked about the new model when I tried it at Best Buy) * The glass trackpad also feels amazing and has a fairly satisfying click (I prefer this to haptic personally).",
+          "Intel Lunar Lake Laptops 2025 []( * Integrated RAM on package for increased bandwidth and efficiency * Enhanced energy efficiency and battery life up to 24 hours (video playback) * Improved thermal management for cooler and quieter laptops.",
+          "I care more about it having good thermals than having it be super thin."
+        ],
+        "negative": [
+          "However, I wasn't impressed with the low-resolution of the screen in person and the build just didn't seem as good to me.",
+          "I was deciding between it and a Legion Slim 7 for around $200 less although I regret picking it despite still liking it overall.",
+          "I almost always have my charger with me so battery life isn't super important to me."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "* The keyboard is incredible (one of the things I liked about the new model when I tried it at Best Buy) * The glass trackpad also feels amazing and has a fairly satisfying click (I prefer this to haptic personally).",
+          "Part of my plan was that if I wanted, I could just return this one to Costco and go grab the newer model, but I really like getting a good bang for my buck and I think I've achieved that with the older model.",
+          "Here are my first impressions  * Build quality feels insanely good to me - the Storm Gray aluminum body is super sleek."
+        ],
+        "negative": [
+          "However, I wasn't impressed with the low-resolution of the screen in person and the build just didn't seem as good to me.",
+          "I was deciding between it and a Legion Slim 7 for around $200 less although I regret picking it despite still liking it overall.",
+          "This is with battery saver on, so I'd expect worse in intelligent cooling mode, and much worse in performance mode."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "If you found it helpful, let us know with an upvote and a “good bot!” reply and please feel free to provide feedback on how it can be improved.",
+          "The press depth is decent and overall the typing feels reassuring and comfortable.",
+          "I tried a lot of Fan Control tools and the \"[Asus Fan Control V5]( allows to set the fan to a constant 2000rpm."
+        ],
+        "negative": [
+          "The hp envy OLED option has a beautiful display, but the touchscreen digitizer is really noticeable and kind of can ruin the experience.",
+          "Envy doesn't have soldered ram, which usually runs at a lower transfer rate.",
+          "This is enough to produce an audible damp sound which I find irritating."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 10.86
+  }
+}

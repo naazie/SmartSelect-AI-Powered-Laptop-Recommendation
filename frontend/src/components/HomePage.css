@@ -1,0 +1,98 @@
+.home-page {
+  max-width: 1000px;
+  margin: 50px auto;
+  padding: 30px 50px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  font-family: "Poppins", sans-serif;
+  line-height: 1.8;
+  color: #333;
+  text-align: center;
+}
+
+.home-page h1 {
+  font-size: 2.5rem;
+  color: #1A597E;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.home-page h3 {
+  font-size: 1.8rem;
+  color: #1A597E;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.home-page h4 {
+  font-size: 1.3rem;
+  color: #1A597E;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.home-page p {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 18px;
+  text-align: justify;
+  text-align: center;
+}
+
+.home-page button {
+  display: block;
+  margin: 40px auto 0;
+  padding: 12px 30px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  background-color: #1A597E;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.home-page button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(67, 97, 238, 0.3);
+}
+
+/* Optional subtle animations */
+.home-page {
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .home-page {
+    padding: 25px;
+  }
+
+  .home-page h2 {
+    font-size: 1.5rem;
+  }
+
+  .home-page h3 {
+    font-size: 1.1rem;
+  }
+
+  .home-page p {
+    font-size: 0.95rem;
+  }
+}

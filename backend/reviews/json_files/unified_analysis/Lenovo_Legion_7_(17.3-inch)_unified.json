@@ -1,0 +1,163 @@
+{
+  "model_name": "Lenovo Legion 7 (17.3-inch)",
+  "total_reviews": 32,
+  "platform_stats": {
+    "reddit": {
+      "positive": 20,
+      "neutral": 9,
+      "negative": 3,
+      "total_reviews": 32,
+      "sentiment_score": 0.531,
+      "avg_compound": 0.391
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 8,
+        "neutral": 0,
+        "negative": 2,
+        "total_reviews": 10,
+        "sentiment_score": 0.6,
+        "avg_compound": 0.595
+      },
+      "Students": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 4,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.93
+      },
+      "Content Creators": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.996
+      },
+      "Casual Users": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.99
+      },
+      "Programmers / Engineers": {
+        "positive": 3,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 4,
+        "sentiment_score": 0.75,
+        "avg_compound": 0.645
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "performance 4060",
+          "2gb vram",
+          "games",
+          "downgrade cpu",
+          "79 weight"
+        ],
+        "negative": [
+          "gtx 1660ti",
+          "issues screen",
+          "desktop functional",
+          "ryzen r5",
+          "16gb ddr4"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "battery efficiency",
+          "ssd heavy"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "quality battery",
+          "weight max",
+          "cooling function"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "good battery",
+          "limit gaming",
+          "buildings charging",
+          "life hours"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "gaming isn",
+          "quality reliability",
+          "cpu faster",
+          "uni buildings"
+        ],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "What impresses me the most about this model is the really good battery life which makes me want to get it, I've seen positive reviews as well.",
+          "In our Asus ROG Zephyrus G15 review, we praise its sleek design, stunning display, strong CPU performance."
+        ],
+        "negative": [
+          "We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.",
+          "Fakespot detects fake reviews, fake products and unreliable sellers using AI.",
+          "A lot of people seem to have issues with screen colors being wrong (which I assume you can color correct) and some other issues im not too aware of in whether it is a common problem OR user issue."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "In our Asus ROG Zephyrus G15 review, we praise its sleek design, stunning display, strong CPU performance.",
+          "Also , all your options take in a lot of dust and if you don't know, India has a lot and a lot of dust all the time but thanks for your opinion :)"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "16 inch laptops seem likely to be the ideal form factor but perhaps a 17inch with smaller dimensions than above are good as well.",
+          "Any specific requirements such as good keyboard, reliable build quality, touch-screen, finger-print reader, optical drive or good input devices (keyboard touchpad)?"
+        ],
+        "negative": [
+          "Not super mobile with it, mostly moving spot to spot and working there."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "What impresses me the most about this model is the really good battery life which makes me want to get it, I've seen positive reviews as well.",
+          "I've done some laptop comparisons in nanoreview.net , (idk if it's a reliable site or not) but it's been telling me the Legion and the ASUS get better FPS on games than the MSI ones despite the better specs on the MSI laptops.",
+          "This model has a weaker CPU and GPU than the other ones but I'm still considering it for the better battery life and I've heard good things about the Legion models."
+        ],
+        "negative": [
+          "What worries me is the appalling battery life of 3 hours normally and less than an hour for gaming."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "What impresses me the most about this model is the really good battery life which makes me want to get it, I've seen positive reviews as well.",
+          "Also , all your options take in a lot of dust and if you don't know, India has a lot and a lot of dust all the time but thanks for your opinion :)",
+          "I've done some laptop comparisons in nanoreview.net , (idk if it's a reliable site or not) but it's been telling me the Legion and the ASUS get better FPS on games than the MSI ones despite the better specs on the MSI laptops."
+        ],
+        "negative": [
+          "What worries me is the appalling battery life of 3 hours normally and less than an hour for gaming."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 5.48
+  }
+}

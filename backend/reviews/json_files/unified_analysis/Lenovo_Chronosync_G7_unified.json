@@ -1,0 +1,179 @@
+{
+  "model_name": "Lenovo Chronosync G7",
+  "total_reviews": 56,
+  "platform_stats": {
+    "reddit": {
+      "positive": 40,
+      "neutral": 9,
+      "negative": 7,
+      "total_reviews": 56,
+      "sentiment_score": 0.589,
+      "avg_compound": 0.431
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 9,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 10,
+        "sentiment_score": 0.8,
+        "avg_compound": 0.732
+      },
+      "Students": {
+        "positive": 7,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 7,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.855
+      },
+      "Content Creators": {
+        "positive": 6,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 6,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.913
+      },
+      "Casual Users": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 2,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.868
+      },
+      "Programmers / Engineers": {
+        "positive": 10,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 11,
+        "sentiment_score": 0.818,
+        "avg_compound": 0.682
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "headphone microphone",
+          "interactive ports",
+          "settings fps",
+          "usb charging",
+          "adapter class"
+        ],
+        "negative": [
+          "colors adjust",
+          "change keyboard",
+          "light",
+          "rtx",
+          "bloatware puzzling"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "fast charging",
+          "1tb ssd",
+          "screen average",
+          "following parameters"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "ssd 16gb",
+          "average battery",
+          "following parameters",
+          "headphone microphone",
+          "display glossy"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "hdmi",
+          "typing experience",
+          "reader usb",
+          "headphone microphone"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "convinced brightness",
+          "display glossy",
+          "usb4 40gbps",
+          "lake chips",
+          "cool worried"
+        ],
+        "negative": [
+          "colors adjust",
+          "change keyboard",
+          "light",
+          "rtx",
+          "bloatware puzzling"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "The Yoga devices have problems with the hinges, but the displays are pretty nice (not Vivobook OLED nice though).",
+          "They have good colour space coverage and look pretty good non gamery while the Pro also has half decent graphics.",
+          "Pricey but seems like a really good deal."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "I have no complaints about this laptop except for one: Dell put over 100 GB of stuff on the SSD (Solid State Drive).",
+          "I have done some limited research but am still unsure on which rig to get."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Pricey but seems like a really good deal.",
+          "Help Deciding Which Laptop to Buy I am planning on buying a new laptop in the next week or so and would like some help deciding.",
+          "Laptop for student gamer Total budget and country of purchase: -USD1250 to 1300, Malaysia Singapore Do you prefer a 2 in 1 form factor, good battery life or best specifications for the money?"
+        ],
+        "negative": [
+          "I had a bad experience with a Windows Surface (slow and fragile, ages terribly) and people are saying the battery in the Surface Pro 7 is a pain.",
+          "Plain design, not so beautiful.",
+          "No problem with buying used btw."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Laptop for student gamer Total budget and country of purchase: -USD1250 to 1300, Malaysia Singapore Do you prefer a 2 in 1 form factor, good battery life or best specifications for the money?",
+          "Any specific requirements such as good keyboard, reliable build quality, touch-screen, finger-print reader, optical drive or good input devices (keyboard touchpad)?",
+          "Also note that I want a laptop with a non-gamer design(simple, clean, minimalist design) Leave any finishing thoughts here that you may feel are necessary and beneficial to the discussion."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "I also plan to play some light games on it, definitely not AAA titles.",
+          "I am on the verge of buying the  with the following configuration: i7-10610U NVIDIA Quadro P520 4GB 32GB RAM 1TB SSD UHD 4K anti-glare HDR400 panel  (only a short youtube video on the 15.6'' model)  For example I would like to know more on the following parameters:  Thank you in advance."
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "Laptop for student gamer Total budget and country of purchase: -USD1250 to 1300, Malaysia Singapore Do you prefer a 2 in 1 form factor, good battery life or best specifications for the money?",
+          "I was on the same boat as you, but I bought it anyway since I got it for a great price.",
+          "On the other hand i see that the Lenovo processor is probably better."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "I have no complaints about this laptop except for one: Dell put over 100 GB of stuff on the SSD (Solid State Drive).",
+          "Correct me if I am wrong."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 27.65
+  }
+}

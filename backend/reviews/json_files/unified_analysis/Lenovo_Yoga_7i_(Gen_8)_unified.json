@@ -1,0 +1,191 @@
+{
+  "model_name": "Lenovo Yoga 7i (Gen 8)",
+  "total_reviews": 131,
+  "platform_stats": {
+    "reddit": {
+      "positive": 87,
+      "neutral": 28,
+      "negative": 16,
+      "total_reviews": 131,
+      "sentiment_score": 0.542,
+      "avg_compound": 0.394
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 16,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 17,
+        "sentiment_score": 0.941,
+        "avg_compound": 0.703
+      },
+      "Students": {
+        "positive": 10,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 11,
+        "sentiment_score": 0.818,
+        "avg_compound": 0.67
+      },
+      "Content Creators": {
+        "positive": 13,
+        "neutral": 1,
+        "negative": 2,
+        "total_reviews": 16,
+        "sentiment_score": 0.688,
+        "avg_compound": 0.637
+      },
+      "Casual Users": {
+        "positive": 15,
+        "neutral": 1,
+        "negative": 3,
+        "total_reviews": 19,
+        "sentiment_score": 0.632,
+        "avg_compound": 0.541
+      },
+      "Programmers / Engineers": {
+        "positive": 14,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 14,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.836
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "quality chassis",
+          "2tb ssd",
+          "performing processor",
+          "external egpu",
+          "charger charge"
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [
+          "screen performance",
+          "power portability",
+          "1tb ssd",
+          "charger stylus"
+        ],
+        "negative": [
+          "battery life",
+          "external monitor",
+          "monitor",
+          "oled versions",
+          "worse battery"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "keyboard performance",
+          "display 7i",
+          "reason oled",
+          "power portability"
+        ],
+        "negative": [
+          "battery life",
+          "screen option",
+          "compared alot",
+          "thanks considering",
+          "apple ecosystem"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "oled touchscreen",
+          "keyboard performance",
+          "quality chassis",
+          "ssd 3k",
+          "display 14"
+        ],
+        "negative": [
+          "1200 screen",
+          "poor battery",
+          "yoga",
+          "leaving screen",
+          "life particular"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "touch capability",
+          "quality chassis",
+          "40fps processor",
+          "2tb ssd",
+          "display port"
+        ],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "It might be more efficient than windows, but I do feel like my 8GB MBA can get bogged down pretty easily in plenty of use cases.",
+          "Main thing keeping me from pulling the trigger is glossy screen as I like bright rooms and sitting outside haha but... seems like nearly all of then have that.",
+          "Main thing keeping me from pulling the trigger is glossy screen as I like bright rooms and sitting outside haha but... seems like nearly all of then have that."
+        ],
+        "negative": [
+          "I bought two Ideapad 5's and both failed at exactly 6 months, right after warranty expired.",
+          "This is enough to produce an audible damp sound which I find irritating.",
+          "I also realise that it's very early for many laptops to be available with the 200 series Ultra chips but I'm probably not interested in waiting for this or waiting for that."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Look for reviews on the yoga yoga pro (compared to other brands, some great reviews and minimal complaints), then make sure the cpu is good.",
+          "And while I wasn't initially stoked with Lunar Lake's plugged in multithreaded efficiency, I think I'm pretty impressed coming away from this.",
+          "This is a premium grade 2-in-1 consumer laptop with a solid build, great for anyone who needs a portable and powerful device."
+        ],
+        "negative": [
+          "The computers were left to only focus on the benchmarks, no Discord other usage during them.",
+          "They were supposed to help capture \"My use\" (which will always involve having discord open), not best case scenario benchmarking.",
+          "Plus, the reports I've seen have shown the OLED versions to have worse battery life."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Intel Lunar Lake Laptops 2025 []( * Integrated RAM on package for increased bandwidth and efficiency * Enhanced energy efficiency and battery life up to 24 hours (video playback) * Improved thermal management for cooler and quieter laptops.",
+          "And while I wasn't initially stoked with Lunar Lake's plugged in multithreaded efficiency, I think I'm pretty impressed coming away from this.",
+          "This is a premium grade 2-in-1 consumer laptop with a solid build, great for anyone who needs a portable and powerful device."
+        ],
+        "negative": [
+          "The computers were left to only focus on the benchmarks, no Discord other usage during them.",
+          "They were supposed to help capture \"My use\" (which will always involve having discord open), not best case scenario benchmarking.",
+          "I bought two Ideapad 5's and both failed at exactly 6 months, right after warranty expired."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "I think they're both excellent PCs with different targets - the Zenbook feels like they made a goal of \"make a great PC, *but* it has to look and feel like a Macbook Air competitor\" - with all of the strengths *and* caveats that a design goal like that implies.",
+          "The screen gets nice and bright on Lenovo, and even if the webcam isn’t great, windows hello works well.",
+          "Main thing keeping me from pulling the trigger is glossy screen as I like bright rooms and sitting outside haha but... seems like nearly all of then have that."
+        ],
+        "negative": [
+          "Not sure on speakers, maybe worse?",
+          "Potentially stupid question...",
+          "Hi OP, I read a few other reddit posts regarding poor battery life on this particular screen option (2.8K) compared to alot of the youtube reviews (which seems to be based on the 1200 screen option)."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "It might be more efficient than windows, but I do feel like my 8GB MBA can get bogged down pretty easily in plenty of use cases.",
+          "I'm thinking of getting this laptop but I'm wondering about the CPU performance for things like python and matlab number crunching(data optimization small simulations etc) Just curious what kind of work do you do on it and is the CPU fast enough for that?",
+          "And while I wasn't initially stoked with Lunar Lake's plugged in multithreaded efficiency, I think I'm pretty impressed coming away from this."
+        ],
+        "negative": [
+          "The computers were left to only focus on the benchmarks, no Discord other usage during them.",
+          "* Is the battery life in the X1 Carbon with a \"P\" processor really as bad as the reviews say?",
+          "I'm still not sure whether the lesser multicore compared to a 200H arrow lake is a problem or if I'm overthinking about the 258V"
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 14.77
+  }
+}

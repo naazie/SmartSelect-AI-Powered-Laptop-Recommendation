@@ -1,0 +1,204 @@
+{
+  "model_name": "Lenovo Seraphim Blade 3",
+  "total_reviews": 1037,
+  "platform_stats": {
+    "reddit": {
+      "positive": 552,
+      "neutral": 270,
+      "negative": 215,
+      "total_reviews": 1037,
+      "sentiment_score": 0.325,
+      "avg_compound": 0.224
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 90,
+        "neutral": 6,
+        "negative": 11,
+        "total_reviews": 107,
+        "sentiment_score": 0.738,
+        "avg_compound": 0.589
+      },
+      "Students": {
+        "positive": 51,
+        "neutral": 5,
+        "negative": 3,
+        "total_reviews": 59,
+        "sentiment_score": 0.814,
+        "avg_compound": 0.685
+      },
+      "Content Creators": {
+        "positive": 53,
+        "neutral": 4,
+        "negative": 7,
+        "total_reviews": 64,
+        "sentiment_score": 0.719,
+        "avg_compound": 0.614
+      },
+      "Casual Users": {
+        "positive": 74,
+        "neutral": 8,
+        "negative": 35,
+        "total_reviews": 117,
+        "sentiment_score": 0.333,
+        "avg_compound": 0.298
+      },
+      "Programmers / Engineers": {
+        "positive": 57,
+        "neutral": 4,
+        "negative": 10,
+        "total_reviews": 71,
+        "sentiment_score": 0.662,
+        "avg_compound": 0.529
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "screen protector",
+          "conditioner igpu",
+          "chromebook speakers",
+          "ultraportable bona",
+          "sync panel"
+        ],
+        "negative": [
+          "eye strain",
+          "glossy display",
+          "egpu compatibility",
+          "9i",
+          "issues wise"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "panel definitely",
+          "screen save",
+          "igpu reliability",
+          "throttling battery",
+          "surface touching"
+        ],
+        "negative": [
+          "battery backup",
+          "claim theft",
+          "storage yes",
+          "browsers keeping",
+          "gift card"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "bluetooth artifacts",
+          "unresponsive touchpad",
+          "ghz cores",
+          "usb vga",
+          "aluminum enclosure"
+        ],
+        "negative": [
+          "reflective screen",
+          "comparison samsung",
+          "surface strain",
+          "sensitive dither",
+          "rpm noise"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "additional screen",
+          "key positioning",
+          "usb thunderbolt",
+          "playback 4k60fps"
+        ],
+        "negative": [
+          "download speed",
+          "hotspot s23",
+          "fine wi",
+          "bluetooth awful",
+          "tested ookla"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "bluetooth artifacts",
+          "charger stylus",
+          "setup thunderbolt",
+          "aluminum enclosure",
+          "weightlifter lineman"
+        ],
+        "negative": [
+          "update issues",
+          "550 log",
+          "display glare",
+          "defects",
+          "touchscreen core"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "I have looked for reviews of the hp, but I have not seen the exact model, so if any of you have used this laptop and can tell me what the build quality is like or think that one of the other laptop is better I would appreciate the help.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright."
+        ],
+        "negative": [
+          "We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.",
+          "We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.",
+          "stiffness is a little weak compared to other brands, but still no real reason to complain."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "I have looked for reviews of the hp, but I have not seen the exact model, so if any of you have used this laptop and can tell me what the build quality is like or think that one of the other laptop is better I would appreciate the help.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright."
+        ],
+        "negative": [
+          "&#;  * occasionally, once in a month or two, blue screen of death error appears.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "I’ve always been a sucker for high-capacity drives, so the tiny 512 GB of space made me feel uneasy every single time I thought about my locally stored movies, TV shows, comics, games… Point is: I wanted to upgrade."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "The Lenovo is fast, but the jitters and lag it has when doing real-world stuff are unacceptable for me at that price.",
+          "* Edit #6: Update as of 16 Oct 2022: The hinge is shit quality, it has broken twice till now in the exact same manner with completely normal use.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "I have looked for reviews of the hp, but I have not seen the exact model, so if any of you have used this laptop and can tell me what the build quality is like or think that one of the other laptop is better I would appreciate the help.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely."
+        ],
+        "negative": [
+          "Lenovos webshop has been notorious for having odd bugs, my father purchased a laptop years ago and for some reason the payment failed so he got pissed off and went to a store and bought one.",
+          "Lenovo's store is not [store.lenovo.com]( The whole website is a scam Lenovo's actual store website is [ Go to [lenovo.com]( | Click \"Products\" and look at the URL Whole website seems to be a scam, the only thing different should be the location and Language after [LOCATION LANGUAGE](",
+          "I'd go for it and see what happens if I were you, no harm in losing a rupee."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "I have looked for reviews of the hp, but I have not seen the exact model, so if any of you have used this laptop and can tell me what the build quality is like or think that one of the other laptop is better I would appreciate the help.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.",
+          "* Edit #6: Update as of 16 Oct 2022: The hinge is shit quality, it has broken twice till now in the exact same manner with completely normal use.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 249.15
+  }
+}

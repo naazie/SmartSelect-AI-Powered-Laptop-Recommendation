@@ -1,0 +1,121 @@
+{
+  "model_name": "Lenovo Legion 5 (15ACH6H)",
+  "total_reviews": 6,
+  "platform_stats": {
+    "reddit": {
+      "positive": 5,
+      "neutral": 0,
+      "negative": 1,
+      "total_reviews": 6,
+      "sentiment_score": 0.667,
+      "avg_compound": 0.359
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 3,
+        "sentiment_score": 0.333,
+        "avg_compound": 0.124
+      },
+      "Students": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      },
+      "Content Creators": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      },
+      "Casual Users": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.625
+      },
+      "Programmers / Engineers": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "165hz display",
+          "gamer",
+          "display thank"
+        ],
+        "negative": [
+          "ryzen 5600h",
+          "nits display",
+          "confused display",
+          "rtx",
+          "color accuracy"
+        ]
+      },
+      "Students": {
+        "positive": [],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "165hz display",
+          "display",
+          "games"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [],
+        "negative": [
+          "Im just a bit confused about that display as many reviewers don't recommend it (not bright enough and has bad color accuracy)"
+        ]
+      },
+      "Students": {
+        "positive": [],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 1.88
+  }
+}

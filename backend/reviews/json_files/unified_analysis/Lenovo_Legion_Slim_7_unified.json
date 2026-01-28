@@ -1,0 +1,199 @@
+{
+  "model_name": "Lenovo Legion Slim 7",
+  "total_reviews": 1388,
+  "platform_stats": {
+    "reddit": {
+      "positive": 644,
+      "neutral": 440,
+      "negative": 304,
+      "total_reviews": 1388,
+      "sentiment_score": 0.245,
+      "avg_compound": 0.165
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 113,
+        "neutral": 16,
+        "negative": 25,
+        "total_reviews": 154,
+        "sentiment_score": 0.571,
+        "avg_compound": 0.462
+      },
+      "Students": {
+        "positive": 30,
+        "neutral": 3,
+        "negative": 7,
+        "total_reviews": 40,
+        "sentiment_score": 0.575,
+        "avg_compound": 0.476
+      },
+      "Content Creators": {
+        "positive": 48,
+        "neutral": 8,
+        "negative": 12,
+        "total_reviews": 68,
+        "sentiment_score": 0.529,
+        "avg_compound": 0.449
+      },
+      "Casual Users": {
+        "positive": 79,
+        "neutral": 15,
+        "negative": 38,
+        "total_reviews": 132,
+        "sentiment_score": 0.311,
+        "avg_compound": 0.253
+      },
+      "Programmers / Engineers": {
+        "positive": 67,
+        "neutral": 9,
+        "negative": 29,
+        "total_reviews": 105,
+        "sentiment_score": 0.362,
+        "avg_compound": 0.312
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "reviews gaming",
+          "longevity battery",
+          "refresh screen"
+        ],
+        "negative": [
+          "games performance",
+          "rtx3050 weak",
+          "battery needing",
+          "igpu researching",
+          "graphics handle"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "decent battery",
+          "integrated gpu",
+          "glossy screen",
+          "expensove quality",
+          "port selection"
+        ],
+        "negative": [
+          "battery gaming",
+          "lower performance",
+          "resources ryzen",
+          "linux run",
+          "resurrected remaster"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "gaming list",
+          "performance energy",
+          "checking wifi",
+          "display glossy"
+        ],
+        "negative": [
+          "light gaming",
+          "battery plan",
+          "screen seconds",
+          "confused build",
+          "lake chip"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "5ghz wi",
+          "snappiness battery",
+          "lighting conditions",
+          "change ssd"
+        ],
+        "negative": [
+          "gpu",
+          "dota2 performance",
+          "basic productivity",
+          "leaving screen",
+          "1tb ssd"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "vram 2k",
+          "dynamically games",
+          "making panel"
+        ],
+        "negative": [
+          "battery gaming",
+          "lower performance",
+          "resources ryzen",
+          "averaging hours",
+          "resurrected remaster"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "I was between this and a macbook pro14\", but I'm super satisfied and felt like it was a great deal to upgrade the RAM to 32 and the 1 tb HD w the free office pro acrobat std.",
+          "It is \"only\" 300 nits bright, some people complained about it being too dim for them, but I found it perfectly fine, I use it comfortably at 70-75% brightness (my desktop Dell monitor is only 250 nits and it it is still bright enough!)",
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!"
+        ],
+        "negative": [
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "It's a nice enough laptop, but averaging 3.5 hours of battery life from extremally light tasks with my mentioned battery saving attempts is bad, the linux sleep thing is bad too.",
+          "No adobe suite , no gaming, no autocad, no ms office, its useless"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "It is \"only\" 300 nits bright, some people complained about it being too dim for them, but I found it perfectly fine, I use it comfortably at 70-75% brightness (my desktop Dell monitor is only 250 nits and it it is still bright enough!)",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy."
+        ],
+        "negative": [
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "It's a nice enough laptop, but averaging 3.5 hours of battery life from extremally light tasks with my mentioned battery saving attempts is bad, the linux sleep thing is bad too.",
+          "My main worry with a Lenovo is that the last one I got, I ended up returning it because it ran into a TON of issues within a week of barely using it - BSOD for no reason, wouldn't correct to wifi after initial updates, delayed keyboard feedback, stuff like that."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "It is \"only\" 300 nits bright, some people complained about it being too dim for them, but I found it perfectly fine, I use it comfortably at 70-75% brightness (my desktop Dell monitor is only 250 nits and it it is still bright enough!)",
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo."
+        ],
+        "negative": [
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "It's a nice enough laptop, but averaging 3.5 hours of battery life from extremally light tasks with my mentioned battery saving attempts is bad, the linux sleep thing is bad too.",
+          "Sorry Dell, but this product is piss poor."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "It is \"only\" 300 nits bright, some people complained about it being too dim for them, but I found it perfectly fine, I use it comfortably at 70-75% brightness (my desktop Dell monitor is only 250 nits and it it is still bright enough!)",
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "A few things to add in; Laptop keyboard so far is fantastic, they feel more like the good old membrane keyboard; and definitely feels a lot better to type on compare to laptops like Zephyrus."
+        ],
+        "negative": [
+          "Lenovos webshop has been notorious for having odd bugs, my father purchased a laptop years ago and for some reason the payment failed so he got pissed off and went to a store and bought one.",
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "It's a nice enough laptop, but averaging 3.5 hours of battery life from extremally light tasks with my mentioned battery saving attempts is bad, the linux sleep thing is bad too."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "I was between this and a macbook pro14\", but I'm super satisfied and felt like it was a great deal to upgrade the RAM to 32 and the 1 tb HD w the free office pro acrobat std.",
+          "Sorry for all of this text, but I would love some advice, if it is based on personal experience that would be a lot better, but all suggestions are welcome, thanks!",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo."
+        ],
+        "negative": [
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "It's a nice enough laptop, but averaging 3.5 hours of battery life from extremally light tasks with my mentioned battery saving attempts is bad, the linux sleep thing is bad too.",
+          "No adobe suite , no gaming, no autocad, no ms office, its useless"
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 62.24
+  }
+}

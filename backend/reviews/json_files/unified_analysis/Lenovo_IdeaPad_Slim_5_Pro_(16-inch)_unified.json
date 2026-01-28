@@ -1,0 +1,153 @@
+{
+  "model_name": "Lenovo IdeaPad Slim 5 Pro (16-inch)",
+  "total_reviews": 25,
+  "platform_stats": {
+    "reddit": {
+      "positive": 19,
+      "neutral": 4,
+      "negative": 2,
+      "total_reviews": 25,
+      "sentiment_score": 0.68,
+      "avg_compound": 0.477
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 2,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.549
+      },
+      "Students": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 3,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.793
+      },
+      "Content Creators": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 3,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.931
+      },
+      "Casual Users": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      },
+      "Programmers / Engineers": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 2,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.871
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "gpu power",
+          "increase screen",
+          "draw chips",
+          "delete key",
+          "connect external"
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [
+          "calibration screen"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "fhd hz",
+          "cooler quieter",
+          "1100nits touch",
+          "matte oled",
+          "report calibration"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "mousepad decent",
+          "performance increase",
+          "delete key",
+          "connection declared"
+        ],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "The press depth is decent and overall the typing feels reassuring and comfortable.",
+          "I tried a lot of Fan Control tools and the \"[Asus Fan Control V5]( allows to set the fan to a constant 2000rpm.",
+          "The only point that was initially a minus was the fan, which even in balanced energy and silent fan mode has a tendency to spin up and down when the CPU got anything to do, and the sharp spin up is very audible."
+        ],
+        "negative": [
+          "This is enough to produce an audible damp sound which I find irritating.",
+          "Some reviewers complained about the screen wobbling and the mouse pad clicking."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "I hope HP Elitebooks and LG 16 Pro launch soon, I agree, both looks promising!",
+          "The press depth is decent and overall the typing feels reassuring and comfortable.",
+          "I tried a lot of Fan Control tools and the \"[Asus Fan Control V5]( allows to set the fan to a constant 2000rpm."
+        ],
+        "negative": [
+          "This is enough to produce an audible damp sound which I find irritating.",
+          "Some reviewers complained about the screen wobbling and the mouse pad clicking."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Intel Lunar Lake Laptops 2025 []( * Integrated RAM on package for increased bandwidth and efficiency * Enhanced energy efficiency and battery life up to 24 hours (video playback) * Improved thermal management for cooler and quieter laptops.",
+          "The press depth is decent and overall the typing feels reassuring and comfortable.",
+          "I tried a lot of Fan Control tools and the \"[Asus Fan Control V5]( allows to set the fan to a constant 2000rpm."
+        ],
+        "negative": [
+          "This is enough to produce an audible damp sound which I find irritating.",
+          "Some reviewers complained about the screen wobbling and the mouse pad clicking."
+        ]
+      },
+      "Casual Users": {
+        "positive": [],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "The press depth is decent and overall the typing feels reassuring and comfortable.",
+          "I tried a lot of Fan Control tools and the \"[Asus Fan Control V5]( allows to set the fan to a constant 2000rpm.",
+          "The only point that was initially a minus was the fan, which even in balanced energy and silent fan mode has a tendency to spin up and down when the CPU got anything to do, and the sharp spin up is very audible."
+        ],
+        "negative": [
+          "This is enough to produce an audible damp sound which I find irritating.",
+          "Although such a feature may seem futile for a notebook, since I will keep it as a second home PC (when not travelling) it can be very convenient to manage it, at home, from the main PC (with TeamViewer or similar software).",
+          "Some reviewers complained about the screen wobbling and the mouse pad clicking."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 7.41
+  }
+}

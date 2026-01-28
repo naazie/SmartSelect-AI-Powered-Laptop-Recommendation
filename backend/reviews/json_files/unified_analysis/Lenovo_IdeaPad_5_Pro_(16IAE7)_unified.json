@@ -1,0 +1,20 @@
+{
+  "model_name": "Lenovo_IdeaPad_5_Pro_(16IAE7)",
+  "total_reviews": 0,
+  "platform_stats": {
+    "reddit": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "total_reviews": 0
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {},
+    "keywords_by_group": {},
+    "snippets_by_group": {}
+  },
+  "timings": {
+    "total_time_sec": 0.9
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "model_name": "Lenovo Yoga Slim 7",
+  "total_reviews": 389,
+  "platform_stats": {
+    "reddit": {
+      "positive": 264,
+      "neutral": 72,
+      "negative": 53,
+      "total_reviews": 389,
+      "sentiment_score": 0.542,
+      "avg_compound": 0.404
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 58,
+        "neutral": 1,
+        "negative": 6,
+        "total_reviews": 65,
+        "sentiment_score": 0.8,
+        "avg_compound": 0.676
+      },
+      "Students": {
+        "positive": 31,
+        "neutral": 0,
+        "negative": 2,
+        "total_reviews": 33,
+        "sentiment_score": 0.879,
+        "avg_compound": 0.756
+      },
+      "Content Creators": {
+        "positive": 44,
+        "neutral": 3,
+        "negative": 3,
+        "total_reviews": 50,
+        "sentiment_score": 0.82,
+        "avg_compound": 0.694
+      },
+      "Casual Users": {
+        "positive": 49,
+        "neutral": 4,
+        "negative": 5,
+        "total_reviews": 58,
+        "sentiment_score": 0.759,
+        "avg_compound": 0.607
+      },
+      "Programmers / Engineers": {
+        "positive": 42,
+        "neutral": 0,
+        "negative": 4,
+        "total_reviews": 46,
+        "sentiment_score": 0.826,
+        "avg_compound": 0.707
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "aluminum enclosure",
+          "touchscreen activate",
+          "charging connect"
+        ],
+        "negative": [
+          "glossy display",
+          "egpu compatibility",
+          "g1 used",
+          "biggest issues",
+          "8k wqxga"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "screen coating",
+          "battery prioritised",
+          "brightness limited",
+          "wireless mouse",
+          "power efficiency"
+        ],
+        "negative": [
+          "seen ryzen",
+          "firefly",
+          "compact lightweight",
+          "multitasking cad",
+          "yoga"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "waking bluetooth",
+          "ssd solve",
+          "life tradeoff",
+          "external webcam",
+          "panel pwm"
+        ],
+        "negative": [
+          "reflective screen",
+          "eye strain",
+          "yoga",
+          "rpm noise",
+          "lunar lake"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "occasional light",
+          "gen4 performance",
+          "battery prioritised"
+        ],
+        "negative": [
+          "download speed",
+          "hotspot s23",
+          "fine wi",
+          "fi driver",
+          "tested ookla"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "sustain cpu",
+          "waking bluetooth",
+          "egpu rtx",
+          "external webcam"
+        ],
+        "negative": [
+          "m4100 slow",
+          "combat glare",
+          "update issues",
+          "gaming chosen",
+          "s16 saw"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Like a  (I type a lot, like really a lot, well, you see yourself),  (this would be great, to be able to finally efficiently use laptop without mouse), ,  (especially USB-C), , , , etc.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "While I could live with the Yoga's display, I really missed the haptic touchpad and hated that it only came with 16GB.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "Unfortunately none of the reviewers actually had these exact SKUs (even reviewers in my region), so someone complaining about screen quality while having a worse screen or boasting good battery life with a FHD screen instead of a 3K oled is not really helpful."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Like a  (I type a lot, like really a lot, well, you see yourself),  (this would be great, to be able to finally efficiently use laptop without mouse), ,  (especially USB-C), , , , etc.",
+          "Speakers are really good too but make sure Dolby Atmos is enabled for the best sound."
+        ],
+        "negative": [
+          "While I could live with the Yoga's display, I really missed the haptic touchpad and hated that it only came with 16GB.",
+          "This means it has great battery longetivitiy, but compatibility could sometimes be a weakness - mostly in terms of worse performance.",
+          "Unfortunately none of the reviewers actually had these exact SKUs (even reviewers in my region), so someone complaining about screen quality while having a worse screen or boasting good battery life with a FHD screen instead of a 3K oled is not really helpful."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Like a  (I type a lot, like really a lot, well, you see yourself),  (this would be great, to be able to finally efficiently use laptop without mouse), ,  (especially USB-C), , , , etc.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "Unfortunately none of the reviewers actually had these exact SKUs (even reviewers in my region), so someone complaining about screen quality while having a worse screen or boasting good battery life with a FHD screen instead of a 3K oled is not really helpful.",
+          "I don't want to deal with broken hinges and similar problems."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely.",
+          "Like a  (I type a lot, like really a lot, well, you see yourself),  (this would be great, to be able to finally efficiently use laptop without mouse), ,  (especially USB-C), , , , etc."
+        ],
+        "negative": [
+          "i don't have the money to buy anything over 1k :( so ill stick with the 16gb also, im really stuck on something.",
+          "Unfortunately none of the reviewers actually had these exact SKUs (even reviewers in my region), so someone complaining about screen quality while having a worse screen or boasting good battery life with a FHD screen instead of a 3K oled is not really helpful.",
+          "I don't want to deal with broken hinges and similar problems."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Like a  (I type a lot, like really a lot, well, you see yourself),  (this would be great, to be able to finally efficiently use laptop without mouse), ,  (especially USB-C), , , , etc.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "While I could live with the Yoga's display, I really missed the haptic touchpad and hated that it only came with 16GB.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "I don't want to deal with broken hinges and similar problems."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 110.03
+  }
+}

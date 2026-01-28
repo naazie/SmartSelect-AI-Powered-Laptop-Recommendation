@@ -1,0 +1,194 @@
+{
+  "model_name": "Lenovo_IdeaPad_Slim_5_Pro",
+  "total_reviews": 1580,
+  "platform_stats": {
+    "reddit": {
+      "positive": 831,
+      "neutral": 393,
+      "negative": 356,
+      "total_reviews": 1580,
+      "sentiment_score": 0.301,
+      "avg_compound": 0.202
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 200,
+        "neutral": 38,
+        "negative": 69,
+        "total_reviews": 307,
+        "sentiment_score": 0.427,
+        "avg_compound": 0.332
+      },
+      "Students": {
+        "positive": 35,
+        "neutral": 4,
+        "negative": 12,
+        "total_reviews": 51,
+        "sentiment_score": 0.451,
+        "avg_compound": 0.394
+      },
+      "Content Creators": {
+        "positive": 67,
+        "neutral": 8,
+        "negative": 16,
+        "total_reviews": 91,
+        "sentiment_score": 0.56,
+        "avg_compound": 0.439
+      },
+      "Casual Users": {
+        "positive": 50,
+        "neutral": 4,
+        "negative": 4,
+        "total_reviews": 58,
+        "sentiment_score": 0.793,
+        "avg_compound": 0.601
+      },
+      "Programmers / Engineers": {
+        "positive": 49,
+        "neutral": 4,
+        "negative": 7,
+        "total_reviews": 60,
+        "sentiment_score": 0.7,
+        "avg_compound": 0.583
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "40fps feel",
+          "lake ultraportable",
+          "touchscreen returning",
+          "display colors",
+          "temperature built"
+        ],
+        "negative": [
+          "dirty environment",
+          "feel sluggish",
+          "occasional phantom",
+          "egpu compatibility",
+          "fans didn"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "speakers sound",
+          "ips panel"
+        ],
+        "negative": [
+          "ultrabooks framework",
+          "smoothly lspdfr",
+          "higher range",
+          "matches requirements",
+          "2015 woulda"
+        ]
+      },
+      "Content Creators": {
+        "positive": [],
+        "negative": [
+          "comparison samsung",
+          "vs snapdragon",
+          "eye strain",
+          "gta5 720p",
+          "touchscreen copilot"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "webshops sporting",
+          "reads light",
+          "persists ips"
+        ],
+        "negative": [
+          "download speed",
+          "fine wi",
+          "phone hotspot",
+          "s23",
+          "tested ookla"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "mousepad decent",
+          "spikes cpu",
+          "ssd loq",
+          "igpu bios",
+          "plastic hinges"
+        ],
+        "negative": [
+          "battery life",
+          "displays",
+          "update issues",
+          "fps lowest",
+          "heavy task"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "It is \"only\" 300 nits bright, some people complained about it being too dim for them, but I found it perfectly fine, I use it comfortably at 70-75% brightness (my desktop Dell monitor is only 250 nits and it it is still bright enough!)",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Also I'm a casual gamer, I've always had the dream of having dual monitors and all so needless to say I'll be doing that, but I want a nice sleek laptop which has pretty good specs."
+        ],
+        "negative": [
+          "The laptop crashes rarely when I play valorant on it, although i think its more of a vanguard anti cheat problem rather than the device problem.",
+          "It almost vomit inducing its such a disgusting smell and stinks up the whole shop and im also risking infestation with that damn thing in the shop!",
+          "the rest have \"grease cutters\" (usually some form of citrus, but citrus) which will destroy circut traces, avoid at all costs."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "It is \"only\" 300 nits bright, some people complained about it being too dim for them, but I found it perfectly fine, I use it comfortably at 70-75% brightness (my desktop Dell monitor is only 250 nits and it it is still bright enough!)",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "They stay good, don't get me wrong : but at any price range there's pretty much always a better deal."
+        ],
+        "negative": [
+          "So over the last nearly 15 years it’s just gotten worse and worse and worse over there with no help and no light at the end of the tunnel.",
+          "3 of the cats are mine and I’m rescuing them from her soon, but I can’t take them all and I can’t call animal control because she has threatened to blackmail me if I do, telling me she knows she is doing wrong.",
+          "It’s horrible how unfortunately normal all this crap is."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "It is \"only\" 300 nits bright, some people complained about it being too dim for them, but I found it perfectly fine, I use it comfortably at 70-75% brightness (my desktop Dell monitor is only 250 nits and it it is still bright enough!)",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "So over the last nearly 15 years it’s just gotten worse and worse and worse over there with no help and no light at the end of the tunnel.",
+          "3 of the cats are mine and I’m rescuing them from her soon, but I can’t take them all and I can’t call animal control because she has threatened to blackmail me if I do, telling me she knows she is doing wrong.",
+          "It’s horrible how unfortunately normal all this crap is."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "It is \"only\" 300 nits bright, some people complained about it being too dim for them, but I found it perfectly fine, I use it comfortably at 70-75% brightness (my desktop Dell monitor is only 250 nits and it it is still bright enough!)",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely."
+        ],
+        "negative": [
+          "The actual non-sale price is slightly more expensive, but then again, considering how rarely you purchase a laptop, it would be stupid to not wait for a sale to buy.",
+          "But, seeing its battery capacity as 45Wh, no wonder it has low battery backup.",
+          "I feel bad now for sharing that shit piece."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Her room is kept very clean but condensate and natural dust (as well as three cats) did a huge number on the fan and all its parts.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "But how fucking ridiculous that you live like such absolute pig that you are a biological danger to the public and visitors in your home",
+          "Dead skin cells, hairs, residues from cooking and even cleaning chemicals can create or disturb dust, and it'll settle or stick as it must."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 168.86
+  }
+}

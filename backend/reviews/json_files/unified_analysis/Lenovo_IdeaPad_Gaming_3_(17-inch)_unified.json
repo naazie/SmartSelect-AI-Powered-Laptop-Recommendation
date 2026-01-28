@@ -1,0 +1,142 @@
+{
+  "model_name": "Lenovo IdeaPad Gaming 3 (17-inch)",
+  "total_reviews": 36,
+  "platform_stats": {
+    "reddit": {
+      "positive": 23,
+      "neutral": 12,
+      "negative": 1,
+      "total_reviews": 36,
+      "sentiment_score": 0.611,
+      "avg_compound": 0.367
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 3,
+        "neutral": 1,
+        "negative": 1,
+        "total_reviews": 5,
+        "sentiment_score": 0.4,
+        "avg_compound": 0.447
+      },
+      "Students": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.878
+      },
+      "Content Creators": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      },
+      "Casual Users": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.963
+      },
+      "Programmers / Engineers": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 0.0,
+        "avg_compound": 0.0
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "keyboard layout",
+          "144hz ips"
+        ],
+        "negative": [
+          "gaming notebook",
+          "gs tho",
+          "compared brands",
+          "processor",
+          "quality stiffness"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "decision thermal",
+          "quality"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "23mm keyboard",
+          "dedicated mouse",
+          "look gaming",
+          "ips sync"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Keyboard layout is great, but “feel” is, well, okay.",
+          "Y740 has better cooling but the gs75 looks a bit better on design.",
+          "The keyboard deck has a bit of flex when pressing down with force, but given its size, it’s still pretty sturdy."
+        ],
+        "negative": [
+          "stiffness is a little weak compared to other brands, but still no real reason to complain.",
+          "Nothing special, nothing awful.",
+          "This does not fit in my 15.6” laptop bag (it is not deep enough, but does fit width-wise)."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "MSI is good, don't get me wrong, but the cons seemed less ideal for MSI than Lenovo Legions."
+        ],
+        "negative": [
+          "Plus I didn't want to be that kid to haul out a loud ass spaceship in class."
+        ]
+      },
+      "Content Creators": {
+        "positive": [],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "Keyboard layout is great, but “feel” is, well, okay.",
+          "The keyboard deck has a bit of flex when pressing down with force, but given its size, it’s still pretty sturdy.",
+          "I do love the minimalist design otherwise."
+        ],
+        "negative": [
+          "Nothing special, nothing awful.",
+          "This does not fit in my 15.6” laptop bag (it is not deep enough, but does fit width-wise).",
+          "I did however hit close to my typing speed record on my second try with it (104 WPM) Overall, I’d give the unit a 7 10 for build quality and design, docking points for wasted space on the keyboard deck, thick-ish bezels and some flex around the unit."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 1.99
+  }
+}

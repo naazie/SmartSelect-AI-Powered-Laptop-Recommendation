@@ -1,0 +1,124 @@
+.cont-info {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    margin-bottom: 2%;
+}
+
+.product-info-main-cont {
+    margin-top: 2%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+}
+
+.general-info {
+    width: 92%;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    gap: 5px;
+    /* border: 1px solid #404040; */
+    margin: 2%;
+    padding: 2%;
+}
+
+.prod-img {
+    width: 24%;
+    /* background-color: aqua; */
+}
+
+.prod-gen-deets {
+    width: 70%;
+    text-align: left;
+    padding: 0;
+}
+
+.prod-specs {
+    width: 100%;
+}
+
+.tech-specs {
+    width: 92%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 3px solid #B9B7B7;
+    border-radius: 5px;
+    margin: 2%;
+    padding: 2%;
+    position: relative;
+}
+
+.jargon-wala-specs {
+    width: 98%;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    gap: 10px;
+    /* border: 1px solid #B9B7B7;
+    border-radius: 5px;
+    margin: 2%;
+    padding: 2%; */
+}
+
+.model-specs {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    width: 48%;
+}
+
+.specs {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    color: #3b3b3b;
+    border: 1px solid #B9B7B7;
+    padding: 5%;
+    width: 88%;
+}
+
+.prod-spec-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+.prod-spec-table td {
+  padding: 6px 10px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.prod-spec-table tr:last-child td {
+  border-bottom: none;
+}
+
+.prod-spec-table td:first-child {
+  font-weight: 500;
+  color: #3b3b3b;
+  width: 35%;
+}
+
+
+.your-specs {
+    display: flex;
+    flex-direction: column;
+    width: 48%;
+    flex: 1;
+}
+
+.specs-wrapper {
+    flex: 1;
+    display: flex;
+}
+
+

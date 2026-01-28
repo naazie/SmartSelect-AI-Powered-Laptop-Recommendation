@@ -1,0 +1,201 @@
+{
+  "model_name": "Lenovo Legion 5 Pro",
+  "total_reviews": 1146,
+  "platform_stats": {
+    "reddit": {
+      "positive": 600,
+      "neutral": 311,
+      "negative": 235,
+      "total_reviews": 1146,
+      "sentiment_score": 0.318,
+      "avg_compound": 0.22
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 128,
+        "neutral": 19,
+        "negative": 37,
+        "total_reviews": 184,
+        "sentiment_score": 0.495,
+        "avg_compound": 0.407
+      },
+      "Students": {
+        "positive": 37,
+        "neutral": 3,
+        "negative": 6,
+        "total_reviews": 46,
+        "sentiment_score": 0.674,
+        "avg_compound": 0.574
+      },
+      "Content Creators": {
+        "positive": 70,
+        "neutral": 9,
+        "negative": 15,
+        "total_reviews": 94,
+        "sentiment_score": 0.585,
+        "avg_compound": 0.487
+      },
+      "Casual Users": {
+        "positive": 55,
+        "neutral": 5,
+        "negative": 16,
+        "total_reviews": 76,
+        "sentiment_score": 0.513,
+        "avg_compound": 0.431
+      },
+      "Programmers / Engineers": {
+        "positive": 46,
+        "neutral": 1,
+        "negative": 10,
+        "total_reviews": 57,
+        "sentiment_score": 0.632,
+        "avg_compound": 0.535
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "fast packaging",
+          "ssd heard",
+          "raised wifi",
+          "temperatures remained"
+        ],
+        "negative": [
+          "life apple",
+          "workload requirements",
+          "kinds storage",
+          "1tb worse",
+          "linux sleep"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "play games",
+          "cons oled",
+          "remove panel",
+          "charger stylus"
+        ],
+        "negative": [
+          "battery gaming",
+          "ryzen concerns",
+          "1650ti run",
+          "diablo resurrected",
+          "graphics handle"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "oled display",
+          "shell hinges",
+          "buggy touchpad",
+          "panels ips",
+          "battery upgrade"
+        ],
+        "negative": [
+          "rtx3050 weak",
+          "battery backup",
+          "rate panels",
+          "display reason",
+          "revisions new"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "oled display",
+          "tested touchpad",
+          "shell hinges",
+          "key positioning"
+        ],
+        "negative": [
+          "dedicated gpu",
+          "handle gaming",
+          "diablo",
+          "battery lifespan",
+          "sturdy probably"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "framerates 40fps",
+          "close ssd",
+          "force igpu",
+          "display questions"
+        ],
+        "negative": [
+          "battery gaming",
+          "processor ryzen",
+          "9750h comparison",
+          "graphics handle",
+          "remaster max"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "It'll have the same advantages), and most importantly, has the best cooling out of all the units here, meaning it'll have the best sustained performance under load, which is very useful if working on big projects compiling rendering.",
+          "Help Finding a laptop Hello, I have $1300 in Best Buy credit and wanted some help finding a good laptop."
+        ],
+        "negative": [
+          "The Dell offers more value, but it only has 1 SSD slot with potentially worst thermal (could this cause long term damage to the components) [View Poll](",
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "and having a dead gpu affter 1 year, i am in r pchelp and i see a lot of dead gpu in laptop"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "It'll have the same advantages), and most importantly, has the best cooling out of all the units here, meaning it'll have the best sustained performance under load, which is very useful if working on big projects compiling rendering.",
+          "Help Finding a laptop Hello, I have $1300 in Best Buy credit and wanted some help finding a good laptop."
+        ],
+        "negative": [
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "It's a nice enough laptop, but averaging 3.5 hours of battery life from extremally light tasks with my mentioned battery saving attempts is bad, the linux sleep thing is bad too.",
+          "As for keyboard, idk how to review this because I've never used what's objectively deemed a bad or lousy keyboard, but lenovo said they did copy the thinkpad keyboard design so I dont think you'll face any issues or discomfort."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "It'll have the same advantages), and most importantly, has the best cooling out of all the units here, meaning it'll have the best sustained performance under load, which is very useful if working on big projects compiling rendering.",
+          "But if you want to do any gaming buy lenovo, its a great gaming laptop and it will be good for video editing as well but the battery life, build quality and the screen will be mid."
+        ],
+        "negative": [
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "It's a nice enough laptop, but averaging 3.5 hours of battery life from extremally light tasks with my mentioned battery saving attempts is bad, the linux sleep thing is bad too.",
+          "Sorry Dell, but this product is piss poor."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "It's a nice enough laptop, but averaging 3.5 hours of battery life from extremally light tasks with my mentioned battery saving attempts is bad, the linux sleep thing is bad too.",
+          "As for keyboard, idk how to review this because I've never used what's objectively deemed a bad or lousy keyboard, but lenovo said they did copy the thinkpad keyboard design so I dont think you'll face any issues or discomfort."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Her room is kept very clean but condensate and natural dust (as well as three cats) did a huge number on the fan and all its parts.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "Gaming will kill the battery even faster, and it will lower its performance dropping the frame rate badly on battery.",
+          "It's a nice enough laptop, but averaging 3.5 hours of battery life from extremally light tasks with my mentioned battery saving attempts is bad, the linux sleep thing is bad too.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 64.06
+  }
+}

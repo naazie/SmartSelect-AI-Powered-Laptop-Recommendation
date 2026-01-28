@@ -1,0 +1,154 @@
+{
+  "model_name": "Lenovo Legion Slim 7 (17)",
+  "total_reviews": 14,
+  "platform_stats": {
+    "reddit": {
+      "positive": 9,
+      "neutral": 2,
+      "negative": 3,
+      "total_reviews": 14,
+      "sentiment_score": 0.429,
+      "avg_compound": 0.396
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 3,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.911
+      },
+      "Students": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.996
+      },
+      "Content Creators": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 2,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.869
+      },
+      "Casual Users": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 3,
+        "sentiment_score": 0.333,
+        "avg_compound": 0.53
+      },
+      "Programmers / Engineers": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "cpu performance",
+          "powerful rtx",
+          "ssd touchpad"
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [
+          "cpu performance",
+          "powerful rtx",
+          "1tb ssd"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "touchpad 14",
+          "heard thunderbolt",
+          "1tb ssd",
+          "consume power",
+          "surfing light"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "touchpad 14",
+          "heard thunderbolt",
+          "1tb ssd",
+          "consume power",
+          "surfing light"
+        ],
+        "negative": [
+          "battery life",
+          "macbooks hours",
+          "insane battery",
+          "battery like",
+          "newer macbooks"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "In our Asus ROG Zephyrus G15 review, we praise its sleek design, stunning display, strong CPU performance.",
+          "Asus ROG Zephyrus G15 RTX 3080 GPU: $2,199 $1,429 @ Best Buy Best Buy is currently slashing $770 off the Asus ROG Zephyrus G15 RTX 3080 gaming laptop."
+        ],
+        "negative": [
+          "Also I have seen on reviews that UHD will kill the battery life more of the laptop and unless you KNOW you need it (into hardcore gaming) ... you don't really need it?",
+          "I saw that there is no Ethernet connection , I've only heard about thunderbolt a few days ago so , it should be a problem getting an hub with ethernet connection right ?"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "In our Asus ROG Zephyrus G15 review, we praise its sleek design, stunning display, strong CPU performance.",
+          "Asus ROG Zephyrus G15 RTX 3080 GPU: $2,199 $1,429 @ Best Buy Best Buy is currently slashing $770 off the Asus ROG Zephyrus G15 RTX 3080 gaming laptop."
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "Also, is the Intel I7-11800H still a pretty good CPU these days?",
+          "I currently have legion 5 17\" with i7 rtx2060 , while it has a very good build quality I'm looking to get a smaller , lighter laptop with better battery life since im not playing much games anymore ."
+        ],
+        "negative": [
+          "Also I have seen on reviews that UHD will kill the battery life more of the laptop and unless you KNOW you need it (into hardcore gaming) ... you don't really need it?",
+          "I saw that there is no Ethernet connection , I've only heard about thunderbolt a few days ago so , it should be a problem getting an hub with ethernet connection right ?"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "Also, is the Intel I7-11800H still a pretty good CPU these days?",
+          "I currently have legion 5 17\" with i7 rtx2060 , while it has a very good build quality I'm looking to get a smaller , lighter laptop with better battery life since im not playing much games anymore ."
+        ],
+        "negative": [
+          "Also I have seen on reviews that UHD will kill the battery life more of the laptop and unless you KNOW you need it (into hardcore gaming) ... you don't really need it?",
+          "I saw that there is no Ethernet connection , I've only heard about thunderbolt a few days ago so , it should be a problem getting an hub with ethernet connection right ?"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 3.98
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "model_name": "Lenovo ThinkPad E16 Gen 1",
+  "total_reviews": 602,
+  "platform_stats": {
+    "reddit": {
+      "positive": 270,
+      "neutral": 180,
+      "negative": 152,
+      "total_reviews": 602,
+      "sentiment_score": 0.196,
+      "avg_compound": 0.131
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 37,
+        "neutral": 2,
+        "negative": 5,
+        "total_reviews": 44,
+        "sentiment_score": 0.727,
+        "avg_compound": 0.56
+      },
+      "Students": {
+        "positive": 33,
+        "neutral": 2,
+        "negative": 3,
+        "total_reviews": 38,
+        "sentiment_score": 0.789,
+        "avg_compound": 0.626
+      },
+      "Content Creators": {
+        "positive": 22,
+        "neutral": 0,
+        "negative": 2,
+        "total_reviews": 24,
+        "sentiment_score": 0.833,
+        "avg_compound": 0.593
+      },
+      "Casual Users": {
+        "positive": 45,
+        "neutral": 8,
+        "negative": 27,
+        "total_reviews": 80,
+        "sentiment_score": 0.225,
+        "avg_compound": 0.198
+      },
+      "Programmers / Engineers": {
+        "positive": 26,
+        "neutral": 2,
+        "negative": 10,
+        "total_reviews": 38,
+        "sentiment_score": 0.421,
+        "avg_compound": 0.316
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "hs processor",
+          "ojt light",
+          "portability",
+          "display quite",
+          "weight thinness"
+        ],
+        "negative": [
+          "freezes updates",
+          "lid",
+          "s15 vs",
+          "design figma",
+          "business netflix"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "processor upgrade",
+          "quality battery",
+          "400 nits",
+          "portability"
+        ],
+        "negative": [
+          "charged theft",
+          "screen",
+          "solve freezing",
+          "refuses download",
+          "finger lags"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "battery life",
+          "storage 1tb",
+          "portability",
+          "ion charger",
+          "hinges concern"
+        ],
+        "negative": [
+          "judging subdomain",
+          "seller returns",
+          "ac",
+          "checking phone",
+          "business netflix"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "longer battery"
+        ],
+        "negative": [
+          "pricing error",
+          "suspicious card",
+          "waiting payment",
+          "happen hps",
+          "redirect phishing"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "support amdgpu",
+          "tlc display"
+        ],
+        "negative": [
+          "scams website",
+          "store messed",
+          "website scored",
+          "checking phone",
+          "saying rupees"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "AMD on the other hand works like a dream, and Linux support for AMDGPU is the best of the bunch by far.",
+          "I'm happy with this, I was constantly updating, and doing my studies so it definitely holds up good.",
+          "Title: 7 Powerful Reasons the Lenovo Legion Pro 7i Gen 10 Review Says It’s a Game Changer in 2025 🎮 Hey everyone, I just read this review titled *“7 Powerful Reasons the Lenovo Legion Pro 7i Gen 10 Review Proves It’s a Game Changer in 2025”* and thought it’d be worth sharing discussing."
+        ],
+        "negative": [
+          "But given no desktop-replacement GPUs from AMD right now (no 9000 mobile series yet) it seems the high-end gaming will be stealing our AMD CPU supply for some time to come.",
+          "I used one with a worse cpu and it ran the games mentioned normally with minimal problems",
+          "Tbf, if you fancy a ai 7 350 but have a few money to spare i would reccomend to ai 9 hx 370 💯 I think for what I use the laptop for (school work, word, Google and researching the laptop is have handles it good) but if I was to to other stuff which are way more demanding it would struggle a bit."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "They stay good, don't get me wrong : but at any price range there's pretty much always a better deal.",
+          "I'm happy with this, I was constantly updating, and doing my studies so it definitely holds up good.",
+          "The 14inch is a godsend its perfect!!!"
+        ],
+        "negative": [
+          "I wish I could get a really good one for my work but I am still too scared of breaking it or it being stolen.",
+          "The web cam is terrible too almost like sometjing from the year 2000 Battery life is terrible even in the power saver mode its awful lasts me around 4 hours maybe 5 when in heavy use my Dell lasted me 8 hours straight.",
+          "Tbf, if you fancy a ai 7 350 but have a few money to spare i would reccomend to ai 9 hx 370 💯 I think for what I use the laptop for (school work, word, Google and researching the laptop is have handles it good) but if I was to to other stuff which are way more demanding it would struggle a bit."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Coming to the Ram, if I choose 32gb, I also have to choose the OLED screen; budget is not a problem, the fact is that the size of this laptop is perfect for me and I love the 16:10 form factor on a 15\" display.",
+          "Coming to the Ram, if I choose 32gb, I also have to choose the OLED screen; budget is not a problem, the fact is that the size of this laptop is perfect for me and I love the 16:10 form factor on a 15\" display.",
+          "I'm happy with this, I was constantly updating, and doing my studies so it definitely holds up good."
+        ],
+        "negative": [
+          "Tbf, if you fancy a ai 7 350 but have a few money to spare i would reccomend to ai 9 hx 370 💯 I think for what I use the laptop for (school work, word, Google and researching the laptop is have handles it good) but if I was to to other stuff which are way more demanding it would struggle a bit.",
+          "Correct me if I'm wrong, but aren't sites check response and then send info about a site, judging from 1) the subdomain, 2) the page ( in) and then parse arguments passed in the url if there are any?",
+          "The slot for the memory card looks concerning, I have not tried it yet but I'm not sure if I will..doesn't look like it will ever come back out."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "Had it happen a few times on websites, once at JD sports with some AF1 marked down to $20 instead of $200 but they ended up refunding everyone lol and once with a skate deck that was FREE, again they just emailed me saying lol no 😂",
+          "I'm happy with this, I was constantly updating, and doing my studies so it definitely holds up good.",
+          "The 14inch is a godsend its perfect!!!"
+        ],
+        "negative": [
+          "Lenovos webshop has been notorious for having odd bugs, my father purchased a laptop years ago and for some reason the payment failed so he got pissed off and went to a store and bought one.",
+          "Lenovo's store is not [store.lenovo.com]( The whole website is a scam Lenovo's actual store website is [ Go to [lenovo.com]( | Click \"Products\" and look at the URL Whole website seems to be a scam, the only thing different should be the location and Language after [LOCATION LANGUAGE](",
+          "I'd go for it and see what happens if I were you, no harm in losing a rupee."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "AMD on the other hand works like a dream, and Linux support for AMDGPU is the best of the bunch by far.",
+          "It's very light and thin, build quality is pretty good and the OLED is really bright.",
+          "I feel like the average person should read more into the T&Cs so they know what they’re getting themselves into, but we don’t, so companies take advantage of that; and that is why we have lawyers :)"
+        ],
+        "negative": [
+          "But given no desktop-replacement GPUs from AMD right now (no 9000 mobile series yet) it seems the high-end gaming will be stealing our AMD CPU supply for some time to come.",
+          "The battery life is not super good though, and because it is a beast, unfortunately USB-C PD cannot fully power it.",
+          "He legit thought I was serious when I was saying Rupees are a fictional currency from Legend of Zelda and when I said no shit he still thought I was being serious."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 34.27
+  }
+}

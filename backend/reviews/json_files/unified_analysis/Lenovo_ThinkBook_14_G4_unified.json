@@ -1,0 +1,203 @@
+{
+  "model_name": "Lenovo ThinkBook 14 G4",
+  "total_reviews": 474,
+  "platform_stats": {
+    "reddit": {
+      "positive": 304,
+      "neutral": 94,
+      "negative": 76,
+      "total_reviews": 474,
+      "sentiment_score": 0.481,
+      "avg_compound": 0.342
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 54,
+        "neutral": 4,
+        "negative": 8,
+        "total_reviews": 66,
+        "sentiment_score": 0.697,
+        "avg_compound": 0.563
+      },
+      "Students": {
+        "positive": 29,
+        "neutral": 2,
+        "negative": 3,
+        "total_reviews": 34,
+        "sentiment_score": 0.765,
+        "avg_compound": 0.687
+      },
+      "Content Creators": {
+        "positive": 45,
+        "neutral": 3,
+        "negative": 6,
+        "total_reviews": 54,
+        "sentiment_score": 0.722,
+        "avg_compound": 0.572
+      },
+      "Casual Users": {
+        "positive": 56,
+        "neutral": 0,
+        "negative": 7,
+        "total_reviews": 63,
+        "sentiment_score": 0.778,
+        "avg_compound": 0.577
+      },
+      "Programmers / Engineers": {
+        "positive": 39,
+        "neutral": 2,
+        "negative": 3,
+        "total_reviews": 44,
+        "sentiment_score": 0.818,
+        "avg_compound": 0.655
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "bluetooth artifacts",
+          "thermal throttling",
+          "reviews panels",
+          "support displayport",
+          "setup thunderbolt"
+        ],
+        "negative": [
+          "eye strain",
+          "ghosting screen",
+          "glossy display",
+          "panel reviews",
+          "issues sensitive"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "gpu little",
+          "panel body",
+          "chromeos camera",
+          "amazing speakers",
+          "temperatures 35"
+        ],
+        "negative": [
+          "performance battery",
+          "charger issues",
+          "touchpad membrane",
+          "older models",
+          "optional usb"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "bluetooth artifacts",
+          "charging thresholds",
+          "aluminum terms",
+          "seal screen",
+          "gx4idl imported"
+        ],
+        "negative": [
+          "leaving screen",
+          "downside battery",
+          "rendering technique",
+          "strain docked",
+          "blinks"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "key positioning",
+          "ports displayport",
+          "efficiency battery"
+        ],
+        "negative": [
+          "download speed",
+          "hotspot s23",
+          "fine wi",
+          "tested ookla",
+          "troubleshooting steps"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "panel seemingly",
+          "pcb cooling",
+          "ssd moving",
+          "ports displayport",
+          "gx4idl imported"
+        ],
+        "negative": [
+          "touch screen",
+          "battery life",
+          "software updates",
+          "problems",
+          "displays leading"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "\"Word of warning - disabling Pluton can break suspend resume\" The ports are fine."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright.",
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win."
+        ],
+        "negative": [
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "\"Word of warning - disabling Pluton can break suspend resume\" The ports are fine.",
+          "No lag, no misclicks."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "The Lenovo is fast, but the jitters and lag it has when doing real-world stuff are unacceptable for me at that price.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely.",
+          "Display: The anti-glare coating is great for this and really helps when it is sunny outside and the sun is very bright."
+        ],
+        "negative": [
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "The above tasks would never challenge my HP Elite Dragonfly Chromebook, but that machine had historically bad battery life.",
+          "No lag, no misclicks."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen.",
+          "Very bright, very colorful, great pixel density, 120hz, good touch implementation, and completely free of defects."
+        ],
+        "negative": [
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "\"Word of warning - disabling Pluton can break suspend resume\" The ports are fine."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 47.82
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "model_name": "Lenovo Legion Slim 7 (16-inch)",
+  "total_reviews": 31,
+  "platform_stats": {
+    "reddit": {
+      "positive": 19,
+      "neutral": 11,
+      "negative": 1,
+      "total_reviews": 31,
+      "sentiment_score": 0.581,
+      "avg_compound": 0.323
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 4,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.958
+      },
+      "Students": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 2,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.971
+      },
+      "Content Creators": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 2,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.971
+      },
+      "Casual Users": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 2,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.877
+      },
+      "Programmers / Engineers": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.947
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "hinge allows",
+          "inexpensive ssds",
+          "144hz display",
+          "devices connectivity",
+          "language battery"
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [
+          "gaming notebook",
+          "sunlight preferable",
+          "display strong",
+          "1tb ssd"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "g15 gaming",
+          "tested touchpad",
+          "aluminum easily",
+          "fits hinge",
+          "usb hdmi"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "hinge allows",
+          "tested touchpad",
+          "usb hdmi",
+          "ips display",
+          "5ghz wi"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "gaming notebook",
+          "sunlight preferable",
+          "display glossy"
+        ],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "The Yoga devices have problems with the hinges, but the displays are pretty nice (not Vivobook OLED nice though).",
+          "In our Asus ROG Zephyrus G15 review, we praise its sleek design, stunning display, strong CPU performance."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong.",
+          "Hi there, Firstly, you’re wrong about the Intel iGPU; it was the step from 10th to 11th (G7 at the end) where graphics proved massively."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "In our Asus ROG Zephyrus G15 review, we praise its sleek design, stunning display, strong CPU performance.",
+          "Asus ROG Zephyrus G15 RTX 3080 GPU: $2,199 $1,429 @ Best Buy Best Buy is currently slashing $770 off the Asus ROG Zephyrus G15 RTX 3080 gaming laptop."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "The touchpad is a comfortable size, responds precisely, and supports Windows multitouch gestures without any problems.",
+          "Some gaming laptop are super ugly and I am not sure why they do that as the specs are pretty interesting for programmers.",
+          "Best regards, hugoLOST"
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong.",
+          "It will be very difficult to find a second identical RAM module."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "The touchpad is a comfortable size, responds precisely, and supports Windows multitouch gestures without any problems.",
+          ">the device has two USB-C ports (USB 3.2 Gen 1) with Power Delivery and DisplayPort support Are you sure the USB-C supports DisplayPort?",
+          "Best regards, hugoLOST"
+        ],
+        "negative": [
+          "It will be very difficult to find a second identical RAM module."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "Some gaming laptop are super ugly and I am not sure why they do that as the specs are pretty interesting for programmers."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 9.99
+  }
+}

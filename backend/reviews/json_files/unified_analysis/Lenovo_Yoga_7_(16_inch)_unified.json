@@ -1,0 +1,199 @@
+{
+  "model_name": "Lenovo Yoga 7 (16 inch)",
+  "total_reviews": 238,
+  "platform_stats": {
+    "reddit": {
+      "positive": 150,
+      "neutral": 62,
+      "negative": 26,
+      "total_reviews": 238,
+      "sentiment_score": 0.521,
+      "avg_compound": 0.367
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 43,
+        "neutral": 2,
+        "negative": 3,
+        "total_reviews": 48,
+        "sentiment_score": 0.833,
+        "avg_compound": 0.654
+      },
+      "Students": {
+        "positive": 32,
+        "neutral": 1,
+        "negative": 2,
+        "total_reviews": 35,
+        "sentiment_score": 0.857,
+        "avg_compound": 0.711
+      },
+      "Content Creators": {
+        "positive": 29,
+        "neutral": 1,
+        "negative": 3,
+        "total_reviews": 33,
+        "sentiment_score": 0.788,
+        "avg_compound": 0.72
+      },
+      "Casual Users": {
+        "positive": 22,
+        "neutral": 2,
+        "negative": 5,
+        "total_reviews": 29,
+        "sentiment_score": 0.586,
+        "avg_compound": 0.515
+      },
+      "Programmers / Engineers": {
+        "positive": 24,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 25,
+        "sentiment_score": 0.92,
+        "avg_compound": 0.728
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "nits hdr",
+          "igpu step",
+          "port selection"
+        ],
+        "negative": [
+          "considering processor",
+          "performance igpu",
+          "i5 2017",
+          "lab setting",
+          "620 run"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "nits hdr",
+          "proofing ssd",
+          "number keys",
+          "mix battery",
+          "port selection"
+        ],
+        "negative": [
+          "color accuracy",
+          "vibrant screen",
+          "notes glass",
+          "smaller screen",
+          "visual studio"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "touch input",
+          "rate hdmi",
+          "anemic usage"
+        ],
+        "negative": [
+          "battery life",
+          "particular screen",
+          "dim outdoor",
+          "running vsc",
+          "notes glass"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "7kg battery",
+          "1tb ssd",
+          "port selection",
+          "copy wifi"
+        ],
+        "negative": [
+          "battery life",
+          "screen option",
+          "means snapdragon",
+          "coding heavier",
+          "hi op"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "non touch",
+          "external cooling",
+          "standardized charging",
+          "port selection"
+        ],
+        "negative": [
+          "battery life",
+          "vsc codeblocks",
+          "eclipse running",
+          "power",
+          "heavier task"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "# Positives: * Stunning Design & Trackpad: The laptop looks sleek, almost like a MacBook, and the massive trackpad is so good that I hardly use a mouse.",
+          "The Yoga devices have problems with the hinges, but the displays are pretty nice (not Vivobook OLED nice though).",
+          "* Solid Hinge & Great Keyboard: The hinge is easy to open with one hand and feels premium, while the keyboard is clicky and visually appealing."
+        ],
+        "negative": [
+          "I haven't got into games yet, but i'd expect it to kill my battery.",
+          "I am not sure if I got a bad copy or not, but the wifi capability of this laptop is quite bad.",
+          "I’ve downloaded all of the intel and Lenovo updates, but the connection still remains unstable and weak."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Also, the yoga with the glass lid I ask about is stunning, and has the Fingerprint sensors, which both are maybe not that important but a great bonus.",
+          "Based on that research I've decided to move forward on my purchase but have switched from the AMD to the Intel processor since the Intel model is newer, has an improved chasis, & has a lot of newly improved features that support more future proofing and quality of life than the older AMD model.",
+          "It is really great for me cause it is the perfect balance between power and versatility, i want a balanced 2 in 1 which i will use for everything :from video editing and light gaming (minecraft) to school work and I want it to hold up well for at least 5 years."
+        ],
+        "negative": [
+          "I am not sure if I got a bad copy or not, but the wifi capability of this laptop is quite bad.",
+          "I’ve downloaded all of the intel and Lenovo updates, but the connection still remains unstable and weak.",
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Also, the yoga with the glass lid I ask about is stunning, and has the Fingerprint sensors, which both are maybe not that important but a great bonus.",
+          "Based on that research I've decided to move forward on my purchase but have switched from the AMD to the Intel processor since the Intel model is newer, has an improved chasis, & has a lot of newly improved features that support more future proofing and quality of life than the older AMD model.",
+          "# Positives: * Stunning Design & Trackpad: The laptop looks sleek, almost like a MacBook, and the massive trackpad is so good that I hardly use a mouse."
+        ],
+        "negative": [
+          "I am not sure if I got a bad copy or not, but the wifi capability of this laptop is quite bad.",
+          "I’ve downloaded all of the intel and Lenovo updates, but the connection still remains unstable and weak.",
+          "Just a note concerning the \"dead pixels\"- I have the exact same problem, and having read through some other forums (and finding someone who took the screen apart) it appears that it's actually an internal piece that's come undone."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "# Positives: * Stunning Design & Trackpad: The laptop looks sleek, almost like a MacBook, and the massive trackpad is so good that I hardly use a mouse.",
+          "* Solid Hinge & Great Keyboard: The hinge is easy to open with one hand and feels premium, while the keyboard is clicky and visually appealing.",
+          "* Outstanding Display: It's bright and colorful, with excellent HDR for movies."
+        ],
+        "negative": [
+          "I haven't got into games yet, but i'd expect it to kill my battery.",
+          "I am not sure if I got a bad copy or not, but the wifi capability of this laptop is quite bad.",
+          "I’ve downloaded all of the intel and Lenovo updates, but the connection still remains unstable and weak."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "Also, the yoga with the glass lid I ask about is stunning, and has the Fingerprint sensors, which both are maybe not that important but a great bonus.",
+          "I'm thinking of getting this laptop but I'm wondering about the CPU performance for things like python and matlab number crunching(data optimization small simulations etc) Just curious what kind of work do you do on it and is the CPU fast enough for that?",
+          "But I would love to experience what is might feel like to have the 32GB ram (if at all different)."
+        ],
+        "negative": [
+          "I'm kinda worried the battery life won't be great (as coding is a heavier task) and I would often use it in spots where power plugs aren't available lol",
+          "My only problems with it is that I have yet to see them go on sale and I hate that it only has USB C ports.",
+          "But I could just be too spoiled form such a fast machine that it makes this laptop feel so slow cuz I’m used to everyone loading up instantly and no lag."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 37.89
+  }
+}

@@ -1,0 +1,52 @@
+.main-cont-wish
+{
+    margin: 1%;
+    width: 88%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+    scroll-behavior: smooth;
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+}
+
+
+.heading-wish h2 {
+    width: 100%;
+    height: 100%;
+    color: #d6d6d6;
+}
+
+.go-to-rec
+{
+    width: 80%;
+    /* margin-right: 10%; */
+    /* margin: 2%; */
+    display: flex;
+    justify-content: center;    
+}
+
+.go-to-rec button
+{   
+    background-color: #d9d9d9;
+    color: #3b3b3b;
+    margin: 5%;
+    padding: 5% 15% 5% 15%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 25px;
+    font-weight: bolder;
+    font-size: 1.1em;
+    cursor: pointer;
+    
+}
+
+.go-to-rec button:hover
+{
+    background-color: #969191;
+    color: white;
+    box-shadow: 0 7px 14px rgba(0, 0, 0, 0.5);
+    transform: translateY(-2px);
+} 

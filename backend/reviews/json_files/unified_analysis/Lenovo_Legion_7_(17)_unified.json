@@ -1,0 +1,174 @@
+{
+  "model_name": "Lenovo Legion 7 (17)",
+  "total_reviews": 78,
+  "platform_stats": {
+    "reddit": {
+      "positive": 48,
+      "neutral": 18,
+      "negative": 12,
+      "total_reviews": 78,
+      "sentiment_score": 0.462,
+      "avg_compound": 0.355
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 20,
+        "neutral": 1,
+        "negative": 2,
+        "total_reviews": 23,
+        "sentiment_score": 0.783,
+        "avg_compound": 0.697
+      },
+      "Students": {
+        "positive": 6,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 6,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.939
+      },
+      "Content Creators": {
+        "positive": 9,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 9,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.859
+      },
+      "Casual Users": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 6,
+        "sentiment_score": 0.667,
+        "avg_compound": 0.733
+      },
+      "Programmers / Engineers": {
+        "positive": 7,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 8,
+        "sentiment_score": 0.875,
+        "avg_compound": 0.788
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "performance 4060",
+          "gpus data",
+          "tuf gaming",
+          "cooling function",
+          "uni buildings"
+        ],
+        "negative": [
+          "gtx 1660ti",
+          "issues screen",
+          "desktop functional",
+          "ryzen r5",
+          "16gb ddr4"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "cpu performance"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "display saw",
+          "cap power",
+          "ssd touchpad",
+          "weight thinness"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "smaller lighter",
+          "display saw",
+          "buildings charging"
+        ],
+        "negative": [
+          "battery life",
+          "macbooks hours",
+          "insane battery",
+          "battery like",
+          "newer macbooks"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "buildings charging"
+        ],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Help Finding a laptop Hello, I have $1300 in Best Buy credit and wanted some help finding a good laptop.",
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "What impresses me the most about this model is the really good battery life which makes me want to get it, I've seen positive reviews as well."
+        ],
+        "negative": [
+          "We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.",
+          "Fakespot detects fake reviews, fake products and unreliable sellers using AI.",
+          "A lot of people seem to have issues with screen colors being wrong (which I assume you can color correct) and some other issues im not too aware of in whether it is a common problem OR user issue."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Help Finding a laptop Hello, I have $1300 in Best Buy credit and wanted some help finding a good laptop.",
+          "Lenovo Legion Slim 7 RX 6800S: $1,949 $1,300 @ Best Buy Save $650 on the Lenovo Legion Slim 7 in this pre-Prime Day-rivaling deal from Best Buy.",
+          "Collective Thread: best laptop speakers and best laptop keyboards (attempt 2) It is hard to find any good list or larger comparison between laptop keyboards and speakers."
+        ],
+        "negative": [
+          "If you disagree with any of the models listed, don't refrain from telling and what you disagree with or would add change."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Looking for something new that has the best 4k UHD resolution ideally, and can be great for AAA games, and also a powerhouse for work processing bunch of software tabs etc...",
+          "16 inch laptops seem likely to be the ideal form factor but perhaps a 17inch with smaller dimensions than above are good as well.",
+          "Razer blade 17 vs lenovo yoga legion vs hp spectre omen Hi, looking for a new laptop and would love some help."
+        ],
+        "negative": [
+          "Also I have seen on reviews that UHD will kill the battery life more of the laptop and unless you KNOW you need it (into hardcore gaming) ... you don't really need it?",
+          "TDP limitations – Some laptops cap power so hard that an i9 + 4070 can perform worse than an i7 + 4060.",
+          "I saw that there is no Ethernet connection , I've only heard about thunderbolt a few days ago so , it should be a problem getting an hub with ethernet connection right ?"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "What impresses me the most about this model is the really good battery life which makes me want to get it, I've seen positive reviews as well.",
+          "I've done some laptop comparisons in nanoreview.net , (idk if it's a reliable site or not) but it's been telling me the Legion and the ASUS get better FPS on games than the MSI ones despite the better specs on the MSI laptops.",
+          "This model has a weaker CPU and GPU than the other ones but I'm still considering it for the better battery life and I've heard good things about the Legion models."
+        ],
+        "negative": [
+          "Also I have seen on reviews that UHD will kill the battery life more of the laptop and unless you KNOW you need it (into hardcore gaming) ... you don't really need it?",
+          "What worries me is the appalling battery life of 3 hours normally and less than an hour for gaming.",
+          "TDP limitations – Some laptops cap power so hard that an i9 + 4070 can perform worse than an i7 + 4060."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "What impresses me the most about this model is the really good battery life which makes me want to get it, I've seen positive reviews as well.",
+          "Looking for something new that has the best 4k UHD resolution ideally, and can be great for AAA games, and also a powerhouse for work processing bunch of software tabs etc...",
+          "Collective Thread: best laptop speakers and best laptop keyboards (attempt 2) It is hard to find any good list or larger comparison between laptop keyboards and speakers."
+        ],
+        "negative": [
+          "What worries me is the appalling battery life of 3 hours normally and less than an hour for gaming.",
+          "If you disagree with any of the models listed, don't refrain from telling and what you disagree with or would add change.",
+          "TDP limitations – Some laptops cap power so hard that an i9 + 4070 can perform worse than an i7 + 4060."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 10.93
+  }
+}

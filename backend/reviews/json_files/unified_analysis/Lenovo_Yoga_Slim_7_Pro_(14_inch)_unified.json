@@ -1,0 +1,166 @@
+{
+  "model_name": "Lenovo Yoga Slim 7 Pro (14 inch)",
+  "total_reviews": 69,
+  "platform_stats": {
+    "reddit": {
+      "positive": 52,
+      "neutral": 10,
+      "negative": 7,
+      "total_reviews": 69,
+      "sentiment_score": 0.652,
+      "avg_compound": 0.467
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 11,
+        "neutral": 0,
+        "negative": 2,
+        "total_reviews": 13,
+        "sentiment_score": 0.692,
+        "avg_compound": 0.683
+      },
+      "Students": {
+        "positive": 9,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 9,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.849
+      },
+      "Content Creators": {
+        "positive": 10,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 10,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.869
+      },
+      "Casual Users": {
+        "positive": 5,
+        "neutral": 1,
+        "negative": 0,
+        "total_reviews": 6,
+        "sentiment_score": 0.833,
+        "avg_compound": 0.67
+      },
+      "Programmers / Engineers": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 5,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.839
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "switch 60hz",
+          "light modelling"
+        ],
+        "negative": [
+          "product issues",
+          "reviews trustworthy",
+          "long battery",
+          "swift",
+          "grey fa507re"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "obscur game"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "terms performance",
+          "light modelling",
+          "thunderbolt ports"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "ram lpddr5x",
+          "rate 60hz",
+          "reduce refresh",
+          "light cozy"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "mousepad decent",
+          "cpu gpu",
+          "lg gram",
+          "report calibration"
+        ],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "The Yoga devices have problems with the hinges, but the displays are pretty nice (not Vivobook OLED nice though).",
+          "Main thing keeping me from pulling the trigger is glossy screen as I like bright rooms and sitting outside haha but... seems like nearly all of then have that.",
+          "So which one do y'all think is a better option, it would be helpful with an explanation too :') I also wonder how the  compares to the ?"
+        ],
+        "negative": [
+          "We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.",
+          "While I could live with the Yoga's display, I really missed the haptic touchpad and hated that it only came with 16GB.",
+          "Fakespot detects fake reviews, fake products and unreliable sellers using AI."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Look for reviews on the yoga yoga pro (compared to other brands, some great reviews and minimal complaints), then make sure the cpu is good.",
+          "Quality reduces drastically if you use in tablet mode, since the speakers actually play in the opposite direction|+ I think the best speakers I ever heard on a laptop, since its basically a huge rotating soundbar.",
+          "Very good hinge.|+ Very good, cant complain."
+        ],
+        "negative": [
+          "While I could live with the Yoga's display, I really missed the haptic touchpad and hated that it only came with 16GB.",
+          "the sad news first: I returned both laptop ||HP Spectre 14|Yoga 9i 2-in-1 gen 9| |:-|:-|:-| |Design|+ - Personally, I didnt really like the design.",
+          "No problem with buying used btw."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "Intel Lunar Lake Laptops 2025 []( * Integrated RAM on package for increased bandwidth and efficiency * Enhanced energy efficiency and battery life up to 24 hours (video playback) * Improved thermal management for cooler and quieter laptops.",
+          "So which one do y'all think is a better option, it would be helpful with an explanation too :') I also wonder how the  compares to the ?",
+          "]( The Asus' advantages are much better battery life (8 hours vs 5 on Lenovo) and an HDMI port."
+        ],
+        "negative": [
+          "No problem with buying used btw.",
+          "Correct me if I am wrong.",
+          "This is enough to produce an audible damp sound which I find irritating."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "Main thing keeping me from pulling the trigger is glossy screen as I like bright rooms and sitting outside haha but... seems like nearly all of then have that.",
+          "So which one do y'all think is a better option, it would be helpful with an explanation too :') I also wonder how the  compares to the ?",
+          "Best I can tell CPU should be pretty future proofed."
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "Quality reduces drastically if you use in tablet mode, since the speakers actually play in the opposite direction|+ I think the best speakers I ever heard on a laptop, since its basically a huge rotating soundbar.",
+          "Very good hinge.|+ Very good, cant complain.",
+          "I chose colour \"cosmic blue\" which is okay, but a fingerprint magnet| |Build Quality|+ Very nice build quality, solid materials - not creaky at all."
+        ],
+        "negative": [
+          "While I could live with the Yoga's display, I really missed the haptic touchpad and hated that it only came with 16GB.",
+          "the sad news first: I returned both laptop ||HP Spectre 14|Yoga 9i 2-in-1 gen 9| |:-|:-|:-| |Design|+ - Personally, I didnt really like the design.",
+          "No problem with buying used btw."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 9.61
+  }
+}

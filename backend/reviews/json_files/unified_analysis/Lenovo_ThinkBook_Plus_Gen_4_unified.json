@@ -1,0 +1,198 @@
+{
+  "model_name": "Lenovo ThinkBook Plus Gen 4",
+  "total_reviews": 1393,
+  "platform_stats": {
+    "reddit": {
+      "positive": 643,
+      "neutral": 387,
+      "negative": 363,
+      "total_reviews": 1393,
+      "sentiment_score": 0.201,
+      "avg_compound": 0.139
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 85,
+        "neutral": 12,
+        "negative": 22,
+        "total_reviews": 119,
+        "sentiment_score": 0.529,
+        "avg_compound": 0.369
+      },
+      "Students": {
+        "positive": 61,
+        "neutral": 6,
+        "negative": 19,
+        "total_reviews": 86,
+        "sentiment_score": 0.488,
+        "avg_compound": 0.358
+      },
+      "Content Creators": {
+        "positive": 34,
+        "neutral": 0,
+        "negative": 8,
+        "total_reviews": 42,
+        "sentiment_score": 0.619,
+        "avg_compound": 0.524
+      },
+      "Casual Users": {
+        "positive": 73,
+        "neutral": 7,
+        "negative": 33,
+        "total_reviews": 113,
+        "sentiment_score": 0.354,
+        "avg_compound": 0.288
+      },
+      "Programmers / Engineers": {
+        "positive": 76,
+        "neutral": 11,
+        "negative": 19,
+        "total_reviews": 106,
+        "sentiment_score": 0.538,
+        "avg_compound": 0.389
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "egpu separate",
+          "blast power",
+          "report calibration"
+        ],
+        "negative": [
+          "gpu legion",
+          "performance degraded",
+          "original ac",
+          "wix design",
+          "productivity 1st"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "touch snapdragon",
+          "egpu thunderbolt",
+          "determining cpu"
+        ],
+        "negative": [
+          "cpu processor",
+          "holding tablet",
+          "thinkpads bro",
+          "miss surface",
+          "screen beep"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "throttling cpu",
+          "typing brightness",
+          "weight newish",
+          "connectivity egpu",
+          "blast power"
+        ],
+        "negative": [
+          "possible return",
+          "judging subdomain",
+          "trust youtubers",
+          "ac",
+          "consumer mind"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "performance gains",
+          "expandable ssd",
+          "build battery",
+          "brightness rated",
+          "mediatek wifi"
+        ],
+        "negative": [
+          "pricing error",
+          "suspicious card",
+          "cancel order",
+          "touched chromebook",
+          "redirect phishing"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "optimized battery",
+          "expandable ssd"
+        ],
+        "negative": [
+          "scams website",
+          "website scored",
+          "real store",
+          "checking phone",
+          "saying rupees"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "It's not a “new release”, but it's the best Chrombook Acer makes, so I had to check it out as I'm on my journey to find the best new Chrombook for me.",
+          "I’m a Technician in chemical production, so I’m sure I won’t be doing TOO much work on the laptop but I’d still like to have the better of the 2 if it’s a clear choice.",
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win."
+        ],
+        "negative": [
+          "Laptops does have quite high failure rates and if people think failure=the company is bad then of course there’s not a single good brand.",
+          "Asus ROG line-up has 1 of the worst Liquid Metal applications I have ever seen, and all Asus laptops I have had in my hands had the exact same problem, aka, LM leaked away from the CPU and GPU area.",
+          "The quality of their lowest line was way worse than the highest line, and a lot of people buy the cheap stuff and then complain that it doesn't last."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Lenovo think pads are the best business class laptops since these are built for businesses they have extremely good build quality and are easy to repair and upgrade I would highly recommend the ThinkPad it will truly last",
+          "So Apple insider report that Apple has good satisfaction surveys, which isn’t a surprise, because Apple has amazing marketing and brand loyalty.",
+          "It's not a “new release”, but it's the best Chrombook Acer makes, so I had to check it out as I'm on my journey to find the best new Chrombook for me."
+        ],
+        "negative": [
+          "Sorry to disagree but that is not a good example, and I don't want people thinking car complaints are always generic when there are 30k dollars on the line.",
+          "I get hardware manufacturing issues that are *consistent* - everyone complains \"HP=\" Hinge Problem\" - yet I see the same complaints about Asus, even ROG & TUF units.",
+          "I know these comments are roasting you and making you feel bad about your purchase, but I don't want you to keep it just because you wanna prove them wrong or something, these people don't matter you have nothing to prove to them."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "It's not a “new release”, but it's the best Chrombook Acer makes, so I had to check it out as I'm on my journey to find the best new Chrombook for me.",
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win.",
+          "But at $629 (and even cheaper for open-box units at Best Buy), it’s an easy recommendation."
+        ],
+        "negative": [
+          "I see so much negative stuff about Asus that I'm still waiting for my 4-year-old Zenbook Flip S to die, and it has yet to do so.",
+          "The Lenovo is fast, but the jitters and lag it has when doing real-world stuff are unacceptable for me at that price.",
+          "I know these comments are roasting you and making you feel bad about your purchase, but I don't want you to keep it just because you wanna prove them wrong or something, these people don't matter you have nothing to prove to them."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "It's not a “new release”, but it's the best Chrombook Acer makes, so I had to check it out as I'm on my journey to find the best new Chrombook for me.",
+          "i bought a used 2021 macbook pro 14 inch for about $1100 and it's the best thing ever, still holds charge for like 6-7h in web, hope you didn't pay much for your ideapad lol",
+          "Had it happen a few times on websites, once at JD sports with some AF1 marked down to $20 instead of $200 but they ended up refunding everyone lol and once with a skate deck that was FREE, again they just emailed me saying lol no 😂"
+        ],
+        "negative": [
+          "Lenovos webshop has been notorious for having odd bugs, my father purchased a laptop years ago and for some reason the payment failed so he got pissed off and went to a store and bought one.",
+          "I see so much negative stuff about Asus that I'm still waiting for my 4-year-old Zenbook Flip S to die, and it has yet to do so.",
+          "Lenovo's store is not [store.lenovo.com]( The whole website is a scam Lenovo's actual store website is [ Go to [lenovo.com]( | Click \"Products\" and look at the URL Whole website seems to be a scam, the only thing different should be the location and Language after [LOCATION LANGUAGE]("
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "LOOOOOOOOOL, you mean like you can do whatever you want with the software, like tweak it however you want, like Windows & Linux & Android allow xD xD xD Apple (with the exception of the Apple Watch and the first 4 iPhones) is like a BMW.",
+          "Good performance, clearly overpriced, and yet not as luxurious as a Bentley Rolls Royce - but even BMW is better, more customization, more freedom with your device and not dumbed down.",
+          "It's mostly similar to a Macbook Air, complete with its pretty good battery life (not as good, but good for the size of the battery and can even run off of a 20W charger) and quiet operation, and that's a superb laptop considering the price and what you get for it."
+        ],
+        "negative": [
+          "I abuse the hell out of them in Construction sites and airports.",
+          "Asus ROG line-up has 1 of the worst Liquid Metal applications I have ever seen, and all Asus laptops I have had in my hands had the exact same problem, aka, LM leaked away from the CPU and GPU area.",
+          "The original iteration of windows 10 on arm was a mess, complete disaster in fact combined with terrible expensive hardware."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 182.89
+  }
+}

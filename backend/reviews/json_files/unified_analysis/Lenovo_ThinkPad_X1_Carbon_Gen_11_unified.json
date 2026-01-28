@@ -1,0 +1,198 @@
+{
+  "model_name": "Lenovo ThinkPad X1 Carbon Gen 11",
+  "total_reviews": 336,
+  "platform_stats": {
+    "reddit": {
+      "positive": 198,
+      "neutral": 97,
+      "negative": 41,
+      "total_reviews": 336,
+      "sentiment_score": 0.467,
+      "avg_compound": 0.305
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 25,
+        "neutral": 3,
+        "negative": 2,
+        "total_reviews": 30,
+        "sentiment_score": 0.767,
+        "avg_compound": 0.63
+      },
+      "Students": {
+        "positive": 24,
+        "neutral": 0,
+        "negative": 1,
+        "total_reviews": 25,
+        "sentiment_score": 0.92,
+        "avg_compound": 0.626
+      },
+      "Content Creators": {
+        "positive": 19,
+        "neutral": 1,
+        "negative": 1,
+        "total_reviews": 21,
+        "sentiment_score": 0.857,
+        "avg_compound": 0.699
+      },
+      "Casual Users": {
+        "positive": 17,
+        "neutral": 0,
+        "negative": 3,
+        "total_reviews": 20,
+        "sentiment_score": 0.7,
+        "avg_compound": 0.556
+      },
+      "Programmers / Engineers": {
+        "positive": 21,
+        "neutral": 2,
+        "negative": 3,
+        "total_reviews": 26,
+        "sentiment_score": 0.692,
+        "avg_compound": 0.537
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "portability battery",
+          "300 nits",
+          "144hz display",
+          "wifi webcam",
+          "business trips"
+        ],
+        "negative": [
+          "impact gaming",
+          "worse cpu",
+          "streaming adobe",
+          "original ac",
+          "wix design"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "1tb storage",
+          "additional displays",
+          "consume battery",
+          "books support",
+          "squished reports"
+        ],
+        "negative": [
+          "thinkpads higher",
+          "yoga thinkpads",
+          "inspiron",
+          "yoga build",
+          "different brands"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "scratches battery"
+        ],
+        "negative": [
+          "original ac",
+          "wix design",
+          "case",
+          "seller returns",
+          "netflix streaming"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "1tb ssd",
+          "charge usb"
+        ],
+        "negative": [
+          "screen flickering",
+          "display good",
+          "battery life",
+          "original ac",
+          "business netflix"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "cpu power",
+          "ssd space",
+          "settings fps",
+          "visualization portability",
+          "usb sound"
+        ],
+        "negative": [
+          "ipad keyboard",
+          "phone screen",
+          "functional desktop",
+          "battery life",
+          "yoga"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!",
+          "I hope to buy this in the next day or so, so thanks for all the help!",
+          "Title: 7 Powerful Reasons the Lenovo Legion Pro 7i Gen 10 Review Says It’s a Game Changer in 2025 🎮 Hey everyone, I just read this review titled *“7 Powerful Reasons the Lenovo Legion Pro 7i Gen 10 Review Proves It’s a Game Changer in 2025”* and thought it’d be worth sharing discussing."
+        ],
+        "negative": [
+          "I used one with a worse cpu and it ran the games mentioned normally with minimal problems",
+          "I don't think \"browsing web pages\" will be any demanding in the future, regarding \"future-proofity' You couldn't have known that in a few years time a few more chrome tabs could choke your system so much, could you?",
+          "But if you're mobile and need long unplugged sessions, the battery life sounds weak (which echoed in other reviews too)."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!",
+          "They stay good, don't get me wrong : but at any price range there's pretty much always a better deal.",
+          "I hope to buy this in the next day or so, so thanks for all the help!"
+        ],
+        "negative": [
+          "I wish I could get a really good one for my work but I am still too scared of breaking it or it being stolen.",
+          ": currently I have a surface book 2, 15\" that is way too heavy and both batteries are death and touchscreen doesn't work.",
+          "- I like light weight of Lenovo, and I like my current Lenovo, but Intel 258V is so frustratingly slower than AMD 375."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!",
+          "Coming to the Ram, if I choose 32gb, I also have to choose the OLED screen; budget is not a problem, the fact is that the size of this laptop is perfect for me and I love the 16:10 form factor on a 15\" display.",
+          "Coming to the Ram, if I choose 32gb, I also have to choose the OLED screen; budget is not a problem, the fact is that the size of this laptop is perfect for me and I love the 16:10 form factor on a 15\" display."
+        ],
+        "negative": [
+          "But if you're mobile and need long unplugged sessions, the battery life sounds weak (which echoed in other reviews too).",
+          "- I like light weight of Lenovo, and I like my current Lenovo, but Intel 258V is so frustratingly slower than AMD 375.",
+          "* The OLED + 240 Hz combo is tempting, but in bright environments, reflections may kill the vibe."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!",
+          "I really want a portable lightweight laptop with a nice oled screen, I only play Runescape which is like a 20 year old mmo.",
+          "All of these specs are better than that thinkpad you linked except maybe the chassis, at best and it ."
+        ],
+        "negative": [
+          "just bought this machine yesterday and I'm quite disappointed and anxious",
+          "I don't think \"browsing web pages\" will be any demanding in the future, regarding \"future-proofity' You couldn't have known that in a few years time a few more chrome tabs could choke your system so much, could you?",
+          "I’d argue that for watching movies, the display is not very good."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "🔹 Condition: Excellent – no major scratches, battery holds great charge 🔹 Includes: Genuine Lenovo charger 🔹 Super lightweight & ready to go!",
+          "I hope to buy this in the next day or so, so thanks for all the help!",
+          "It's very light and thin, build quality is pretty good and the OLED is really bright."
+        ],
+        "negative": [
+          "The battery life is not super good though, and because it is a beast, unfortunately USB-C PD cannot fully power it.",
+          "But I don't know if it will too weak.",
+          "- I like light weight of Lenovo, and I like my current Lenovo, but Intel 258V is so frustratingly slower than AMD 375."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 33.54
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "model_name": "Lenovo Yoga 7i",
+  "total_reviews": 598,
+  "platform_stats": {
+    "reddit": {
+      "positive": 379,
+      "neutral": 119,
+      "negative": 100,
+      "total_reviews": 598,
+      "sentiment_score": 0.467,
+      "avg_compound": 0.336
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 76,
+        "neutral": 5,
+        "negative": 9,
+        "total_reviews": 90,
+        "sentiment_score": 0.744,
+        "avg_compound": 0.591
+      },
+      "Students": {
+        "positive": 44,
+        "neutral": 2,
+        "negative": 5,
+        "total_reviews": 51,
+        "sentiment_score": 0.765,
+        "avg_compound": 0.643
+      },
+      "Content Creators": {
+        "positive": 35,
+        "neutral": 2,
+        "negative": 7,
+        "total_reviews": 44,
+        "sentiment_score": 0.636,
+        "avg_compound": 0.572
+      },
+      "Casual Users": {
+        "positive": 48,
+        "neutral": 2,
+        "negative": 13,
+        "total_reviews": 63,
+        "sentiment_score": 0.556,
+        "avg_compound": 0.464
+      },
+      "Programmers / Engineers": {
+        "positive": 41,
+        "neutral": 3,
+        "negative": 6,
+        "total_reviews": 50,
+        "sentiment_score": 0.7,
+        "avg_compound": 0.594
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "bluetooth constantly",
+          "charging easy",
+          "touchscreen display",
+          "setup thunderbolt",
+          "raised wifi"
+        ],
+        "negative": [
+          "eye strain",
+          "glossy display",
+          "noticeable improvements",
+          "egpu compatibility",
+          "causing issues"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "battery webcam",
+          "igpu screen",
+          "powerbank improve",
+          "damp sound",
+          "connection stream"
+        ],
+        "negative": [
+          "battery life",
+          "cpu option",
+          "gen10",
+          "1tb ssd",
+          "spectres workhorses"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "bluetooth older",
+          "unresponsive touchpad",
+          "setup thunderbolt",
+          "portable fits",
+          "aluminum enclosure"
+        ],
+        "negative": [
+          "reflective screen",
+          "i5 downside",
+          "power settings",
+          "dither rendering",
+          "coming gaming"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "nitpick touchscreen",
+          "light hinge",
+          "key positioning",
+          "reports power"
+        ],
+        "negative": [
+          "download speed",
+          "hotspot s23",
+          "fine wi",
+          "tested ookla",
+          "exceeded 180"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "bluetooth constantly",
+          "thunderbolt ports",
+          "screen webcamera",
+          "covmatrix weights"
+        ],
+        "negative": [
+          "compatibility yoga",
+          "hinges individuals",
+          "problems don",
+          "body display",
+          "provide update"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "(Asus Zenbook A14 vs Lenovo Yoga Slim 7i Aura Edition) I'm trying to save for a new laptop that has good battery life, good build quality, and a laptop that is best suited for coding (im a software engineering student).",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "In my books these are good numbers, but i am really sceptical about the hinges, i cant justify spending so much money to then get fucked with hinges.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "So far, not one ticket has been issued for any problems, and no complaints."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "My Notes: * LG: * More RAM * Lightweight but larger screen * Consumer reports says highest expected reliability * Comes with a 2 year warranty from Costco * Lenovo: * Personally had great experience with a ThinkPad * Great discount right now * Like the slightly smaller 14\" screen",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "(Asus Zenbook A14 vs Lenovo Yoga Slim 7i Aura Edition) I'm trying to save for a new laptop that has good battery life, good build quality, and a laptop that is best suited for coding (im a software engineering student)."
+        ],
+        "negative": [
+          "I’ve been using the ASUS ZenBook UX370U, but unfortunately the battery is in really bad shape now, and the flat cable stopped working — so the touchscreen is completely unusable.",
+          "In my books these are good numbers, but i am really sceptical about the hinges, i cant justify spending so much money to then get fucked with hinges.",
+          "To preface, I’m needing to replace my MacBook Pro that died out of no where (officially done with Apple laptops after this one) and not looking to spend over $700 right now, unfortunately."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen.",
+          "The thunderbolt 4 port would allow good access to a eGPU in the future, as I consider going away from my desktop more permanently, as I no longer play a lot of heavy games and would hope that the eGPU could perhaps be a good intermediary for when I want to play something occasionally."
+        ],
+        "negative": [
+          "I’ve been using the ASUS ZenBook UX370U, but unfortunately the battery is in really bad shape now, and the flat cable stopped working — so the touchscreen is completely unusable.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The low RPM noise isn’t too bad, it’s just the fact it’s there at all that irks me."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "I’ve been using the ASUS ZenBook UX370U, but unfortunately the battery is in really bad shape now, and the flat cable stopped working — so the touchscreen is completely unusable.",
+          "i don't have the money to buy anything over 1k :( so ill stick with the 16gb also, im really stuck on something.",
+          "It’s also dead silent under light use and I haven’t felt any distracting heat."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "(Asus Zenbook A14 vs Lenovo Yoga Slim 7i Aura Edition) I'm trying to save for a new laptop that has good battery life, good build quality, and a laptop that is best suited for coding (im a software engineering student).",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "Technically, 2-n-1 hinges are designed to fail to eliminate destruction of both base body and display body.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The old thing is from 2015 and still works really well but its heavy, overheats and battery problems Don't want ios as it doesn't support lots of softwares."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 105.76
+  }
+}

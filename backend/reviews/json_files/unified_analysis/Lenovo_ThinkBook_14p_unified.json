@@ -1,0 +1,203 @@
+{
+  "model_name": "Lenovo ThinkBook 14p",
+  "total_reviews": 451,
+  "platform_stats": {
+    "reddit": {
+      "positive": 294,
+      "neutral": 99,
+      "negative": 58,
+      "total_reviews": 451,
+      "sentiment_score": 0.523,
+      "avg_compound": 0.389
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 75,
+        "neutral": 1,
+        "negative": 6,
+        "total_reviews": 82,
+        "sentiment_score": 0.841,
+        "avg_compound": 0.671
+      },
+      "Students": {
+        "positive": 35,
+        "neutral": 5,
+        "negative": 1,
+        "total_reviews": 41,
+        "sentiment_score": 0.829,
+        "avg_compound": 0.681
+      },
+      "Content Creators": {
+        "positive": 46,
+        "neutral": 2,
+        "negative": 3,
+        "total_reviews": 51,
+        "sentiment_score": 0.843,
+        "avg_compound": 0.718
+      },
+      "Casual Users": {
+        "positive": 50,
+        "neutral": 0,
+        "negative": 3,
+        "total_reviews": 53,
+        "sentiment_score": 0.887,
+        "avg_compound": 0.708
+      },
+      "Programmers / Engineers": {
+        "positive": 55,
+        "neutral": 3,
+        "negative": 2,
+        "total_reviews": 60,
+        "sentiment_score": 0.883,
+        "avg_compound": 0.755
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "nvme ssd",
+          "chromebook speakers",
+          "thermal throttling",
+          "aluminum enclosure",
+          "bed battery"
+        ],
+        "negative": [
+          "light gaming",
+          "display surface",
+          "eye strain",
+          "phantom touches",
+          "egpu compatibility"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "improvement 4ghz",
+          "reflective screen",
+          "chromeos camera",
+          "build pure"
+        ],
+        "negative": [
+          "spending 2k",
+          "web processor",
+          "years m1",
+          "chip",
+          "shocked budgets"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "bluetooth constantly",
+          "glossy screen",
+          "apple airport",
+          "logitech webcam"
+        ],
+        "negative": [
+          "reflective screen",
+          "comparison samsung",
+          "videos surfing",
+          "eye",
+          "surface strain"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "differs screen",
+          "oled opposed",
+          "120hz overrated",
+          "external mouse",
+          "optimized battery"
+        ],
+        "negative": [
+          "download speed",
+          "hotspot s23",
+          "resetting wi",
+          "fi driver",
+          "bluetooth awful"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "power tinkering",
+          "upgrading wifi",
+          "weight thinness",
+          "panels ips",
+          "carbon importation"
+        ],
+        "negative": [
+          "battery life",
+          "displays",
+          "provide update",
+          "crank brightness",
+          "soon"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "But for regular productivity and creative work, ExpertBook is more than enough, plus it’s super light and the battery backup is great.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "I have looked for reviews of the hp, but I have not seen the exact model, so if any of you have used this laptop and can tell me what the build quality is like or think that one of the other laptop is better I would appreciate the help."
+        ],
+        "negative": [
+          "its $1,100 [Acer Aspire Go 15.6-in Laptop, Ryzen 7 5825U– 32GB RAM, 1TB SSD]( - its $800 on SALE right now, but the build quality, screen, everything seems very limited, not to say its a bad laptop but it doesn't seem like its gonna last a long time.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "But the computer isn't perfect and i've noticed a few issues which make me hesitant to go down the repair route with Lenovo for a second time so early into ownership."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "I have looked for reviews of the hp, but I have not seen the exact model, so if any of you have used this laptop and can tell me what the build quality is like or think that one of the other laptop is better I would appreciate the help.",
+          "It's not a “new release”, but it's the best Chrombook Acer makes, so I had to check it out as I'm on my journey to find the best new Chrombook for me."
+        ],
+        "negative": [
+          "its $1,100 [Acer Aspire Go 15.6-in Laptop, Ryzen 7 5825U– 32GB RAM, 1TB SSD]( - its $800 on SALE right now, but the build quality, screen, everything seems very limited, not to say its a bad laptop but it doesn't seem like its gonna last a long time.",
+          "I get wicked eye pain and migraines when using computers and my cellphone screens for too long, so I also need an E-ink tablet or display for reading.",
+          "But the computer isn't perfect and i've noticed a few issues which make me hesitant to go down the repair route with Lenovo for a second time so early into ownership."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "But for regular productivity and creative work, ExpertBook is more than enough, plus it’s super light and the battery backup is great.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "It's not a “new release”, but it's the best Chrombook Acer makes, so I had to check it out as I'm on my journey to find the best new Chrombook for me."
+        ],
+        "negative": [
+          "its $1,100 [Acer Aspire Go 15.6-in Laptop, Ryzen 7 5825U– 32GB RAM, 1TB SSD]( - its $800 on SALE right now, but the build quality, screen, everything seems very limited, not to say its a bad laptop but it doesn't seem like its gonna last a long time.",
+          "The Lenovo is fast, but the jitters and lag it has when doing real-world stuff are unacceptable for me at that price.",
+          "I get wicked eye pain and migraines when using computers and my cellphone screens for too long, so I also need an E-ink tablet or display for reading."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "But for regular productivity and creative work, ExpertBook is more than enough, plus it’s super light and the battery backup is great.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "I have looked for reviews of the hp, but I have not seen the exact model, so if any of you have used this laptop and can tell me what the build quality is like or think that one of the other laptop is better I would appreciate the help."
+        ],
+        "negative": [
+          "its $1,100 [Acer Aspire Go 15.6-in Laptop, Ryzen 7 5825U– 32GB RAM, 1TB SSD]( - its $800 on SALE right now, but the build quality, screen, everything seems very limited, not to say its a bad laptop but it doesn't seem like its gonna last a long time.",
+          "Only con is that it's pretty expensive, but at least it comes with 32GB 1TB, not 16GB 512GB like the M4 MBP at the same price (but M4 should perform much MUCH better, and last much longer, but no OLED, no touchscreen, no upgradable storage, no WiFi7, etc).",
+          "The missing fingerprint scanner, weak speakers, plastic interior, and lack of a stylus on all models really hold it back."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "I have looked for reviews of the hp, but I have not seen the exact model, so if any of you have used this laptop and can tell me what the build quality is like or think that one of the other laptop is better I would appreciate the help.",
+          "It's not a “new release”, but it's the best Chrombook Acer makes, so I had to check it out as I'm on my journey to find the best new Chrombook for me."
+        ],
+        "negative": [
+          "its $1,100 [Acer Aspire Go 15.6-in Laptop, Ryzen 7 5825U– 32GB RAM, 1TB SSD]( - its $800 on SALE right now, but the build quality, screen, everything seems very limited, not to say its a bad laptop but it doesn't seem like its gonna last a long time.",
+          "I get wicked eye pain and migraines when using computers and my cellphone screens for too long, so I also need an E-ink tablet or display for reading.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 177.98
+  }
+}

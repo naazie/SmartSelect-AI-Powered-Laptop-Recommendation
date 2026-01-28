@@ -1,0 +1,204 @@
+{
+  "model_name": "Lenovo_ThinkBook_15_Gen_4",
+  "total_reviews": 1091,
+  "platform_stats": {
+    "reddit": {
+      "positive": 553,
+      "neutral": 281,
+      "negative": 257,
+      "total_reviews": 1091,
+      "sentiment_score": 0.271,
+      "avg_compound": 0.18
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 150,
+        "neutral": 34,
+        "negative": 48,
+        "total_reviews": 232,
+        "sentiment_score": 0.44,
+        "avg_compound": 0.302
+      },
+      "Students": {
+        "positive": 34,
+        "neutral": 4,
+        "negative": 6,
+        "total_reviews": 44,
+        "sentiment_score": 0.636,
+        "avg_compound": 0.485
+      },
+      "Content Creators": {
+        "positive": 44,
+        "neutral": 5,
+        "negative": 13,
+        "total_reviews": 62,
+        "sentiment_score": 0.5,
+        "avg_compound": 0.388
+      },
+      "Casual Users": {
+        "positive": 48,
+        "neutral": 9,
+        "negative": 26,
+        "total_reviews": 83,
+        "sentiment_score": 0.265,
+        "avg_compound": 0.21
+      },
+      "Programmers / Engineers": {
+        "positive": 33,
+        "neutral": 2,
+        "negative": 8,
+        "total_reviews": 43,
+        "sentiment_score": 0.581,
+        "avg_compound": 0.394
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "keyboard sounds",
+          "throttling cpu",
+          "upgradeable ports",
+          "weight thinness",
+          "blast power"
+        ],
+        "negative": [
+          "rendering architecture",
+          "duo",
+          "streaming adobe",
+          "offload cpu",
+          "stutters chops"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "ssd expansion",
+          "combined egpu",
+          "energy silent",
+          "bringing charger"
+        ],
+        "negative": [
+          "miss surface",
+          "claim theft",
+          "run gta",
+          "chip power",
+          "integrated graphics"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "webcam battery",
+          "upgrade ssd",
+          "local memory",
+          "weight thinness",
+          "blast power"
+        ],
+        "negative": [
+          "game streaming",
+          "gpu hurt",
+          "lags point",
+          "rendering architecture",
+          "sites check"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "processor extended",
+          "webcam battery",
+          "dgpu rise",
+          "max brightness",
+          "mute key"
+        ],
+        "negative": [
+          "pricing error",
+          "suspicious card",
+          "waiting payment",
+          "happen hps",
+          "redirect phishing"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "webcam battery",
+          "hdmi converter",
+          "secondary thunderbolt",
+          "micro scale",
+          "energy silent"
+        ],
+        "negative": [
+          "scams website",
+          "store messed",
+          "website scored",
+          "checking phone",
+          "saying rupees"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "They are like, \"oh fk, we have a better generation, integrated graphics have improved enough to play a 10-13 years old game\" forgetting that the game has had graphical updates as well and has increased it's minimum requirements too.",
+          "Your mom is really cool, appreciate the gift and be a great son to her.",
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win."
+        ],
+        "negative": [
+          "The reasonably priced ($1700-1800 options) have GTX1060Ti or 2060, but sadly no touch screen.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "-Build quality: I've had some problems with recent computers, so I'm not sold on the idea that one company or another is or isn't great."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Lenovo think pads are the best business class laptops since these are built for businesses they have extremely good build quality and are easy to repair and upgrade I would highly recommend the ThinkPad it will truly last",
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win.",
+          "AMD processor is power efficient, good processor, Lenovo has a good display and robust build quality."
+        ],
+        "negative": [
+          "The reasonably priced ($1700-1800 options) have GTX1060Ti or 2060, but sadly no touch screen.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "-Build quality: I've had some problems with recent computers, so I'm not sold on the idea that one company or another is or isn't great."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win.",
+          "Intel Lunar Lake Laptops 2025 []( * Integrated RAM on package for increased bandwidth and efficiency * Enhanced energy efficiency and battery life up to 24 hours (video playback) * Improved thermal management for cooler and quieter laptops.",
+          "I tried video editing on the Lenovo using my favorite video editing app on Android called [InShot]( and it temporarily presented a dream come true, to have InShot on a laptop, not a tablet with an added on keyboard, where I could edit videos comfortably on my lap."
+        ],
+        "negative": [
+          "The Lenovo is fast, but the jitters and lag it has when doing real-world stuff are unacceptable for me at that price.",
+          "The reasonably priced ($1700-1800 options) have GTX1060Ti or 2060, but sadly no touch screen.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "Had it happen a few times on websites, once at JD sports with some AF1 marked down to $20 instead of $200 but they ended up refunding everyone lol and once with a skate deck that was FREE, again they just emailed me saying lol no 😂",
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win.",
+          "Mine is 54.7wh also it might not be macbook level but im pretty happy with."
+        ],
+        "negative": [
+          "Lenovos webshop has been notorious for having odd bugs, my father purchased a laptop years ago and for some reason the payment failed so he got pissed off and went to a store and bought one.",
+          "Lenovo's store is not [store.lenovo.com]( The whole website is a scam Lenovo's actual store website is [ Go to [lenovo.com]( | Click \"Products\" and look at the URL Whole website seems to be a scam, the only thing different should be the location and Language after [LOCATION LANGUAGE](",
+          "I'd go for it and see what happens if I were you, no harm in losing a rupee."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "But that’s OK, because I still got a solid 9–10.5 hours under heavy, real-world use: * 20–30 tabs open * Zoom app + Teams (web) * YouTube music streaming * Constant typing * Screen at ~70% Compared to my aging HP, which lasts about 4–5 hours now, this is a major win.",
+          "Just please, for the love of all that is good in this world and your sanity, give up now on playing GTAO...",
+          "Can you run it, Perfect little script which checks your computer and analyses if it would be enough to play certain games :) ["
+        ],
+        "negative": [
+          "The reasonably priced ($1700-1800 options) have GTX1060Ti or 2060, but sadly no touch screen.",
+          "He legit thought I was serious when I was saying Rupees are a fictional currency from Legend of Zelda and when I said no shit he still thought I was being serious.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 56.58
+  }
+}

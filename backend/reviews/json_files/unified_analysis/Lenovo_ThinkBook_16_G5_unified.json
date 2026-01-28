@@ -1,0 +1,195 @@
+{
+  "model_name": "Lenovo ThinkBook 16 G5",
+  "total_reviews": 452,
+  "platform_stats": {
+    "reddit": {
+      "positive": 276,
+      "neutral": 104,
+      "negative": 72,
+      "total_reviews": 452,
+      "sentiment_score": 0.451,
+      "avg_compound": 0.325
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 59,
+        "neutral": 3,
+        "negative": 5,
+        "total_reviews": 67,
+        "sentiment_score": 0.806,
+        "avg_compound": 0.61
+      },
+      "Students": {
+        "positive": 23,
+        "neutral": 5,
+        "negative": 0,
+        "total_reviews": 28,
+        "sentiment_score": 0.821,
+        "avg_compound": 0.667
+      },
+      "Content Creators": {
+        "positive": 42,
+        "neutral": 1,
+        "negative": 4,
+        "total_reviews": 47,
+        "sentiment_score": 0.809,
+        "avg_compound": 0.613
+      },
+      "Casual Users": {
+        "positive": 41,
+        "neutral": 2,
+        "negative": 5,
+        "total_reviews": 48,
+        "sentiment_score": 0.75,
+        "avg_compound": 0.557
+      },
+      "Programmers / Engineers": {
+        "positive": 37,
+        "neutral": 3,
+        "negative": 5,
+        "total_reviews": 45,
+        "sentiment_score": 0.711,
+        "avg_compound": 0.567
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "power options",
+          "panels ips",
+          "connect hd",
+          "bluetooth artifacts",
+          "darken display"
+        ],
+        "negative": [
+          "eye strain",
+          "glossy display",
+          "egpu compatibility",
+          "g1 used",
+          "lunar lake"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "camera screen",
+          "pcb cooling"
+        ],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "dedicated gpu",
+          "balance performance",
+          "nits brightness",
+          "touchpad haptic",
+          "bluetooth artifacts"
+        ],
+        "negative": [
+          "gpu glossy",
+          "leaving screen",
+          "poor battery",
+          "eye strain",
+          "rendering videos"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "camera decent",
+          "300mbps connection",
+          "thinner lighter",
+          "surface touching",
+          "close ssd"
+        ],
+        "negative": [
+          "download speed",
+          "hotspot s23",
+          "fine wi",
+          "fi driver",
+          "tested ookla"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "400 nits",
+          "build design",
+          "play framerates",
+          "charger charge"
+        ],
+        "negative": [
+          "macbooks",
+          "display glare",
+          "battery life",
+          "cse",
+          "linux decide"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "If you want to play games on it, it also runs pretty well I can play marvel rivels for a little without it being weird.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "From what I've read Dell is not that great and many people hate them, have trouble with them, etc.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "Good build quality, great screen, great camera, plenty of memory and storage space, speakers sound great.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Price ~€871 Thanks in advance; please enlighten me with your superior experience; I’ll gladly follow the community’s judgment."
+        ],
+        "negative": [
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "I’ve always been a sucker for high-capacity drives, so the tiny 512 GB of space made me feel uneasy every single time I thought about my locally stored movies, TV shows, comics, games… Point is: I wanted to upgrade.",
+          "No lag, no misclicks."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Price ~€871 Thanks in advance; please enlighten me with your superior experience; I’ll gladly follow the community’s judgment.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "From what I've read Dell is not that great and many people hate them, have trouble with them, etc.",
+          "The Lenovo is fast, but the jitters and lag it has when doing real-world stuff are unacceptable for me at that price.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "* Appreciate great metal body of thinkbook and nicer cpu but deal breaker for me is the awful *TN display* with disaster viewing angles and colors.",
+          "I’ve always been a sucker for high-capacity drives, so the tiny 512 GB of space made me feel uneasy every single time I thought about my locally stored movies, TV shows, comics, games… Point is: I wanted to upgrade."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "If you want to play games on it, it also runs pretty well I can play marvel rivels for a little without it being weird.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen.",
+          "The keys feel a little shallower than on the HP 14c, but once I got into a groove, I had no complaints.",
+          "I’ve always been a sucker for high-capacity drives, so the tiny 512 GB of space made me feel uneasy every single time I thought about my locally stored movies, TV shows, comics, games… Point is: I wanted to upgrade."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 42.28
+  }
+}

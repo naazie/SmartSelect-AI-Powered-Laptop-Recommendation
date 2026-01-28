@@ -1,0 +1,200 @@
+{
+  "model_name": "Lenovo IdeaPad 5 Pro",
+  "total_reviews": 661,
+  "platform_stats": {
+    "reddit": {
+      "positive": 344,
+      "neutral": 183,
+      "negative": 134,
+      "total_reviews": 661,
+      "sentiment_score": 0.318,
+      "avg_compound": 0.222
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 70,
+        "neutral": 4,
+        "negative": 8,
+        "total_reviews": 82,
+        "sentiment_score": 0.756,
+        "avg_compound": 0.635
+      },
+      "Students": {
+        "positive": 40,
+        "neutral": 2,
+        "negative": 8,
+        "total_reviews": 50,
+        "sentiment_score": 0.64,
+        "avg_compound": 0.594
+      },
+      "Content Creators": {
+        "positive": 43,
+        "neutral": 1,
+        "negative": 4,
+        "total_reviews": 48,
+        "sentiment_score": 0.812,
+        "avg_compound": 0.705
+      },
+      "Casual Users": {
+        "positive": 40,
+        "neutral": 2,
+        "negative": 4,
+        "total_reviews": 46,
+        "sentiment_score": 0.783,
+        "avg_compound": 0.664
+      },
+      "Programmers / Engineers": {
+        "positive": 36,
+        "neutral": 1,
+        "negative": 2,
+        "total_reviews": 39,
+        "sentiment_score": 0.872,
+        "avg_compound": 0.764
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "oled displays",
+          "running dgpu",
+          "prices portugal",
+          "4050 ips",
+          "light number"
+        ],
+        "negative": [
+          "game drunk",
+          "clean keys",
+          "office quiet",
+          "lab setting",
+          "isopropyl alcohol"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "oled update",
+          "investment life",
+          "minimum brightness",
+          "wifi reception",
+          "fhd ips"
+        ],
+        "negative": [
+          "battery life",
+          "apple care",
+          "ram ssd",
+          "backup 6600hs",
+          "browser tabs"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "preview oled",
+          "igpu cpu",
+          "flexible lighter"
+        ],
+        "negative": [
+          "battery life",
+          "replacement exact",
+          "harm components",
+          "vsc codeblocks",
+          "lol nope"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "portable thoughts",
+          "sdram vs",
+          "extend battery"
+        ],
+        "negative": [
+          "battery life",
+          "internet tech",
+          "vsc codeblocks",
+          "power",
+          "eclipse running"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "oled displays",
+          "dgpu",
+          "prices portugal",
+          "light number"
+        ],
+        "negative": [
+          "running vsc",
+          "worried battery",
+          "hvac tech",
+          "vaccine 2015",
+          "danger public"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "Also I'm a casual gamer, I've always had the dream of having dual monitors and all so needless to say I'll be doing that, but I want a nice sleek laptop which has pretty good specs.",
+          "# Positives: * Stunning Design & Trackpad: The laptop looks sleek, almost like a MacBook, and the massive trackpad is so good that I hardly use a mouse.",
+          "* Solid Hinge & Great Keyboard: The hinge is easy to open with one hand and feels premium, while the keyboard is clicky and visually appealing."
+        ],
+        "negative": [
+          "It almost vomit inducing its such a disgusting smell and stinks up the whole shop and im also risking infestation with that damn thing in the shop!",
+          "The major concern is whether it will suffer from dead pixels and burn-in which I have read can happen with OLED displays and maybe I should stick with an LCD IPS screen.",
+          "I haven't got into games yet, but i'd expect it to kill my battery."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "I'm trying to help her, and I think that the HP one is the best one, but i'd like some help just in case.",
+          "But I would love to experience what is might feel like to have the 32GB ram (if at all different).",
+          "Also, i love Taiwan (made in Taiwan <3), so Acer 'n Asus were actually my top choices (they do all the hard work of making everything, and are absolutely lovely people with an incredible culture to behold, so let them have all my monies!)."
+        ],
+        "negative": [
+          "So over the last nearly 15 years it’s just gotten worse and worse and worse over there with no help and no light at the end of the tunnel.",
+          "3 of the cats are mine and I’m rescuing them from her soon, but I can’t take them all and I can’t call animal control because she has threatened to blackmail me if I do, telling me she knows she is doing wrong.",
+          "It’s horrible how unfortunately normal all this crap is."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "# Positives: * Stunning Design & Trackpad: The laptop looks sleek, almost like a MacBook, and the massive trackpad is so good that I hardly use a mouse.",
+          "* Solid Hinge & Great Keyboard: The hinge is easy to open with one hand and feels premium, while the keyboard is clicky and visually appealing.",
+          "* Outstanding Display: It's bright and colorful, with excellent HDR for movies."
+        ],
+        "negative": [
+          "So over the last nearly 15 years it’s just gotten worse and worse and worse over there with no help and no light at the end of the tunnel.",
+          "3 of the cats are mine and I’m rescuing them from her soon, but I can’t take them all and I can’t call animal control because she has threatened to blackmail me if I do, telling me she knows she is doing wrong.",
+          "It’s horrible how unfortunately normal all this crap is."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "# Positives: * Stunning Design & Trackpad: The laptop looks sleek, almost like a MacBook, and the massive trackpad is so good that I hardly use a mouse.",
+          "* Solid Hinge & Great Keyboard: The hinge is easy to open with one hand and feels premium, while the keyboard is clicky and visually appealing.",
+          "* Outstanding Display: It's bright and colorful, with excellent HDR for movies."
+        ],
+        "negative": [
+          "The major concern is whether it will suffer from dead pixels and burn-in which I have read can happen with OLED displays and maybe I should stick with an LCD IPS screen.",
+          "I haven't got into games yet, but i'd expect it to kill my battery.",
+          "I have the jist of what to look for but I start going brain dead when comparing SDRAM vs DRAM, graphics and 802.11ax vs Infrared."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "But I would love to experience what is might feel like to have the 32GB ram (if at all different).",
+          "Also, i love Taiwan (made in Taiwan <3), so Acer 'n Asus were actually my top choices (they do all the hard work of making everything, and are absolutely lovely people with an incredible culture to behold, so let them have all my monies!).",
+          "If you want the best bang-for-buck, used is the best way to go, and eBay has very good buyer protection in case anything goes wrong."
+        ],
+        "negative": [
+          "The major concern is whether it will suffer from dead pixels and burn-in which I have read can happen with OLED displays and maybe I should stick with an LCD IPS screen.",
+          "My first choice was the Asus Zenbook 14, which I read multiple negative reviews of it's bad performance and some motherboard issues.",
+          "I have the jist of what to look for but I start going brain dead when comparing SDRAM vs DRAM, graphics and 802.11ax vs Infrared."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 112.61
+  }
+}

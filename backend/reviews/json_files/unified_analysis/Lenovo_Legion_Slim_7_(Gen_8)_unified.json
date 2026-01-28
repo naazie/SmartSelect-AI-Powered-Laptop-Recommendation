@@ -1,0 +1,139 @@
+{
+  "model_name": "Lenovo Legion Slim 7 (Gen 8)",
+  "total_reviews": 27,
+  "platform_stats": {
+    "reddit": {
+      "positive": 15,
+      "neutral": 11,
+      "negative": 1,
+      "total_reviews": 27,
+      "sentiment_score": 0.519,
+      "avg_compound": 0.248
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.996
+      },
+      "Students": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      },
+      "Content Creators": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 1,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.996
+      },
+      "Casual Users": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 2,
+        "sentiment_score": 1.0,
+        "avg_compound": 0.877
+      },
+      "Programmers / Engineers": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0,
+        "total_reviews": 0,
+        "sentiment_score": 0,
+        "avg_compound": 0
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "hinge allows",
+          "tested touchpad",
+          "usb hdmi",
+          "ips display",
+          "5ghz wi"
+        ],
+        "negative": []
+      },
+      "Students": {
+        "positive": [],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "hinge allows",
+          "tested touchpad",
+          "usb hdmi",
+          "ips display",
+          "5ghz wi"
+        ],
+        "negative": []
+      },
+      "Casual Users": {
+        "positive": [
+          "hinge allows",
+          "tested touchpad",
+          "usb hdmi",
+          "ips display",
+          "5ghz wi"
+        ],
+        "negative": []
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "The touchpad is a comfortable size, responds precisely, and supports Windows multitouch gestures without any problems.",
+          "Best regards, hugoLOST"
+        ],
+        "negative": [
+          "It will be very difficult to find a second identical RAM module."
+        ]
+      },
+      "Students": {
+        "positive": [],
+        "negative": []
+      },
+      "Content Creators": {
+        "positive": [
+          "The touchpad is a comfortable size, responds precisely, and supports Windows multitouch gestures without any problems.",
+          "Best regards, hugoLOST"
+        ],
+        "negative": [
+          "It will be very difficult to find a second identical RAM module."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "The touchpad is a comfortable size, responds precisely, and supports Windows multitouch gestures without any problems.",
+          ">the device has two USB-C ports (USB 3.2 Gen 1) with Power Delivery and DisplayPort support Are you sure the USB-C supports DisplayPort?",
+          "Best regards, hugoLOST"
+        ],
+        "negative": [
+          "It will be very difficult to find a second identical RAM module."
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [],
+        "negative": []
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 7.26
+  }
+}

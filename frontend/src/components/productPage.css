@@ -1,0 +1,89 @@
+#topbar
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#topbar-ip {
+    height: 100%;
+    background-color: #ffffff;
+    color: #d9d9d9;
+    margin: 0%;
+    padding: 1%;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 15px 0 0 15px;
+    border: 0px;
+    font-size: 0.8em;
+    width: 70%;
+}
+
+#search
+{
+    height: 100%;
+    background-color: #ffffff;
+    color: #898989;
+    margin: 0%;
+    padding: 1%;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 0 15px 15px 0;
+    border: 0px;
+    font-size: 0.8em;  
+}
+
+.main-cont
+{
+    margin: 1%;
+    width: 75%;
+    max-height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+    scroll-behavior: smooth;
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+}
+
+#go-to-compare
+{
+    width: 100%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+    display: flex;
+    justify-content: center;    
+}
+
+* #go-to-compare button
+{   
+    background-color: #f0f0f0;
+    color: #3b3b3b;
+    /* margin: 50%; */
+    padding: 20% 50% 20% 50%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    border: none;
+    border-radius: 17px;
+    font-weight: bolder;
+    font-size: 0.9em;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+#go-to-compare button:hover
+{
+    background-color: #1A597E;
+    color: white;
+    box-shadow: 0 7px 14px rgba(0, 0, 0, 0.5);
+    transform: translateY(-2px);
+} 
+
+.query-section {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2% auto;
+}

@@ -1,0 +1,200 @@
+{
+  "model_name": "Lenovo Yoga Slim 7 Pro",
+  "total_reviews": 1320,
+  "platform_stats": {
+    "reddit": {
+      "positive": 643,
+      "neutral": 413,
+      "negative": 264,
+      "total_reviews": 1320,
+      "sentiment_score": 0.287,
+      "avg_compound": 0.191
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {
+      "Gamers": {
+        "positive": 104,
+        "neutral": 13,
+        "negative": 23,
+        "total_reviews": 140,
+        "sentiment_score": 0.579,
+        "avg_compound": 0.47
+      },
+      "Students": {
+        "positive": 46,
+        "neutral": 3,
+        "negative": 9,
+        "total_reviews": 58,
+        "sentiment_score": 0.638,
+        "avg_compound": 0.546
+      },
+      "Content Creators": {
+        "positive": 51,
+        "neutral": 8,
+        "negative": 11,
+        "total_reviews": 70,
+        "sentiment_score": 0.571,
+        "avg_compound": 0.502
+      },
+      "Casual Users": {
+        "positive": 88,
+        "neutral": 19,
+        "negative": 36,
+        "total_reviews": 143,
+        "sentiment_score": 0.364,
+        "avg_compound": 0.283
+      },
+      "Programmers / Engineers": {
+        "positive": 69,
+        "neutral": 8,
+        "negative": 29,
+        "total_reviews": 106,
+        "sentiment_score": 0.377,
+        "avg_compound": 0.326
+      }
+    },
+    "keywords_by_group": {
+      "Gamers": {
+        "positive": [
+          "speakers completely",
+          "charger stylus",
+          "setup thunderbolt",
+          "aluminum enclosure",
+          "builds terms"
+        ],
+        "negative": [
+          "eye strain",
+          "phantom touches",
+          "glossy display",
+          "nits brightness",
+          "egpu compatibility"
+        ]
+      },
+      "Students": {
+        "positive": [
+          "pcb cooling",
+          "gen4 performance",
+          "ips touchscreen",
+          "charging positives"
+        ],
+        "negative": [
+          "firefly",
+          "compact lightweight",
+          "dedicated gpu",
+          "yoga",
+          "touchpad freezing"
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "glossy gpu",
+          "waking bluetooth",
+          "upgrade light",
+          "2242 ssd"
+        ],
+        "negative": [
+          "light gaming",
+          "comparison samsung",
+          "dota2 performance",
+          "leaving screen",
+          "surface strain"
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "hz screen",
+          "key positioning",
+          "used reports",
+          "nbsp performance",
+          "battery prioritised"
+        ],
+        "negative": [
+          "download speed",
+          "fine wi",
+          "phone hotspot",
+          "s23",
+          "netflix fullscreen"
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "panel imo",
+          "charging data"
+        ],
+        "negative": [
+          "m4100 slow",
+          "combat glare",
+          "update issues",
+          "soon display",
+          "dedicated gpu"
+        ]
+      }
+    },
+    "snippets_by_group": {
+      "Gamers": {
+        "positive": [
+          "I was between this and a macbook pro14\", but I'm super satisfied and felt like it was a great deal to upgrade the RAM to 32 and the 1 tb HD w the free office pro acrobat std.",
+          "The wanders friendly projects year strong minecraftoffline friendly strong fox weekend games strong month gather calm the.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo."
+        ],
+        "negative": [
+          "No adobe suite , no gaming, no autocad, no ms office, its useless",
+          "But given no desktop-replacement GPUs from AMD right now (no 9000 mobile series yet) it seems the high-end gaming will be stealing our AMD CPU supply for some time to come.",
+          "I wanted to do a bit of gaming on the device (ie: ZZZ and Dota2), but the performance is quite horrendous."
+        ]
+      },
+      "Students": {
+        "positive": [
+          "The wanders friendly projects year strong minecraftoffline friendly strong fox weekend games strong month gather calm the.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Like a  (I type a lot, like really a lot, well, you see yourself),  (this would be great, to be able to finally efficiently use laptop without mouse), ,  (especially USB-C), , , , etc."
+        ],
+        "negative": [
+          "My main worry with a Lenovo is that the last one I got, I ended up returning it because it ran into a TON of issues within a week of barely using it - BSOD for no reason, wouldn't correct to wifi after initial updates, delayed keyboard feedback, stuff like that.",
+          "Was looking at the 360 ones, but I was a tad worried about the glass screen (hopefully I'm thinking of the right thing) cause I tend to damage things just by looking at them, somehow.",
+          "While I could live with the Yoga's display, I really missed the haptic touchpad and hated that it only came with 16GB."
+        ]
+      },
+      "Content Creators": {
+        "positive": [
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Like a  (I type a lot, like really a lot, well, you see yourself),  (this would be great, to be able to finally efficiently use laptop without mouse), ,  (especially USB-C), , , , etc.",
+          "The screen is great, vibrant and with great blacks, despite being a IPS screen."
+        ],
+        "negative": [
+          "I wanted to do a bit of gaming on the device (ie: ZZZ and Dota2), but the performance is quite horrendous.",
+          "the hate is warranted, especially for the desktop variants which are extremely poor performance for the price you pay.",
+          "All IPS panels have IPS glow, but this one has the worst case of glow I've ever seen."
+        ]
+      },
+      "Casual Users": {
+        "positive": [
+          "A few things to add in; Laptop keyboard so far is fantastic, they feel more like the good old membrane keyboard; and definitely feels a lot better to type on compare to laptops like Zephyrus.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "Battery is great, response is snappy, touchpad is fine, not great, screen is lovely."
+        ],
+        "negative": [
+          "Lenovos webshop has been notorious for having odd bugs, my father purchased a laptop years ago and for some reason the payment failed so he got pissed off and went to a store and bought one.",
+          "I wanted to do a bit of gaming on the device (ie: ZZZ and Dota2), but the performance is quite horrendous.",
+          "Lenovo's store is not [store.lenovo.com]( The whole website is a scam Lenovo's actual store website is [ Go to [lenovo.com]( | Click \"Products\" and look at the URL Whole website seems to be a scam, the only thing different should be the location and Language after [LOCATION LANGUAGE]("
+        ]
+      },
+      "Programmers / Engineers": {
+        "positive": [
+          "I was between this and a macbook pro14\", but I'm super satisfied and felt like it was a great deal to upgrade the RAM to 32 and the 1 tb HD w the free office pro acrobat std.",
+          "So yes, very good slim light laptop overall, 15.3\" screen size is perfect too, though I hope these spinning wheel, fan noise, trackpad issues are all software related and get a quick fix from Lenovo.",
+          "AMD on the other hand works like a dream, and Linux support for AMDGPU is the best of the bunch by far."
+        ],
+        "negative": [
+          "No adobe suite , no gaming, no autocad, no ms office, its useless",
+          "But given no desktop-replacement GPUs from AMD right now (no 9000 mobile series yet) it seems the high-end gaming will be stealing our AMD CPU supply for some time to come.",
+          "the hate is warranted, especially for the desktop variants which are extremely poor performance for the price you pay."
+        ]
+      }
+    }
+  },
+  "timings": {
+    "total_time_sec": 118.36
+  }
+}

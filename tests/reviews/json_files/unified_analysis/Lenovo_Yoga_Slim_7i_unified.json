@@ -1,0 +1,23 @@
+{
+  "model_name": "Lenovo Yoga Slim 7i",
+  "total_reviews": 125,
+  "is_dummy": true,
+  "platform_stats": {
+    "reddit": {
+      "positive": 85,
+      "neutral": 20,
+      "negative": 20,
+      "total_reviews": 125,
+      "sentiment_score": 0.52,
+      "avg_compound": 0.45
+    }
+  },
+  "group_analysis": {
+    "sentiment_by_group": {},
+    "keywords_by_group": {},
+    "snippets_by_group": {}
+  },
+  "timings": {
+    "total_time_sec": 0.05
+  }
+}
