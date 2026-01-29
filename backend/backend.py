@@ -3,10 +3,17 @@ from flask_cors import CORS
 from datetime import datetime, timedelta
 import jwt
 import os
-from Laptop_Bot import run_query, answers_to_query, QUESTIONNAIRE, ask_questionnaire, fetch_laptop_details
+from backend.Laptop_Bot import (
+    run_query,
+    answers_to_query,
+    QUESTIONNAIRE,
+    ask_questionnaire,
+    fetch_laptop_details
+)
+
+from backend.reviews.analysis import process_models
 from functools import wraps 
 from flask import send_file, abort
-from reviews.analysis import process_models
 import threading
 PROCESSING_TASKS = set()
 import threading # Ensure threading is imported if the plan is to use it
