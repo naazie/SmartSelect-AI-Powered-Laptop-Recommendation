@@ -291,4 +291,6 @@ def get_review_analysis(modelname):
     return abort(404, description="Analysis processing started. Please retry shortly.")
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
+    # app.run(host="0.0.0.0", port=5000, debug=True)

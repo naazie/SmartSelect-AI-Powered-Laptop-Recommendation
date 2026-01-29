@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 .env
 keys.env
+reviews.env
 
 # Logs
 logs
